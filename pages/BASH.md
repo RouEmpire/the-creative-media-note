@@ -7,3 +7,7 @@
 - Use `cat` to print contents in a text file to the terminal
 - Script can be write multiple line, execute like interpreter
 	- ```
+	  ls
+	  pwd
+	  ```
+	-
