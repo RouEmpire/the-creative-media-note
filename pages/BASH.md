@@ -1,0 +1,2 @@
+- BASH is a dependencies coding language
+- We use `echo` to print anything
