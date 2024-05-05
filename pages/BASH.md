@@ -23,4 +23,6 @@
 	  pwd
 	  ```
 - This will tells the Shell which [[runtime]] or [[intepreter]]  to execute this BASH Script
-- {{Can we do Multiple Output And print A VArible}}
+- {{query Can we do Multiple Output And print A Variable in `echo` ?}}
+-
+-
