@@ -1,4 +1,5 @@
 - Shebang start at the first line of the file
 - She bang always start with `#!`
 - example `#!/bin/bash` or `#!/bin/fish
-- Every Single thing in
+- Every Single thing in shebang has meaning
+	- `#` means *This is shebang* we typw
