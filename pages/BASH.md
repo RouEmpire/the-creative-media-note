@@ -23,6 +23,7 @@
 	  pwd
 	  ```
 - This will tells the Shell which [[runtime]] or [[intepreter]]  to execute this BASH Script
-- {{query (and [[BASH]] [[shebang]] )}}
+- {{query (and [[BASH]] [[shebang]]) }}
+-
 -
 -
