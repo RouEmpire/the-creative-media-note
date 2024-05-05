@@ -10,4 +10,5 @@
 	  ls
 	  pwd
 	  ```
-	-
+	- it will run respectively line-by-line
+-
