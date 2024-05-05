@@ -5,4 +5,4 @@
 	- `#` means *This is shebang* we type this to start shebang
 	- `!` means _root directory_ this is like we are in a root, the `/` need to be present after this
 	- `/` means sub-directory, the next word after `/` is a deeper directory name
--
+- generally, when the `#` start, the rest of the line
