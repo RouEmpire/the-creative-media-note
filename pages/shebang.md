@@ -1,3 +1,3 @@
 - Shebang start at the first line of the file
 - She bang always start with `#!`
-- example `#!`
+- example `#!/bin/bash` or `#!/bin/fish
