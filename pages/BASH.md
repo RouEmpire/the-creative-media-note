@@ -8,6 +8,7 @@
 - use `pwd` to print you current working directory
 - Script can be write multiple line, execute like interpreter
 	- ```
+	  echo "Hello Word"
 	  ls
 	  pwd
 	  ```
