@@ -7,16 +7,18 @@
 - Use `cat` to print contents in a text file to the terminal
 - use `pwd` to print you current working directory
 - Script can be write multiple line, execute like interpreter
-	- ```
+	- `
 	  echo "Hello Word"
 	  ls
 	  pwd
-	  ```
+	  `
 	- it will run respectively line-by-line
 - in every first line of BASH script, we need to type #shebang
-	- ```
+	- `
 	- #!/bin/bash
 	-
-	- echo ""
-	- ```
+	- echo "Hello World"
+	- ls
+	- pwd
+	- `
 -
