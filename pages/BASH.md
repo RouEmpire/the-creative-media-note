@@ -1,2 +1,4 @@
 - BASH is a dependencies coding language
 - We use `echo` to print anything to terminal
+- Use command `echo $SHELL` to know what SHell you are using
+-
