@@ -16,8 +16,9 @@
 - in every first line of BASH script, we need to type #shebang
 	- ```
 	  #!/bin/bash
-
+	  
 	  echo "Hello World"
 	  ls
-	  pwd```
--
+	  pwd
+	  ```
+- This will tells the Shell which runtime to execute this BASH Script
