@@ -12,8 +12,9 @@
 	  ls
 	  pwd
 	  ```
-	- <samp> Hello World </samp>
-	-
 	- it will run respectively line-by-line
 - in every first line of BASH script, we need to type #shebang
+	- ```
+	-
+	- ```
 -
