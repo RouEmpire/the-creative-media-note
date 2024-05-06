@@ -25,5 +25,9 @@
 - This will tells the Shell which [[runtime]] or [[intepreter]]  to execute this BASH Scrip
 - # Class 2
 - This is the syntax to declare the variable, use `var` for Variable name and `val` for its Value
-- ``` 
+- ```sh
+  #!/bin/bash
+  
+   var="val"
+  echo $var
   ```
