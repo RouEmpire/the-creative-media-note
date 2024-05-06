@@ -51,5 +51,6 @@
 - ```
   ls="Hello Again"
   
-  echo 
+  echo $ls  # print "Hello Again"
+  echo  ls
   ```
