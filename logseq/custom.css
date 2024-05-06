@@ -1,5 +1,9 @@
 
-
+a.tag {
+	font-family:"Fira Code";
+	background-color:black;
+	border:white 2px solid;
+}
 .page-ref {
 	font-family:"Fira Code";
 }
