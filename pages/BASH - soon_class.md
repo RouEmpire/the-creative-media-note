@@ -54,4 +54,5 @@
   echo $ls  # print "Hello Again"
   echo  ls  # run 'ls' command
   ```
+- Use `exit` command to exit the terminal and **clear all the declared varible**
 -
