@@ -32,4 +32,8 @@
    echo  $var   #correct
    echo "$var"  #also correct
   ```
--
+- Such as...
+- ```sh
+- USER_NAME="RouEmpire"
+- echo "Hello , $"
+- ```
