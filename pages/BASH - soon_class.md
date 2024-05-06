@@ -37,4 +37,5 @@
   USER_NAME="RouEmpire"
   echo "Hello , $USER_NAME"
   ```
-- <samp> Hello , RouEmpire </sam
+- The Output is : <samp> Hello , RouEmpire </samp>
+-
