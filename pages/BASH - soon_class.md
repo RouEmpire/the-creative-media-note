@@ -7,7 +7,7 @@ Language:: [[BASH]]
 - Use command `echo $SHELL` to know what SHell you are using
 - Use `nano` to create or edit any `.sh` files
 - to make that `.sh` use command `chmod` so it's executable
-- `chmod +x mycript.sh` for example, `+x` is to add excutable #permissions
+- `chmod +x mycript.sh` for example, `+x` is to add excutable permissions
 	- Use `cat` to print contents in a text file to the terminal
 - use `pwd` to print you current working directory
 - Script can be write in multiple line, execute like interpreter
