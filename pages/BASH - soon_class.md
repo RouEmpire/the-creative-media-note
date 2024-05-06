@@ -24,13 +24,11 @@
 	  ```
 - This will tells the Shell which [[runtime]] or [[intepreter]]  to execute this BASH Scrip
 - # Class 2
-- This is the syntax to declare the variable, use `var` for Variable name and `val` for its Value. To Access its Value, insert `$` at the begin of the variable name, such as `$var` 
-  #+BEGIN_COMMENT
-  sadgfhj
-  #+END_COMMENT
+- This is the syntax to declare the variable, use `var` for Variable name and `val` for its Value. To Access its Value, insert `$` at the begin of the variable name, such as `$var` _Do this after declaretions_
 - ```sh
   #!/bin/bash
   
    var="val"
   echo $var
   ```
+-
