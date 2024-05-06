@@ -49,5 +49,7 @@
 - ## Why we need to use `$`
 - We declare varible for using it later, but some times it has a _conflict_ with other things, if we create a varible name `ls` and use it as `$ls`, the [[intepreter]] will use its value, if its has no `$` the command name `ls` will be run instead
 - ```
+  ls="Hello Again"
   
+  echo 
   ```
