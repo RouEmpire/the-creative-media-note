@@ -26,7 +26,8 @@
   ---
 - we can create a files we `.sh` extension _or even no extension at all_ to run the BASH script, incase the file name is `myscript.sh` we type _path to that file_ in terminal to execute that file, incase we are in the same directory of that file, run `./myscript.sh`
 	- `.` means _this directory_, it points the file at the current folder you're in
-	- `/` means _then_, we put other directory name or other file name in here,
+	- `/` means _then_, we put other directory name or other file name in here, if it's a file, it's execute it
+	- `myscript.sh` in
 - # Class 2
 - This is the syntax to declare the variable, use `var` for Variable name and `val` for its Value. To Access its Value, insert `$` at the begin of the variable name, such as `$var` _Do this after declaretions_
 - ```sh
@@ -43,5 +44,5 @@
   ```
 - The Output is : <samp> Hello , RouEmpire </samp>
   id:: 6638206c-1929-4f01-a39e-9b7ebc2d61f0
-- ((6638206c-1929-4f01-a39e-9b7ebc2d61f0))
+- ((6638206c-1929-4f01-a39e-9b7ebc2d61f0)
 -
