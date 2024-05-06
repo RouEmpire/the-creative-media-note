@@ -18,7 +18,7 @@ Language:: [[BASH]]
 	  ```
 	- it will run respectively line-by-line
 - in every first line of BASH script, we need to type [[shebang]]
-	- ```sh
+	- ```bash
 	  #!/bin/bash
 	  
 	  echo "Hello World"
