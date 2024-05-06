@@ -15,7 +15,7 @@
 	  ```
 	- it will run respectively line-by-line
 - in every first line of BASH script, we need to type [[shebang]]
-	- ```bash
+	- ```sh
 	  #!/bin/bash
 	  
 	  echo "Hello World"
@@ -55,4 +55,5 @@
   echo  ls  # run 'ls' command
   ```
 - Use `exit` command to exit the terminal and **clear all the declared varible**
+- ## Example
 -
