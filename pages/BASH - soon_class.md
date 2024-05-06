@@ -46,4 +46,5 @@
 - The Output is : <samp> Hello , RouEmpire </samp>
   id:: 6638206c-1929-4f01-a39e-9b7ebc2d61f0
 - If we try to `echo` a variable that doesn't exists, it will print **An Empty String**
--
+- ## Why we need to use `$`
+- We declare varible for using it later, but some times it has a _conflict_ with other things
