@@ -2,6 +2,10 @@
 	font-family:'Noto Sans';
 	font-weight:Bold;
 }*/
+html {
+	font-family:'DM Montra';
+}
+
 samp {
 	font-family:'Fira Code','Fira Sans','Courier New','monospace';
 }
