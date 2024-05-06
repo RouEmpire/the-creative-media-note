@@ -1,4 +1,5 @@
-Type:: Programming Language
+Type:: [[Programming Language]]
+Language:: [[BASH]]
 
 - # Class 1
 - BASH is a dependencies coding language
