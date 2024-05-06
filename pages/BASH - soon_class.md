@@ -8,14 +8,14 @@
 - Use `cat` to print contents in a text file to the terminal
 - use `pwd` to print you current working directory
 - Script can be write in multiple line, execute like interpreter
-	- ```sh
+	- ```bash
 	  echo "Hello Word"
 	  ls
 	  pwd
 	  ```
 	- it will run respectively line-by-line
 - in every first line of BASH script, we need to type [[shebang]]
-	- ```sh
+	- ```bash
 	  #!/bin/bash
 	  
 	  echo "Hello World"
@@ -31,7 +31,7 @@
 - # Class 2
 - ## How to declare varible
 - This is the syntax to declare the variable, use `var` for Variable name and `val` for its Value. To Access its Value, insert `$` at the begin of the variable name, such as `$var` _Do this after declaretions_
-- ```sh
+- ```bash
   #!/bin/bash
   
    var="val"
@@ -39,7 +39,7 @@
    echo "$var"  #also correct
   ```
 - Such as...
-- ```sh
+- ```bash
   USER_NAME="RouEmpire"
   echo "Hello , $USER_NAME"
   ```
@@ -48,7 +48,7 @@
 - If we try to `echo` a variable that doesn't exists, it will print **An Empty String**
 - ## Why we need to use `$`
 - We declare varible for using it later, but some times it has a _conflict_ with other things, if we create a varible name `ls` and use it as `$ls`, the [[intepreter]] will use its value, if its has no `$` the command name `ls` will be run instead
-- ```sh
+- ```bash
   ls="Hello Again"
   
   echo $ls  # print "Hello Again"
