@@ -24,7 +24,8 @@
 	  ```
 - This will tells the Shell which [[runtime]] or [[intepreter]]  to execute this BASH Scrip
   ---
-- we can create a files we `.sh` extension _or even no extension at all_ to run the BASH script, incase the file name is `myscript.sh` we type _path to that file_ in terminal to execute that file, incase we are in the same directory of that file, run
+- we can create a files we `.sh` extension _or even no extension at all_ to run the BASH script, incase the file name is `myscript.sh` we type _path to that file_ in terminal to execute that file, incase we are in the same directory of that file, run `./myscript.sh`
+	- `.` means _this directory_, it points the
 - # Class 2
 - This is the syntax to declare the variable, use `var` for Variable name and `val` for its Value. To Access its Value, insert `$` at the begin of the variable name, such as `$var` _Do this after declaretions_
 - ```sh
