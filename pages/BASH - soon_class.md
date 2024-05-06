@@ -29,6 +29,6 @@
   #!/bin/bash
   
    var="val"
-  echo $var
+   echo $var
   ```
 -
