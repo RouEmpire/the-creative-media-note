@@ -16,10 +16,11 @@ samp {
 }
 #root {
 	font-weight:bold;
+	font-family:"TH Sarabun New";
 }
-#root div {
+#root d/*iv {
 font-family:"Noto Sans Thai";
 font-color:green;
 --ls-primary-background-color: #55aa55;
 --ls-secondary-background-color: #5555aa;
-}
+}*/

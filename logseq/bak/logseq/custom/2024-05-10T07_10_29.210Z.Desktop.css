@@ -1,0 +1,14 @@
+
+a.tag {
+	font-family:"Fira Code";
+	background-color:black;
+	border:white 2px solid;
+	color:white;
+}
+.page-ref {
+	font-family:"Fira Code";
+}
+
+samp {
+	font-family:'Fira Code','Fira Sans','Courier New','monospace';
+}
