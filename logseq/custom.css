@@ -16,11 +16,8 @@ samp {
 }
 #root {
 	font-weight:bold;
-	font-family:"Noto Sans Thai";
+	font-family:"Noto Sans Thai","Noto Sans";
 }
-/*#root div {
-font-family:"Noto Sans Thai";
-font-color:green;
---ls-primary-background-color: #55aa55;
---ls-secondary-background-color: #5555aa;
-}*/
+#root div {
+	font-family:"DM Montra","Noto Sans Thai","Noto Sans";
+}
