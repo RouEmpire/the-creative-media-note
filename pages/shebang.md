@@ -1,4 +1,6 @@
--
+Type:: [[Programming Features]] 
+Language:: All Shelll Languages, in cluding [BASH](BASH - soon_class)
+
 - Shebang start at the first line of the file
 - She bang always start with `#!`
 - example `#!/bin/bash` or `#!/bin/fish
