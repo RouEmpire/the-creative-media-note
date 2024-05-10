@@ -20,4 +20,5 @@ language:: [[HTML]]
 	- Create by 2 Standford University Student in the year 1994
 		- Jerry Wang
 		- David Filo
-	- In Yahoo, Developers
+	- In Yahoo, Developers have too submit it to Yahoo, so it can be appear in Yahoo Search Engine
+	- Yahoo
