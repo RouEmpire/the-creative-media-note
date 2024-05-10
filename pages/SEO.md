@@ -15,4 +15,4 @@ language:: [[HTML]]
 	- DuckDuckGo's Bots
 - # How Search Engine Works
 - ## Evolution of Search Engines
--
+- In The Back of The Day, there are 2 main search engines, there're **Google** and **Yahoo**
