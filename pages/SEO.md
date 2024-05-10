@@ -21,4 +21,5 @@ language:: [[HTML]]
 		- Jerry Wang
 		- David Filo
 	- In Yahoo, Developers have too submit it to Yahoo, so it can be appear in Yahoo Search Engine
-	- Yahoo
+	- Yahoo has a large repository/database of the submitted website
+- Google
