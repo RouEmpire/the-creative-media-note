@@ -24,7 +24,7 @@ language:: [[HTML]]
 	- In Yahoo, Developers have too submit it to Yahoo, so it can be appear in Yahoo Search Engine
 	- Yahoo has a large repository/database of the submitted website
 	- Yahoo focus on website content, like if there are keyword (That users searched) in website appears 100 times, it'll be a higher rank (This led to a bad search result)
-	- Micros
+	- Microsoft partnered with Yahoo to created Bing and Fight Google, this fight holds for 2 decades and still in a warfare
 - Google #card
   id:: 663e4a91-3b57-44e2-89fc-a08be2847290
 	- Google was founded by 2 Standford University Student in year 1996
