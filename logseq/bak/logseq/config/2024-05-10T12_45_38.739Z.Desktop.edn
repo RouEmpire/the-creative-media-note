@@ -423,5 +423,4 @@
  :editor/logical-outdenting? true
  :editor/preferred-pasting-file? true
  :graph/settings {:journal? false
- :builtin-pages? false
- :excluded-pages? true}}
+ :builtin-pages? true}}
