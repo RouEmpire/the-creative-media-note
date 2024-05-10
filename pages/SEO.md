@@ -29,3 +29,4 @@ language:: [[HTML]]
 		- Larry Page
 		- Sergey Brin
 	- Google was initially known as "BackRub"
+	- Google different from Yahoo because its use ""
