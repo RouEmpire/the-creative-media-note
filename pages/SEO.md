@@ -1,4 +1,4 @@
-Type:: [[Programming Features]] 
+type:: [[Programming Features]] 
 Language:: [[HTML]]
 
 - # Introduction
