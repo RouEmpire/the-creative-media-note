@@ -14,9 +14,10 @@ hr {border-color:white;}
 samp {
 	font-family:'Fira Code','Fira Sans','Courier New','monospace';
 }
-
-#root di/*v {
-font-family:"Noto Sans Thai";
---ls-primary-background-color: #55aa55;
---ls-secondary-background-color: #5555aa;
+/*#root {
+	font-weight:bold;
+	font-family:"Noto Sans Thai","Noto Sans";
 }*/
+#root div {
+	font-family:"DM Montra","Noto Sans Thai","Noto Sans";
+}
