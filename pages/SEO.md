@@ -33,4 +33,6 @@ language:: [[HTML]]
 	- Google different from Yahoo because its use "backlinks" to a website as a factor to decide a website rank(Something like, there are meny site and Link Anchor to your site etc.)
 	- It takes 2 years that name "Google" comes to replace "BackRub"
 	- Google still keep improving Search Algotithm
+	- Google bought **Universal Search** which is only 1 search bar to search everything
+	-
 	-
