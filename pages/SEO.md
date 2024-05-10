@@ -15,11 +15,13 @@ language:: [[HTML]]
 	- DuckDuckGo's Bots
 - # How Search Engine Works
 - ## Evolution of Search Engines
-- In The Back of The Day(~1990s), there are 2 main search engines, there're **Google** and **Yahoo**
+- In The Back of The Day(~1990s), there are 2 main search engines, there're [**Google**] and [Yahoo]((663e499b-7dfd-4bbe-821e-e22872447d56))
 - Yahoo #card
+  id:: 663e499b-7dfd-4bbe-821e-e22872447d56
 	- Create by 2 Standford University Student in the year 1994
 		- Jerry Wang
 		- David Filo
 	- In Yahoo, Developers have too submit it to Yahoo, so it can be appear in Yahoo Search Engine
 	- Yahoo has a large repository/database of the submitted website
-- Google
+- Google #card
+	-
