@@ -1,5 +1,5 @@
 type:: [[Programming Features]] 
-Language:: [[HTML]]
+language:: [[HTML]]
 
 - # Introduction
 - **SEO** is stand for **Search Engine Optimization**
