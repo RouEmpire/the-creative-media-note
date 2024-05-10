@@ -20,7 +20,9 @@ language:: [[HTML]]
   id:: 663e499b-7dfd-4bbe-821e-e22872447d56
 	- Created by 2 Standford University Student in the year 1994
 		- Jerry Wang
+		  logseq.order-list-type:: number
 		- David Filo
+		  logseq.order-list-type:: number
 	- In Yahoo, Developers have too submit it to Yahoo, so it can be appear in Yahoo Search Engine
 	- Yahoo has a large repository/database of the submitted website
 	- Yahoo focus on website content, like if there are keyword (That users searched) in website appears 100 times, it'll be a higher rank (This led to a bad search result)
@@ -29,7 +31,9 @@ language:: [[HTML]]
   id:: 663e4a91-3b57-44e2-89fc-a08be2847290
 	- Google was founded by 2 Standford University Student in year 1996
 		- Larry Page
+		  logseq.order-list-type:: number
 		- Sergey Brin
+		  logseq.order-list-type:: number
 	- Google was initially known as "BackRub"
 	- Google different from Yahoo because its use "backlinks" to a website as a factor to decide a website rank(Something like, there are meny site and Link Anchor to your site etc.)
 	- It takes 2 years that name "Google" comes to replace "BackRub"
