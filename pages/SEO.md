@@ -13,4 +13,6 @@ language:: [[HTML]]
 	- Google's Bots
 	- Bing's Bots
 	- DuckDuckGo's Bots
+- # How Search Engine Works
+- ## Evolution of Search Engines
 -
