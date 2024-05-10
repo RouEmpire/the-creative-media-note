@@ -29,4 +29,5 @@ language:: [[HTML]]
 		- Larry Page
 		- Sergey Brin
 	- Google was initially known as "BackRub"
-	- Google different from Yahoo because its use "backlinks" to a website as a factor to decide a website rank(Something like, there are meny)
+	- Google different from Yahoo because its use "backlinks" to a website as a factor to decide a website rank(Something like, there are meny site and Link Anchor to your site etc.)
+	- It takes 2 years that name "Google"
