@@ -29,4 +29,4 @@ language:: [[HTML]]
 		- Larry Page
 		- Sergey Brin
 	- Google was initially known as "BackRub"
-	- Google different from Yahoo because its use ""
+	- Google different from Yahoo because its use "backlinks" to a website as a factor to decide a website rank(Something like, there are meny)
