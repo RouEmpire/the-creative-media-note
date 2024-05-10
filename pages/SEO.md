@@ -24,6 +24,7 @@ language:: [[HTML]]
 	- In Yahoo, Developers have too submit it to Yahoo, so it can be appear in Yahoo Search Engine
 	- Yahoo has a large repository/database of the submitted website
 	- Yahoo focus on website content, like if there are keyword (That users searched) in website appears 100 times, it'll be a higher rank (This led to a bad search result)
+	- Micros
 - Google #card
   id:: 663e4a91-3b57-44e2-89fc-a08be2847290
 	- Google was founded by 2 Standford University Student in year 1996
@@ -34,5 +35,6 @@ language:: [[HTML]]
 	- It takes 2 years that name "Google" comes to replace "BackRub"
 	- Google still keep improving Search Algotithm
 	- Google bought **Universal Search** which is only 1 search bar to search everything
-	- in 2015 Google led ****
+	- in 2015 Google led **Mobile First** website so its Search Algorithm
+	-
 	-
