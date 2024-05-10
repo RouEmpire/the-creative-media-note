@@ -25,4 +25,7 @@ language:: [[HTML]]
 	- Yahoo has a large repository/database of the submitted website
 - Google #card
   id:: 663e4a91-3b57-44e2-89fc-a08be2847290
-	- Google was found
+	- Google was founded by 2 Standford University Student in year 1996
+		- Larry Page
+		- Sergey Brin
+		-
