@@ -20,3 +20,4 @@ language:: [[HTML]]
 	- Create by 2 Standford University Student in the year 1994
 		- Jerry Wang
 		- David Filo
+	- In Yahoo, Developers
