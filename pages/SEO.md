@@ -41,4 +41,5 @@ language:: [[HTML]]
 	- Google bought **Universal Search** which is only 1 search bar to search everything
 	- in 2015 Google led **Mobile First** website so its Search Algorithm
 - ## SEO In Olden Days
+- In the in
 -
