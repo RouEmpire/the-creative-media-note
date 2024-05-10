@@ -15,7 +15,7 @@ samp {
 	font-family:'Fira Code','Fira Sans','Courier New','monospace';
 }
 
-#root div {
+#root>div {
 font-family:"TH Sarabun New";
 --ls-primary-background-color: #55aa55;
 --ls-secondary-background-color: #5555aa;
