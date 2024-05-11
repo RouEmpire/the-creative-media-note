@@ -9,15 +9,16 @@ language:: [[HTML]]
 	- When Users search something, SEO's bots will looking into your website and choice the best answer for **Users Keywords** or **Users Question**
 	- **SEO's bots** will look upon a **Certain Paramiters** So making those bot look in to your website is a kind of _Art_
 - SEO's bot are... #card
+  collapsed:: true
 	- Google's Bots
 	- Bing's Bots
 	- DuckDuckGo's Bots
-	- {{cloze [Google]((663e4a91-3b57-44e2-89fc-a08be2847290)) And [Yahoo](663e499b-7dfd-4bbe-821e-e22872447d56) }}
 - # How Search Engine Works
 - ## Evolution of Search Engines
 - In The Back of The Day(~1990s), there are 2 main search engines, there're ((663e4a91-3b57-44e2-89fc-a08be2847290)) and ((663e499b-7dfd-4bbe-821e-e22872447d56))
 - Yahoo #card
   id:: 663e499b-7dfd-4bbe-821e-e22872447d56
+  collapsed:: true
 	- Created by 2 Standford University Student in the year 1994
 		- Jerry Wang
 		  logseq.order-list-type:: number
@@ -29,6 +30,7 @@ language:: [[HTML]]
 	- Microsoft partnered with Yahoo to created Bing and Fight Google, this fight holds for 2 decades and still in a warfare
 - Google #card
   id:: 663e4a91-3b57-44e2-89fc-a08be2847290
+  collapsed:: true
 	- Google was founded by 2 Standford University Student in year 1996
 		- Larry Page
 		  logseq.order-list-type:: number
