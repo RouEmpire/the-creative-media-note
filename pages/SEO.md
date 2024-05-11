@@ -98,8 +98,8 @@ language:: [[HTML]]
 - # Technical SEO
   id:: 663ecd77-6ace-46ac-8d5b-276945921f3e
 	- **Image Alternate Text** (`alt=""`)
-		- Calling **Image Alt** for shorts, it is a text that works as the alternative text to be display when users can't he image on their website, And also works Extremely Well with
-		- ((663ecd17-78cd-4e2e-b01a-0ab4b198b994))
+		- Calling **Image Alt** for shorts, it is a text that works as the alternative text to be display when users can't he image on their website, And also works Extremely Well with ((663ecd17-78cd-4e2e-b01a-0ab4b198b994)) Because it can understand the image now.
+		-
 - # Keyword Research
   id:: 663ecd98-0d38-42d9-bd5d-fed5157aa241
 	- Coming Soon
