@@ -61,10 +61,11 @@ language:: [[HTML]]
 	- This topic focus on Non-On-Page SEO
 	- ## Inlinks and Outlinks
 		- **Inlinks**  | They are links (Anchor Tag) of others website that point to your webpage.
+		  id:: 663ec7ec-307e-45f2-a734-b0f7f4e6ad1d
 		- **Outlinks** | They are links (Anchor Tag) of Your website outgoing to the others site
 	- ## Page Rank
 		- Page Ranks is the **Quality of Links** Such as, having a good **Outlinks** instead of spamming it.
 		- Page Ranks is about the other informations that google has
 			- Such as, if users search  `Cake Shop near me` in google, it will take a look what contents in your website and your shop position on Google Maps, so users can find your shop
-			-
+		- Having someone important (aka Others Famous Page) send a
 	-
