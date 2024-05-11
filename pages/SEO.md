@@ -87,7 +87,8 @@ language:: [[HTML]]
 		- Duplicate `<title>` or missing `<title>`
 			- Each Page of your website must have a **Unique Title Tag**
 			- The **Title Tag** mustn't have a **too long** or **too short** ( ((663ecd17-78cd-4e2e-b01a-0ab4b198b994)) can give you an advise if you have no idiea about this)
-			- Never Missing Heading Tags, it's important as well as Title Tag. Just make sure that it's is
+			- Never Missing Heading Tags, it's important as well as Title Tag. Just make sure that it's used on a right role, not just spamming it (technically just one `<h1>` is enough for most website)
+			-
 - # Technical SEO
   id:: 663ecd77-6ace-46ac-8d5b-276945921f3e
 	- Coming Soon...
