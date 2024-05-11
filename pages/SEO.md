@@ -76,6 +76,7 @@ language:: [[HTML]]
 - # Analyzing a Website
   id:: 663ecced-1d16-475c-aff8-5c7d13d35438
 	- **Web Crawlers**
+	  id:: 663ecd17-78cd-4e2e-b01a-0ab4b198b994
 		- These **Crawlers** give a complete picture of your website's state as a report
 		- It gathers all the information like ((663ec967-2813-4c68-8f5d-bdb0fbf13d09)) or other informations that their creator like'd to see, then summarize that information as a report so Developers can see how Great SEO they Wrote
 		- some Crawlers service companies example...
@@ -85,7 +86,7 @@ language:: [[HTML]]
 	- **Sample Reports...**
 		- Duplicate `<title>` or missing `<title>`
 			- Each Page of your website must have a **Unique Title Tag**
-			- The Title Tag mustn't have a too long or too short
+			- The Title Tag mustn't have a too long or too short ( ((663ecd17-78cd-4e2e-b01a-0ab4b198b994)) )
 - # Technical SEO
   id:: 663ecd77-6ace-46ac-8d5b-276945921f3e
 	- Coming Soon...
