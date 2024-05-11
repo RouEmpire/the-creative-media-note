@@ -89,6 +89,7 @@ language:: [[HTML]]
 			- The **Title Tag** mustn't have a **too long** or **too short** ( ((663ecd17-78cd-4e2e-b01a-0ab4b198b994)) can give you an advise if you have no idiea about this)
 			- Never **Missing Heading Tags**, it's important as well as **Title Tag**. Just make sure that it's used on a right role, *not just spamming it* (technically just one `<h1>` is enough for most website)
 			- ***Duplicate Pages are big NO NO***, if Google bots found this, you site page rank gonna be shit-
+				- If you have a situations
 			-
 			-
 - # Technical SEO
