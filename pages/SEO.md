@@ -119,7 +119,8 @@ language:: [[HTML]]
 				- Some Page that you are undone working with it
 			- The syntax is simple
 				- ```html
-				  
+				  User-agent: *
+				  Disallow: /main/class/toilet
 				  ```
 - # Keyword Research
   id:: 663ecd98-0d38-42d9-bd5d-fed5157aa241
