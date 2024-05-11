@@ -83,7 +83,9 @@ language:: [[HTML]]
 			- SemRush
 			- Screaming Frog
 	- **Sample Reports...**
-		- Duplicate `<title>` or missing
+		- Duplicate `<title>` or missing `<title>`
+			- Each Page of your website must have a **Unique Title Tag**
+			-
 - # Technical SEO
   id:: 663ecd77-6ace-46ac-8d5b-276945921f3e
 	- Coming Soon...
