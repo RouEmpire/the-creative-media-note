@@ -90,7 +90,7 @@ language:: [[HTML]]
 			- Never **Missing Heading Tags**, it's important as well as **Title Tag**. Just make sure that it's used on a right role, *not just spamming it* (technically just one `<h1>` is enough for most website)
 			- ***Duplicate Pages are big NO NO***, if Google bots found this, you site page rank gonna be shit-
 				- If you have a situations that the **Duplicate Pages** need to be made, You must *Redirect* the Google Bot to [[301 Error]] page (Move Permananently - Request at Server Level)
-				-
+			- **Canonical Tags** is the Tags that
 			-
 			-
 - # Technical SEO
