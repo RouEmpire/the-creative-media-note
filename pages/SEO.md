@@ -14,6 +14,7 @@ language:: [[HTML]]
 	- Bing's Bots
 	- DuckDuckGo's Bots
 - # How Search Engine Works
+  id:: 663dbc27-0e74-45a6-9e91-027da0a06f56
 - ## Evolution of Search Engines
 - In The Back of The Day(~1990s), there are 2 main search engines, there're ((663e4a91-3b57-44e2-89fc-a08be2847290)) and ((663e499b-7dfd-4bbe-821e-e22872447d56))
 - Yahoo #card
@@ -42,4 +43,5 @@ language:: [[HTML]]
 	- Google still keep improving Search Algotithm
 	- Google bought **Universal Search** which is only 1 search bar to search everything
 	- in 2015 Google led **Mobile First** website so its Search Algorithm
-- ## SEO In Olden Days
+- # On-Page SEO Factors
+-
