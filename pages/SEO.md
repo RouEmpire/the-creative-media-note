@@ -12,7 +12,7 @@ language:: [[HTML]]
 	- Google's Bots
 	- Bing's Bots
 	- DuckDuckGo's Bots
-	- {{cards [[Google]]}}
+	- {{cloze }}
 - # How Search Engine Works
 - ## Evolution of Search Engines
 - In The Back of The Day(~1990s), there are 2 main search engines, there're [Google]((663e4a91-3b57-44e2-89fc-a08be2847290)) and [Yahoo]((663e499b-7dfd-4bbe-821e-e22872447d56))
