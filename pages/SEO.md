@@ -60,6 +60,7 @@ language:: [[HTML]]
   id:: 663ec17a-41ec-4cde-8a2b-39257ee0a160
 	- This topic focus on Non-On-Page SEO
 	- ## Inlinks and Outlinks
+	  id:: 663ec967-2813-4c68-8f5d-bdb0fbf13d09
 		- **Inlinks**
 		  id:: 663ec7ec-307e-45f2-a734-b0f7f4e6ad1d
 			- They are links (Anchor Tag) of others website that point to your webpage.
@@ -76,7 +77,8 @@ language:: [[HTML]]
   id:: 663ecced-1d16-475c-aff8-5c7d13d35438
 	- **Web Crawlers**
 		- These **Crawlers** give a complete picture of your website's state as a report
-		- It gathers all the information
+		- It gathers all the information like ((663ec967-2813-4c68-8f5d-bdb0fbf13d09)) or other informations that their creator like'd to see
+		-
 - # Technical SEO
   id:: 663ecd77-6ace-46ac-8d5b-276945921f3e
 	- Coming Soon...
