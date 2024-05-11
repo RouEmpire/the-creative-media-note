@@ -80,7 +80,8 @@ language:: [[HTML]]
 		- It gathers all the information like ((663ec967-2813-4c68-8f5d-bdb0fbf13d09)) or other informations that their creator like'd to see, then summarize that information as a report so Developers can see how Great SEO they Wrote
 		- some Crawlers service companies example...
 			- Moz.com
-			- SemRuch
+			- SemRush
+			- Screaming Frog
 - # Technical SEO
   id:: 663ecd77-6ace-46ac-8d5b-276945921f3e
 	- Coming Soon...
