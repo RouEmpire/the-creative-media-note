@@ -97,7 +97,8 @@ language:: [[HTML]]
 			-
 - # Technical SEO
   id:: 663ecd77-6ace-46ac-8d5b-276945921f3e
-	- Coming Soon...
+	- **Image Alternate Text** (`alt=""`)
+		-
 - # Keyword Research
   id:: 663ecd98-0d38-42d9-bd5d-fed5157aa241
 	- Coming Soon
