@@ -90,6 +90,7 @@ language:: [[HTML]]
 			- Never **Missing Heading Tags**, it's important as well as **Title Tag**. Just make sure that it's used on a right role, *not just spamming it* (technically just one `<h1>` is enough for most website)
 			- ***Duplicate Pages are big NO NO***, if Google bots found this, you site page rank gonna be shit-
 			-
+			-
 - # Technical SEO
   id:: 663ecd77-6ace-46ac-8d5b-276945921f3e
 	- Coming Soon...
