@@ -106,7 +106,7 @@ language:: [[HTML]]
 			- Any page of your website *must be reachable* in 3-4 clicks from home page.
 			- If your Website structure is well-design, Google will reward you a [SiteLinks Feature](https://developers.google.com/search/docs/appearance/sitelinks?hl=th) (It is the thing that deliver Users multiple asnwer of your website with a single search )
 				- Having a SiteLinks will increase your **CTR (Click-Through Rate)**
-			-
+	- **Sitemap**
 - # Keyword Research
   id:: 663ecd98-0d38-42d9-bd5d-fed5157aa241
 	- Coming Soon
