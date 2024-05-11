@@ -101,7 +101,7 @@ language:: [[HTML]]
 		- Calling **Image Alt** for shorts, it is a text that works as the alternative text to be display when users can't he image on their website, And also works Extremely Well with ((663ecd17-78cd-4e2e-b01a-0ab4b198b994)) Because it can understand the image now.
 		- *Do not over do it*
 	- **Structure Design**
-		- If you have a important page in your website lies deep, there's a chance that ((663ecd17-78cd-4e2e-b01a-0ab4b198b994)) Will
+		- If you have a important page in your website lies deep, there's a chance that ((663ecd17-78cd-4e2e-b01a-0ab4b198b994)) never be able yo reach it
 - # Keyword Research
   id:: 663ecd98-0d38-42d9-bd5d-fed5157aa241
 	- Coming Soon
