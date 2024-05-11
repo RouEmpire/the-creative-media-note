@@ -65,6 +65,6 @@ language:: [[HTML]]
 	- ## Page Rank
 		- Page Ranks is the **Quality of Links** Such as, having a good **Outlinks** instead of spamming it.
 		- Page Ranks is about the other informations that google has
-			- Such as, if users search ``` Cake Shop near me ``` in google, it will take a look what contents in your website and your shop position on Google Maps, so users can find your shop
+			- Such as, if users search  `Cake Shop near me` in google, it will take a look what contents in your website and your shop position on Google Maps, so users can find your shop
 			-
 	-
