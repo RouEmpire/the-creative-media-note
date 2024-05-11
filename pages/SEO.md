@@ -54,4 +54,5 @@ language:: [[HTML]]
 		  <meta name="description" content="This is Description of the whole page" /> 
 		  ```
 		- remember to have all these tag in each of your website!
+	- These tags are called **SEO-Friendly**
 	-
