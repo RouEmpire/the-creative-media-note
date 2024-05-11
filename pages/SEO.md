@@ -77,7 +77,7 @@ language:: [[HTML]]
   id:: 663ecced-1d16-475c-aff8-5c7d13d35438
 	- **Web Crawlers**
 		- These **Crawlers** give a complete picture of your website's state as a report
-		- It gathers all the information like ((663ec967-2813-4c68-8f5d-bdb0fbf13d09)) or other informations that their creator like'd to see
+		- It gathers all the information like ((663ec967-2813-4c68-8f5d-bdb0fbf13d09)) or other informations that their creator like'd to see, then summarize that information as a report so Developers can see how Great SEO they Wrote
 		-
 - # Technical SEO
   id:: 663ecd77-6ace-46ac-8d5b-276945921f3e
