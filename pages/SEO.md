@@ -110,6 +110,7 @@ language:: [[HTML]]
 		- **Sitemap.xml**
 			- It is a modern way to submit your site to google
 			- It is a file that list down every page linked within your website as a single sheet
+			- IT makes Google's
 - # Keyword Research
   id:: 663ecd98-0d38-42d9-bd5d-fed5157aa241
 	- Coming Soon
