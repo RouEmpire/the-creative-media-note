@@ -63,5 +63,6 @@ language:: [[HTML]]
 		- **Inlinks**  | They are links (Anchor Tag) of others website that point to your webpage.
 		- **Outlinks** | They are links (Anchor Tag) of Your website outgoing to the others site
 	- ## Page Rank
-		- Page Ranks is the **Q**
+		- Page Ranks is the **Quality of Links** Such as, having a good **Outlinks** instead of spamming it.
+		- Page Ranks is
 	-
