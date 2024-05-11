@@ -59,4 +59,5 @@ language:: [[HTML]]
 - # Off-Page SEO Factors
 	- This topic focus on Non-On-Page
 		- **Inlinks**  | They are links (Anchor Tag) of others website that point to your webpage.
-		- **Outlinks**
+		- **Outlinks** | They are links (Anchor Tag) of Your website outgoing to the others site
+	-
