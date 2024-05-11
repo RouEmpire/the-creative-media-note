@@ -79,8 +79,11 @@ language:: [[HTML]]
   id:: 663ecd77-6ace-46ac-8d5b-276945921f3e
 	- Coming Soon...
 - # Keyword Research
+  id:: 663ecd98-0d38-42d9-bd5d-fed5157aa241
 	- Coming Soon
 - # Content is King
+  id:: 663ecda7-dffd-4a25-b67e-2578c6a788ad
 	- Coming Soon
 - # Localization SEO
+  id:: 663ecdb7-e7ed-4e53-bee5-aaac886a678f
 	- Coming Soon
