@@ -122,6 +122,7 @@ language:: [[HTML]]
 				  User-agent: *
 				  Disallow: /main/class/toilet
 				  ```
+				- The `User-agent` tells what ((663ecd17-78cd-4e2e-b01a-0ab4b198b994)) you are working, by putting `*` it means you
 - # Keyword Research
   id:: 663ecd98-0d38-42d9-bd5d-fed5157aa241
 	- Coming Soon
