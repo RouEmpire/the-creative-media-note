@@ -56,4 +56,5 @@ language:: [[HTML]]
 		  ```
 		- remember to have all these tag in each of your website!
 	- These tags are called **SEO-Friendly**
-	-
+- # Off-Page SEO Factors
+	- This topic focus on Non-Onpa
