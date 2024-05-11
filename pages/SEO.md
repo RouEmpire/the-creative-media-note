@@ -58,8 +58,10 @@ language:: [[HTML]]
 	- These tags are called **SEO-Friendly**
 - # Off-Page SEO Factors
   id:: 663ec17a-41ec-4cde-8a2b-39257ee0a160
+	- This topic focus on Non-On-Page SEO
 	- ## Inlinks and Outlinks
-	- This topic focus on Non-On-Page
 		- **Inlinks**  | They are links (Anchor Tag) of others website that point to your webpage.
 		- **Outlinks** | They are links (Anchor Tag) of Your website outgoing to the others site
+	- ## Page Rank
+		-
 	-
