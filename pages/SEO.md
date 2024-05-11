@@ -83,6 +83,7 @@ language:: [[HTML]]
 			- Moz.com
 			- SemRush
 			- Screaming Frog
+		- Google's Bot are a kind of **Web Crawlers**
 	- **Sample Reports...**
 		- Duplicate `<title>` or missing `<title>`
 			- Each Page of your website must have a **Unique Title Tag**
