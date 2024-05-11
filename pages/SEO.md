@@ -45,6 +45,7 @@ language:: [[HTML]]
 		- Google bought **Universal Search** which is only 1 search bar to search everything
 		- in 2015 Google led **Mobile First** website so its Search Algorithm
 - # On-Page SEO Factors
+  id:: 663e509f-2656-4c3d-99e7-7d5c5076f870
 	- The Biggest and simplest SEO we make is using Headers Tag such as `<h1>` , `<h2>` to `<h6>`
 	- Use the Keyword in your site, Keyword that can tell SEO's bot what your site is about
 	- The **Most Important** tag is the one that in the `<head>` tag, called `<title>`. You have to put the page title here and those **SEO's bots** will see as their *favorite tag*. This tag will show as a main Blue Text in google's page when users search something, remember that people click what they need
