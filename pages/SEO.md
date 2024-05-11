@@ -74,8 +74,8 @@ language:: [[HTML]]
 		- Having someone important (aka Others Famous Page) send a ((663ec7ec-307e-45f2-a734-b0f7f4e6ad1d)) to your site will improve your Page Rank well-much
 - # Analyzing a Website
   id:: 663ecced-1d16-475c-aff8-5c7d13d35438
-	- Web Crawlers
-		-
+	- **Web Crawlers**
+		- These **Crawlers** give a complete picture of your website's state as a report
 - # Technical SEO
   id:: 663ecd77-6ace-46ac-8d5b-276945921f3e
 	- Coming Soon...
