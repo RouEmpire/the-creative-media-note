@@ -64,5 +64,6 @@ language:: [[HTML]]
 		- **Outlinks** | They are links (Anchor Tag) of Your website outgoing to the others site
 	- ## Page Rank
 		- Page Ranks is the **Quality of Links** Such as, having a good **Outlinks** instead of spamming it.
-		- Page Ranks is
+		- Page Ranks is about the other informations that google has
+			- Such as, if we search ``` Cake Shop near me ``` in google, it will
 	-
