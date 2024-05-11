@@ -82,6 +82,8 @@ language:: [[HTML]]
 			- Moz.com
 			- SemRush
 			- Screaming Frog
+	- **Sample Reports...**
+		- Duplicate `<title>` or missing
 - # Technical SEO
   id:: 663ecd77-6ace-46ac-8d5b-276945921f3e
 	- Coming Soon...
