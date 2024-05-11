@@ -51,5 +51,6 @@ language:: [[HTML]]
 	- Tag `<meta>` contain **SERP (Search Engine Result Page)**, it appears as a subtitle when people search something on the Google and your website shows up (Under the Blue link)
 		- Here's
 		- ```html
-		  <meta
+		  <meta name="description" content="This is Description of the whole page" /> 
 		  ```
+		-
