@@ -66,6 +66,7 @@ language:: [[HTML]]
 		- **Outlinks**
 		  id:: 663ec7f1-8539-4495-8418-658233b0081e
 			- They are links (Anchor Tag) of Your website outgoing to the others site
+		- Developers are oftenly put all the link in a navigation bar under the tag `<nav>`
 	- ## Page Rank
 		- Page Ranks is the **Quality of Links** Such as, having a good ((663ec7f1-8539-4495-8418-658233b0081e)) instead of spamming it.
 		- Page Ranks is about the other informations that google has
