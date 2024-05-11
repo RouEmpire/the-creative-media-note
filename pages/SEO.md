@@ -104,7 +104,7 @@ language:: [[HTML]]
 		- If you have a important page in your website lies deep, there's a chance that ((663ecd17-78cd-4e2e-b01a-0ab4b198b994)) never be able yo reach it, which mean you are losing some important factor for ranking
 		- **URL Structure**
 			- Any page of your website *must be reachable* in 3-4 clicks from home page.
-			- If your Website structure is well-design,
+			- If your Website structure is well-design, Google will reward you a [SiteLinks Feature](https://developers.google.com/search/docs/appearance/sitelinks?hl=th)
 - # Keyword Research
   id:: 663ecd98-0d38-42d9-bd5d-fed5157aa241
 	- Coming Soon
