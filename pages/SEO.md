@@ -46,4 +46,5 @@ language:: [[HTML]]
 		- in 2015 Google led **Mobile First** website so its Search Algorithm
 - # On-Page SEO Factors
 	- The Biggest and simplest SEO we make is using Headers Tag such as `<h1>` , `<h2>` to `<h6>`
-	- Use the Keyword in your site, Keyword that can tell
+	- Use the Keyword in your site, Keyword that can tell SEO's bot what your site is about
+	- The Most Important tag is the
