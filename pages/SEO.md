@@ -205,7 +205,11 @@ language:: [[HTML]]
 			  logseq.order-list-type:: number
 				- Like : "How to"
 				  logseq.order-list-type:: number
-			- logseq.order-list-type:: number
+			- **Navigational Query**
+			  logseq.order-list-type:: number
+				- Link : "Where is the nearest hospital?"
+				  logseq.order-list-type:: number
+		-
 - # Localization SEO
   id:: 663ecdb7-e7ed-4e53-bee5-aaac886a678f
 	- Coming Soon
