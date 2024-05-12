@@ -106,13 +106,13 @@ language:: [[HTML]]
 			- Any page of your website *must be reachable* in 3-4 clicks from home page.
 			- If your Website structure is well-design, Google will reward you a [SiteLinks Feature](https://developers.google.com/search/docs/appearance/sitelinks?hl=th) (It is the thing that deliver Users multiple asnwer of your website with a single search )
 				- Having a SiteLinks will increase your **CTR (Click-Through Rate)**
-	- **Sitemap.xml** and **Robots.txt**
-		- **Sitemap.xml**
+	- **sitemap.xml** and **robots.txt**
+		- **sitemap.xml**
 		  id:: 664001e3-5b92-4485-af6d-69e608952f05
 			- It is a modern way to submit your site to google
 			- It is a file that list down every page linked within your website as a single sheet
 			- IT makes Google's ((663ecd17-78cd-4e2e-b01a-0ab4b198b994)) job easier, so you gain more ranking
-		- **Robot.txt**
+		- **robot.txt**
 			- An opposite side of ((664001e3-5b92-4485-af6d-69e608952f05)), it tells Google's ((663ecd17-78cd-4e2e-b01a-0ab4b198b994)) to not craw the list of the certain page
 				- Some PDF file that's need not to be craw by ((663ecd17-78cd-4e2e-b01a-0ab4b198b994))
 				- Some Image file
@@ -131,6 +131,7 @@ language:: [[HTML]]
 				  Disallow: /mobile/
 				  ```
 				- The `4th` line means every page and its sub directory of `/mobile`
+				-
 - # Keyword Research
   id:: 663ecd98-0d38-42d9-bd5d-fed5157aa241
 	- Coming Soon
