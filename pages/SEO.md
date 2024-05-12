@@ -172,7 +172,7 @@ language:: [[HTML]]
 			- KeywordTool.IO
 			- KWFinder
 	- ## Google Keyword Planner
-	-
+		-
 - # Content is King
   id:: 663ecda7-dffd-4a25-b67e-2578c6a788ad
 	- Coming Soon
