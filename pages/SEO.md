@@ -142,12 +142,13 @@ language:: [[HTML]]
 - # Keyword Research
   id:: 663ecd98-0d38-42d9-bd5d-fed5157aa241
 	- First, you have to know what is your business you are on, so you can make a right key word. Just Heading over to **Google's Keyword Planner** in the absolute wrong step!
-		- Know What your business you are on.
+		- Know What *your business* you are on.
 		- Know What kind of you *customers* (The user that search things like your product) like...
 			- In case of Gym Website
 				- People in the age between 20-40
 				- There are love to be healthy
-		-
+		- Know your *customer topics*
+			- Understand where your customers are on on the social media
 		-
 - # Content is King
   id:: 663ecda7-dffd-4a25-b67e-2578c6a788ad
