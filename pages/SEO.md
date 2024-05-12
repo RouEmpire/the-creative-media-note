@@ -188,7 +188,8 @@ language:: [[HTML]]
 - # Content is King
   id:: 663ecda7-dffd-4a25-b67e-2578c6a788ad
 	- Content is a sub-topic for ((663e509f-2656-4c3d-99e7-7d5c5076f870))
-	-
+	- ## BERT
+		-
 	-
 - # Localization SEO
   id:: 663ecdb7-e7ed-4e53-bee5-aaac886a678f
