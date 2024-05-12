@@ -167,7 +167,12 @@ language:: [[HTML]]
 		- The **Long-Tail Keywords** are something like the things that user actually type in the search bar
 		- The words that user type in the search bar mostly long 3-5 words, your keywords can be one of those
 		- 70% of search result are thanks to **Long-Tail Keywords**
-		- There are tools to generate
+		- There are tools to generate this, such as
+			- UserSugest
+			- KeywordTool.IO
+			- KWFinder
+	- ## Google Keyword Planner
+	-
 - # Content is King
   id:: 663ecda7-dffd-4a25-b67e-2578c6a788ad
 	- Coming Soon
