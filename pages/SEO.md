@@ -160,7 +160,8 @@ language:: [[HTML]]
 			- Put it down as many as you want!
 			- We can genenrates keywords using Google itself
 				- Read *Google Suggestion* When you typing in a Search bar
-				- Search
+				- Search Related Terms, There are at the bottom of your (or others) SERP
+				-
 		-
 - # Content is King
   id:: 663ecda7-dffd-4a25-b67e-2578c6a788ad
