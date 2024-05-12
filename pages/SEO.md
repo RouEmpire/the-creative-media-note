@@ -149,6 +149,8 @@ language:: [[HTML]]
 				- There are love to be healthy
 		- Know your *customer topics*
 			- Understand where your customers are on on the social media
+			- What kind of words they will search if they are searching a product or content link yours
+			-
 		-
 - # Content is King
   id:: 663ecda7-dffd-4a25-b67e-2578c6a788ad
