@@ -154,7 +154,9 @@ language:: [[HTML]]
 			- Understand where your customers are on on the social media
 			- What kind of words they will search if they are searching a product or content link yours
 			- Knows what your *customers* are talking about in your product or content
-		- logseq.order-list-type:: number
+		- Generating *Keyword Ideas*
+		  logseq.order-list-type:: number
+			- Choose the one that makes sense
 		-
 - # Content is King
   id:: 663ecda7-dffd-4a25-b67e-2578c6a788ad
