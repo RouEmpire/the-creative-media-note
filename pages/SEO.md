@@ -141,7 +141,7 @@ language:: [[HTML]]
 			- www.bing.com/robots.txt
 - # Keyword Research
   id:: 663ecd98-0d38-42d9-bd5d-fed5157aa241
-	- First, you have to know what is your business
+	- First, you have to know what is your business you are on, so you can make a right key word. Just Heading over to **Google's Keyword Planner**
 - # Content is King
   id:: 663ecda7-dffd-4a25-b67e-2578c6a788ad
 	- Coming Soon
