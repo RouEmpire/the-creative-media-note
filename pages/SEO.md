@@ -200,7 +200,7 @@ language:: [[HTML]]
 			- **Transactional Query**
 			  logseq.order-list-type:: number
 				- Like : "Buy" or "Sell"
-				- If your website is a Transactional Nature Website that showcase a lot of produ
+				- If your website is a **Transactional Nature Website** that showcase a lot of product pages, your page must have a good descriptive information about your product
 			- **Informational Query**
 			  logseq.order-list-type:: number
 				- Like : "How to"
