@@ -172,7 +172,9 @@ language:: [[HTML]]
 			- KeywordTool.IO
 			- KWFinder
 	- ## Google Keyword Planner
-		- Here's a place
+		- Here's a place to put all of your Idea you have!
+		- We are choosing keyword based on
+		- Keywords
 - # Content is King
   id:: 663ecda7-dffd-4a25-b67e-2578c6a788ad
 	- Coming Soon
