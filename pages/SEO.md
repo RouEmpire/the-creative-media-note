@@ -164,9 +164,10 @@ language:: [[HTML]]
 				- Search Related Terms, There are at the bottom of your (or others) SERP
 				- Learn the ((663ec967-2813-4c68-8f5d-bdb0fbf13d09)) style in the Wikipedia, you customers might search things on that first
 	- ## Long-Tail Keywords
-		- The **Long-Tail Keywords** are something like the
+		- The **Long-Tail Keywords** are something like the things that user actually type in the search bar
 		- The words that user type in the search bar mostly long 3-5 words, your keywords can be one of those
 		- 70% of search result are thanks to **Long-Tail Keywords**
+		- There are tools to generate
 - # Content is King
   id:: 663ecda7-dffd-4a25-b67e-2578c6a788ad
 	- Coming Soon
