@@ -199,14 +199,15 @@ language:: [[HTML]]
 		- There are 3 types of ((66414e48-aad8-4e42-a1c7-9bc6de636e08))
 			- **Transactional Query**
 			  logseq.order-list-type:: number
-				- Like : "Buy" or "Sell"
+				- Like : "*Buy*" or "*Sell*"
 				- If your website is a **Transactional Nature Website** that showcase a lot of product pages, your page must have a good descriptive information about your product
 			- **Informational Query**
 			  logseq.order-list-type:: number
-				- Like : "How to"
+				- Like : "*How to*"
 			- **Navigational Query**
 			  logseq.order-list-type:: number
-				- Link : "Where is the nearest hospital?"
+				- Link : "*Where is the nearest hospital?*"
+				-
 		-
 - # Localization SEO
   id:: 663ecdb7-e7ed-4e53-bee5-aaac886a678f
