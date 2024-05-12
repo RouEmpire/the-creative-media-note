@@ -130,7 +130,7 @@ language:: [[HTML]]
 				  Disallow: /category/*.html
 				  Disallow: /mobile/
 				  ```
-				-
+				- The `4th` line means every page and its sub directory of `/mobile`
 - # Keyword Research
   id:: 663ecd98-0d38-42d9-bd5d-fed5157aa241
 	- Coming Soon
