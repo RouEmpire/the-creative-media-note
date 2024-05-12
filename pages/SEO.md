@@ -173,8 +173,10 @@ language:: [[HTML]]
 			- KWFinder
 	- ## Google Keyword Planner
 		- Here's a place to put all of your Idea you have!
-		- We are choosing keyword based on
-		- Keywords
+		- We are choosing keyword based on ((6640154d-71ef-439f-8b16-e5083b3d3617))
+		- **Keywords Matrics**
+		  id:: 6640154d-71ef-439f-8b16-e5083b3d3617
+			- *Commercial Intent* | The money that paid
 - # Content is King
   id:: 663ecda7-dffd-4a25-b67e-2578c6a788ad
 	- Coming Soon
