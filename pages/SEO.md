@@ -142,6 +142,7 @@ language:: [[HTML]]
 - # Keyword Research
   id:: 663ecd98-0d38-42d9-bd5d-fed5157aa241
 	- First, you have to know what is your business you are on, so you can make a right key word. Just Heading over to **Google's Keyword Planner** in the absolute wrong step! Follow these instead.
+		- ## Making Keywords
 		- Know What *your business* you are on.
 		  logseq.order-list-type:: number
 		- Know What kind of you *customers* (The user that search things like your product) like...
@@ -162,7 +163,7 @@ language:: [[HTML]]
 				- Read *Google Suggestion* When you typing in a Search bar
 				- Search Related Terms, There are at the bottom of your (or others) SERP
 				- Learn the ((663ec967-2813-4c68-8f5d-bdb0fbf13d09)) style in the Wikipedia, you customers might search things on that first
-				-
+	- ## Long-Tail Keywords
 		-
 - # Content is King
   id:: 663ecda7-dffd-4a25-b67e-2578c6a788ad
