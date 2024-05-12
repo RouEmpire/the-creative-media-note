@@ -187,7 +187,8 @@ language:: [[HTML]]
 		- It's free, made by Google.
 - # Content is King
   id:: 663ecda7-dffd-4a25-b67e-2578c6a788ad
-	- Coming Soon
+	- Content is a sub-topic for On-Page
+	-
 - # Localization SEO
   id:: 663ecdb7-e7ed-4e53-bee5-aaac886a678f
 	- Coming Soon
