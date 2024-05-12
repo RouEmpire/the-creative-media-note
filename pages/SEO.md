@@ -120,10 +120,10 @@ language:: [[HTML]]
 			- The syntax is simple
 				- ```html
 				  User-agent: *
-				  Disallow: /main/class/toilet
+				  Disallow: /home/class/toilet
 				  ```
 				- The `User-agent` tells what ((663ecd17-78cd-4e2e-b01a-0ab4b198b994)) you are working, by putting `*` it means you are mentioning all the Crawlers possible
-				- The `Disallow` tells what page you will blind those ((663ecd17-78cd-4e2e-b01a-0ab4b198b994)), in the example
+				- The `Disallow` tells what page you will blind those ((663ecd17-78cd-4e2e-b01a-0ab4b198b994)), in the example , we are blinding the page `toilet` which is at `/home/class/toilet`
 - # Keyword Research
   id:: 663ecd98-0d38-42d9-bd5d-fed5157aa241
 	- Coming Soon
