@@ -141,7 +141,7 @@ language:: [[HTML]]
 			- www.bing.com/robots.txt
 - # Keyword Research
   id:: 663ecd98-0d38-42d9-bd5d-fed5157aa241
-	- Coming Soon
+	- First, you have to know what is your business
 - # Content is King
   id:: 663ecda7-dffd-4a25-b67e-2578c6a788ad
 	- Coming Soon
