@@ -188,10 +188,10 @@ language:: [[HTML]]
 - # Content is King
   id:: 663ecda7-dffd-4a25-b67e-2578c6a788ad
 	- Content is a sub-topic for ((663e509f-2656-4c3d-99e7-7d5c5076f870))
+	- id:: 66414e12-78d9-4aa8-9db7-677e0e4cc4f1
 	- ## BERT
 		- **BERT** is stand for (Bidirectional Encoders Representations for Transformers)
 		- It's an [[AI]] model that helps Google understand user's search query. Which is trained by a lot of words
-		-
 	-
 - # Localization SEO
   id:: 663ecdb7-e7ed-4e53-bee5-aaac886a678f
