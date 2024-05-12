@@ -200,6 +200,7 @@ language:: [[HTML]]
 			- **Transactional Query**
 			  logseq.order-list-type:: number
 				- Like : "Buy" or "Sell"
+				-
 			- **Informational Query**
 			  logseq.order-list-type:: number
 				- Like : "How to"
