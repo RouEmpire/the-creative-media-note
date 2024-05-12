@@ -190,6 +190,7 @@ language:: [[HTML]]
 	- Content is a sub-topic for ((663e509f-2656-4c3d-99e7-7d5c5076f870))
 	- ## BERT
 		- **BERT** is stand for (Bidirectional Encoders Representations for Transformers)
+		- It's an [[AI]] model that helps Google understand user search
 	-
 - # Localization SEO
   id:: 663ecdb7-e7ed-4e53-bee5-aaac886a678f
