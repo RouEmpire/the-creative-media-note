@@ -191,10 +191,12 @@ language:: [[HTML]]
 	- id:: 66414e12-78d9-4aa8-9db7-677e0e4cc4f1
 	- ## BERT
 		- **BERT** is stand for (Bidirectional Encoders Representations for Transformers)
-		- It's an [[AI]] model that helps Google understand user's search query. Which is trained by a lot of words
+		- It's an [[AI]] model that helps Google understand user's search ((66414e48-aad8-4e42-a1c7-9bc6de636e08)). Which is trained by a lot of words
 	- ## Type of Queries
-		- Query
-			- It is a words or keywords of sentences that user use
+		- **Query**
+		  id:: 66414e48-aad8-4e42-a1c7-9bc6de636e08
+			- It is a words or keywords of sentences that user use to search in a **Search Bar**
+			-
 - # Localization SEO
   id:: 663ecdb7-e7ed-4e53-bee5-aaac886a678f
 	- Coming Soon
