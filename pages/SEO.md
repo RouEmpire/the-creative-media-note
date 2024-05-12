@@ -200,7 +200,7 @@ language:: [[HTML]]
 			- **Transactional Query**
 			  logseq.order-list-type:: number
 				- Like : "Buy" or "Sell"
-				- If your
+				- If your website is a Transactional Nature Website that showcase a lot of produ
 			- **Informational Query**
 			  logseq.order-list-type:: number
 				- Like : "How to"
