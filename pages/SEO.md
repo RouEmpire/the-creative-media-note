@@ -176,9 +176,11 @@ language:: [[HTML]]
 		- We are choosing keyword based on ((6640154d-71ef-439f-8b16-e5083b3d3617))
 		- **Keywords Matrics**
 		  id:: 6640154d-71ef-439f-8b16-e5083b3d3617
-			- *Commercial Intent* : The **money** that **paid** by **bidders** to rank their website for a certain keywords (AKA. Buying Ranks/Buying Ads)
+			- *Commercial Intent*
 			  id:: 66401592-dcfd-4dde-986a-b8633c1607be
-			- *Search Volume* : The **numbers** of **times** the certain keywords was **searched**.
+				- The **money** that **paid** by **bidders** to rank their website for a certain keywords (AKA. Buying Ranks/Buying Ads)
+			- *Search Volume*
+				- The **numbers** of **times** the certain keywords was **searched**.
 		- In the ((66401592-dcfd-4dde-986a-b8633c1607be)) is showing us that higher bets, means higher important keywords that many users search for (and likely to be found your site). The lower words, The higher bets. It is a bidder competition there
 		-
 - # Content is King
