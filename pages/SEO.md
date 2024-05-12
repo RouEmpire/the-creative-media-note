@@ -176,7 +176,8 @@ language:: [[HTML]]
 		- We are choosing keyword based on ((6640154d-71ef-439f-8b16-e5083b3d3617))
 		- **Keywords Matrics**
 		  id:: 6640154d-71ef-439f-8b16-e5083b3d3617
-			- *Commercial Intent* | The money that paid
+			- *Commercial Intent* | The money that paid by bidders to rank their website for a certain keywords (AKA. Buying Ranks/Buying Ads)
+			- Search Volume
 - # Content is King
   id:: 663ecda7-dffd-4a25-b67e-2578c6a788ad
 	- Coming Soon
