@@ -161,7 +161,7 @@ language:: [[HTML]]
 			- We can genenrates keywords using Google itself
 				- Read *Google Suggestion* When you typing in a Search bar
 				- Search Related Terms, There are at the bottom of your (or others) SERP
-				- Learn the ((663ec967-2813-4c68-8f5d-bdb0fbf13d09)) in the Wikipedia, you customers might search things on that first
+				- Learn the ((663ec967-2813-4c68-8f5d-bdb0fbf13d09)) style in the Wikipedia, you customers might search things on that first
 				-
 		-
 - # Content is King
