@@ -156,7 +156,9 @@ language:: [[HTML]]
 			- Knows what your *customers* are talking about in your product or content
 		- Generating *Keyword Ideas*
 		  logseq.order-list-type:: number
-			- Choose the one that makes sense
+			- Choose the one that makes sense to *your business*
+			- Put it down as many as you want!
+			-
 		-
 - # Content is King
   id:: 663ecda7-dffd-4a25-b67e-2578c6a788ad
