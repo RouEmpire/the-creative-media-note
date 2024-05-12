@@ -150,6 +150,7 @@ language:: [[HTML]]
 		- Know your *customer topics*
 			- Understand where your customers are on on the social media
 			- What kind of words they will search if they are searching a product or content link yours
+			- Knows what your *customers* are talking about in your product or content
 			-
 		-
 - # Content is King
