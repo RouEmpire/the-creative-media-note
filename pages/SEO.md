@@ -158,7 +158,8 @@ language:: [[HTML]]
 		  logseq.order-list-type:: number
 			- Choose the one that makes sense to *your business*
 			- Put it down as many as you want!
-			-
+			- We can genenrates keywords using Google itself
+				- Read Google Suggestion When you typing in a
 		-
 - # Content is King
   id:: 663ecda7-dffd-4a25-b67e-2578c6a788ad
