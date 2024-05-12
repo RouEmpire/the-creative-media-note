@@ -134,7 +134,7 @@ language:: [[HTML]]
 				- The `4th` line means every page and its sub directory of `/mobile`
 		- To put ((66400321-5e47-4129-bf3f-7592599358f7)) and ((664001e3-5b92-4485-af6d-69e608952f05)) into your website, simply put that file name on the root directory of the site. Such as...
 			- www.google.com/sitemap.xml
-			- www.mebmarket.com/
+			- www.mebmarket.com/robots.txt
 - # Keyword Research
   id:: 663ecd98-0d38-42d9-bd5d-fed5157aa241
 	- Coming Soon
