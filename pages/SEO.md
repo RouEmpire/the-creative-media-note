@@ -126,15 +126,17 @@ language:: [[HTML]]
 				- The `User-agent` tells what ((663ecd17-78cd-4e2e-b01a-0ab4b198b994)) you are working, by putting `*` it means you are mentioning all the Crawlers possible
 				- The `Disallow` tells what page you will blind those ((663ecd17-78cd-4e2e-b01a-0ab4b198b994)), in the example , we are blinding the page `toilet` which is at `/home/class/toilet`
 				- ```html
+				  User-agent: Twitterbot
+				  Disallow: /
+				  
 				  User-agent: *
 				  Disallow: /car/bus
 				  Disallow: /category/*.html
 				  Disallow: /mobile/
 				  Allow: /th
 				  ```
-				- The `4th` line means every page and its sub directory of `/mobile`
+					- The `7th` line means every page and its sub directory of `/mobile`
 		- To put ((66400321-5e47-4129-bf3f-7592599358f7)) and ((664001e3-5b92-4485-af6d-69e608952f05)) into your website, simply put that file name on the root directory of the site. Such as...
-			- www.google.com/sitemap.xml
 			- www.mebmarket.com/robots.txt
 - # Keyword Research
   id:: 663ecd98-0d38-42d9-bd5d-fed5157aa241
