@@ -197,8 +197,15 @@ language:: [[HTML]]
 		  id:: 66414e48-aad8-4e42-a1c7-9bc6de636e08
 			- It is a words or keywords of sentences that user use to search in a **Search Bar**
 		- There are 3 types of ((66414e48-aad8-4e42-a1c7-9bc6de636e08))
-			- **Transactional Qu**
+			- **Transactional Query**
 			  logseq.order-list-type:: number
+				- Like : "Buy" or "Sell"
+				  logseq.order-list-type:: number
+			- **Informational Query**
+			  logseq.order-list-type:: number
+				- Like : "How to"
+				  logseq.order-list-type:: number
+			- logseq.order-list-type:: number
 - # Localization SEO
   id:: 663ecdb7-e7ed-4e53-bee5-aaac886a678f
 	- Coming Soon
