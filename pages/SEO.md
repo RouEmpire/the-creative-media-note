@@ -182,7 +182,8 @@ language:: [[HTML]]
 			- *Search Volume*
 				- The **numbers** of **times** the certain keywords was **searched**.
 		- In the ((66401592-dcfd-4dde-986a-b8633c1607be)) is showing us that higher bets, means higher important keywords that many users search for (and likely to be found your site). The lower words, The higher bets. It is a bidder competition there.
--
+	- ## Google Trends
+		-
 	-
 - # Content is King
   id:: 663ecda7-dffd-4a25-b67e-2578c6a788ad
