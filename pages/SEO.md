@@ -231,6 +231,7 @@ language:: [[HTML]]
 		- More in-depth articles, more **Dwell Time** they spend
 		- More higher **Dwell Time** means better ranking by Google
 	- ## Bounce Rate
+	  id:: 664160db-99a4-4384-a309-b3dbcb29bde3
 		- It is a **Percentage** of user **Bouncing** trough your **Pages**
 		- More **Travel** (AKA **Bouncing**) between **Pages** means more **Bounce Rate**
 		- Bounce Rate can be mean Good or Bad, it depends on you site style
@@ -239,7 +240,8 @@ language:: [[HTML]]
 		- If your page taking more time, you are losing a good traffic
 		- People tend to interact less with a slow website
 	- ## Page Aestethics
-		- Every website need a readability
+		- Every website need a readability like good font or nice theme
+		- Sucks theme usually leads to higher
 - # Localization SEO
   id:: 663ecdb7-e7ed-4e53-bee5-aaac886a678f
 	- Coming Soon
