@@ -204,7 +204,7 @@ language:: [[HTML]]
 			- **Informational Query**
 			  logseq.order-list-type:: number
 				- Like : "*How to*"
-				-
+				- If your website cares more about Information, you should use Blog or Presentive style website.
 			- **Navigational Query**
 			  logseq.order-list-type:: number
 				- Link : "*Where is the nearest hospital?*"
