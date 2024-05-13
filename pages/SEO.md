@@ -221,6 +221,9 @@ language:: [[HTML]]
 		- **Visuals**
 			- If you use it correctly, you can even add a extra layer of information around the main one
 			- Pictorials like Infographics are a great tools to provide information instead of long sentences
+		- **Long Articles**
+			- **Long Articles** are the pages that live in the user Book Marks
+			-
 - # Localization SEO
   id:: 663ecdb7-e7ed-4e53-bee5-aaac886a678f
 	- Coming Soon
