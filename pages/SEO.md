@@ -213,7 +213,7 @@ language:: [[HTML]]
 					- If your website cares more about Information, you should use **Blog** or **Presentive style** website.
 				- **Navigational Query**
 				  logseq.order-list-type:: number
-					- Link : "*Where is the nearest hospital?*"
+					- Like : "*Where is the nearest hospital?*"
 					- If you website is for navigation, it must have a localization element added toit
 		- **Topic**
 			- It is a available information by Google, presented by ((66415b22-715a-451a-944e-3074577c9ec7))
@@ -225,6 +225,8 @@ language:: [[HTML]]
 			- **Long Articles** are the pages that live in the user Book Marks
 			- It is a must well research contents
 			- Always link to other people research or external knowledgh if possible, even Google likes deep content
+	- ## Dwell Time
+		- It is the
 - # Localization SEO
   id:: 663ecdb7-e7ed-4e53-bee5-aaac886a678f
 	- Coming Soon
