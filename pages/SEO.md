@@ -230,7 +230,8 @@ language:: [[HTML]]
 		- More in-depth articles, more **Dwell Time** they spend
 		- More higher **Dwell Time** means better ranking by Google
 	- ## Bounce Rate
-		- It is a Percentage
+		- It is a **Percentage** of user **Bouncing** trough your **Pages**
+		- More
 - # Localization SEO
   id:: 663ecdb7-e7ed-4e53-bee5-aaac886a678f
 	- Coming Soon
