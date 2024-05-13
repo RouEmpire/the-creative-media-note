@@ -198,7 +198,7 @@ language:: [[HTML]]
 	- ## BERT
 		- **BERT** is stand for (Bidirectional Encoders Representations for Transformers)
 		- It's an [[AI]] model that helps Google understand user's search ((66414e48-aad8-4e42-a1c7-9bc6de636e08)). Which is trained by a lot of words
-	- ## Type of Queries
+	- ## Query
 		- **Query**
 		  id:: 66414e48-aad8-4e42-a1c7-9bc6de636e08
 			- It is a words or keywords of sentences that user use to search in a **Search Bar**
@@ -224,7 +224,7 @@ language:: [[HTML]]
 		- **Long Articles**
 			- **Long Articles** are the pages that live in the user Book Marks
 			- It is a must well research contents
-			- Always link to other people research or external knowledgh if possible,
+			- Always link to other people research or external knowledgh if possible, even Google likes deep content
 - # Localization SEO
   id:: 663ecdb7-e7ed-4e53-bee5-aaac886a678f
 	- Coming Soon
