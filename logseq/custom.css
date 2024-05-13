@@ -14,10 +14,10 @@ hr {border-color:white;}
 samp {
 	font-family:'Fira Code','Fira Sans','Courier New','monospace';
 }
-/*#root {
+#root {
 	font-weight:bold;
 	font-family:"Noto Sans Thai","Noto Sans";
-}*/
+}
 #root div {
 	font-family:"Noto Sans Thai","Noto Sans";
 }
