@@ -48,6 +48,8 @@ language:: [[HTML]]
   id:: 663e509f-2656-4c3d-99e7-7d5c5076f870
 	- The Biggest and simplest SEO we make is using Headers Tag such as `<h1>` , `<h2>` to `<h6>`
 	- Use the Keyword in your site, Keyword that can tell SEO's bot what your site is about
+	- **SERP (Search Engine Result Page)**
+		-
 	- The **Most Important** tag is the one that in the `<head>` tag, called `<title>`. You have to put the page title here and those **SEO's bots** will see as their *favorite tag*. This tag will show as a main Blue Text in google's page when users search something, remember that people click what they need
 	- Tag `<meta>` contain **SERP (Search Engine Result Page)**, it appears as a subtitle when people search something on the Google and your website shows up (Under the Blue link)
 		- Here's the meta tag showing how its look like
