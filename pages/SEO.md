@@ -222,6 +222,7 @@ language:: [[HTML]]
 			- If you use it correctly, you can even add a extra layer of information around the main one
 			- Pictorials like Infographics are a great tools to provide information instead of long sentences
 		- **Long Articles**
+		  id:: 66415e86-5542-4bbc-945c-77cb901c0928
 			- **Long Articles** are the pages that live in the user Book Marks
 			- It is a must well research contents
 			- Always link to other people research or external knowledgh if possible, even Google likes deep content
@@ -232,7 +233,8 @@ language:: [[HTML]]
 	- ## Bounce Rate
 		- It is a **Percentage** of user **Bouncing** trough your **Pages**
 		- More **Travel** (AKA **Bouncing**) between **Pages** means more **Bounce Rate**
-		- Bounce Rate can be mean Good or Bad, it depends
+		- Bounce Rate can be mean Good or Bad, it depends on you site style
+			- ((66415e86-5542-4bbc-945c-77cb901c0928)) is engage people to deep information, so High
 - # Localization SEO
   id:: 663ecdb7-e7ed-4e53-bee5-aaac886a678f
 	- Coming Soon
