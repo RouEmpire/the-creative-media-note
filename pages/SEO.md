@@ -231,7 +231,8 @@ language:: [[HTML]]
 		- More higher **Dwell Time** means better ranking by Google
 	- ## Bounce Rate
 		- It is a **Percentage** of user **Bouncing** trough your **Pages**
-		- More **Travel** (AKA **Bouncing**) between **Pages** means more Bounce Rate
+		- More **Travel** (AKA **Bouncing**) between **Pages** means more **Bounce Rate**
+		- Bounce Rate can be mean Good or Bad, it depends
 - # Localization SEO
   id:: 663ecdb7-e7ed-4e53-bee5-aaac886a678f
 	- Coming Soon
