@@ -204,6 +204,7 @@ language:: [[HTML]]
 			- **Informational Query**
 			  logseq.order-list-type:: number
 				- Like : "*How to*"
+				-
 			- **Navigational Query**
 			  logseq.order-list-type:: number
 				- Link : "*Where is the nearest hospital?*"
