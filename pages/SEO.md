@@ -236,7 +236,9 @@ language:: [[HTML]]
 		- Bounce Rate can be mean Good or Bad, it depends on you site style
 			- ((66415e86-5542-4bbc-945c-77cb901c0928)) is engage people to deep information, so Higher Bounce Rate  is not always that bad
 	- ## Page Load Speed
-		- I
+		- If your page taking more time, you are losing a good traffic
+		- People tend to interact less with a slow website
+	- ## Page Aestethic
 - # Localization SEO
   id:: 663ecdb7-e7ed-4e53-bee5-aaac886a678f
 	- Coming Soon
