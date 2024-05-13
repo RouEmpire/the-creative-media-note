@@ -217,7 +217,7 @@ language:: [[HTML]]
 					- If you website is for navigation, it must have a localization element added toit
 		- **Topic**
 			- It is a available information by Google, presented by ((66415b22-715a-451a-944e-3074577c9ec7))
-			- If you page Main Topic is
+			- If you page Main Topic is also you keyword, you should put it on Title or Headers of the page as well
 - # Localization SEO
   id:: 663ecdb7-e7ed-4e53-bee5-aaac886a678f
 	- Coming Soon
