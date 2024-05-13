@@ -227,6 +227,8 @@ language:: [[HTML]]
 			- Always link to other people research or external knowledgh if possible, even Google likes deep content
 	- ## Dwell Time
 		- It is the amount of time the user spends time on the ((66415b22-715a-451a-944e-3074577c9ec7))
+		- More in-depth articles, more **Dwell** time they spend
+		-
 - # Localization SEO
   id:: 663ecdb7-e7ed-4e53-bee5-aaac886a678f
 	- Coming Soon
