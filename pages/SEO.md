@@ -223,7 +223,8 @@ language:: [[HTML]]
 			- Pictorials like Infographics are a great tools to provide information instead of long sentences
 		- **Long Articles**
 			- **Long Articles** are the pages that live in the user Book Marks
-			-
+			- It is a must well research contents
+			- Always link to other people research or external knowledgh if possible,
 - # Localization SEO
   id:: 663ecdb7-e7ed-4e53-bee5-aaac886a678f
 	- Coming Soon
