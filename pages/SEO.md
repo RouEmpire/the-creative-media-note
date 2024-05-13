@@ -52,6 +52,7 @@ language:: [[HTML]]
 	  id:: 66415b22-715a-451a-944e-3074577c9ec7
 		- **SERP** stands for **Search Engine Result Page**
 		- It is a List of Search Result that appear under a Blue Link (Website) in Google as a page subtitle
+		- It is also a Free Info l
 	- The **Most Important** tag is the one that in the `<head>` tag, called `<title>`. You have to put the page title here and those **SEO's bots** will see as their *favorite tag*. This tag will show as a main Blue Text in google's page when users search something, remember that people click what they need
 	- Tag `<meta>` contain **SERP (Search Engine Result Page)**, it appears as a subtitle when people search something on the Google and your website shows up (Under the Blue link)
 		- Here's the meta tag showing how its look like
@@ -214,7 +215,8 @@ language:: [[HTML]]
 					- Link : "*Where is the nearest hospital?*"
 					- If you website is for navigation, it must have a localization element added toit
 		- **Topic**
-			- It is a available information by Google,
+			- It is a available information by Google, presented by ((66415b22-715a-451a-944e-3074577c9ec7))
+			-
 - # Localization SEO
   id:: 663ecdb7-e7ed-4e53-bee5-aaac886a678f
 	- Coming Soon
