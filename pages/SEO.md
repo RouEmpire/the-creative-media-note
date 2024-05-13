@@ -226,7 +226,7 @@ language:: [[HTML]]
 			- It is a must well research contents
 			- Always link to other people research or external knowledgh if possible, even Google likes deep content
 	- ## Dwell Time
-		- It is the
+		- It is the amount of time the user spends time on the
 - # Localization SEO
   id:: 663ecdb7-e7ed-4e53-bee5-aaac886a678f
 	- Coming Soon
