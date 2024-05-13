@@ -238,7 +238,8 @@ language:: [[HTML]]
 	- ## Page Load Speed
 		- If your page taking more time, you are losing a good traffic
 		- People tend to interact less with a slow website
-	- ## Page Aestethic
+	- ## Page Aestethics
+		- Every website need a readability
 - # Localization SEO
   id:: 663ecdb7-e7ed-4e53-bee5-aaac886a678f
 	- Coming Soon
