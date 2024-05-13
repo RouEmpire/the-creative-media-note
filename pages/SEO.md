@@ -55,7 +55,7 @@ language:: [[HTML]]
 		- It is also a Free Info, like, *Google SUggestions* or *People also ask* or *Related Searches*
 		-
 	- The **Most Important** tag is the one that in the `<head>` tag, called `<title>`. You have to put the page title here and those **SEO's bots** will see as their *favorite tag*. This tag will show as a main Blue Text in google's page when users search something, remember that people click what they need
-	- Tag `<meta>` contain **SERP (Search Engine Result Page)**, it appears as a subtitle when people search something on the Google and your website shows up (Under the Blue link)
+	- Tag `<meta>` contain ((66415b22-715a-451a-944e-3074577c9ec7)), it appears as a subtitle when people search something on the Google and your website shows up (Under the Blue link)
 		- Here's the meta tag showing how its look like
 		- ```html
 		  <meta name="description" content="This is Description of the whole page" /> 
@@ -226,7 +226,7 @@ language:: [[HTML]]
 			- It is a must well research contents
 			- Always link to other people research or external knowledgh if possible, even Google likes deep content
 	- ## Dwell Time
-		- It is the amount of time the user spends time on the
+		- It is the amount of time the user spends time on the ((66415b22-715a-451a-944e-3074577c9ec7))
 - # Localization SEO
   id:: 663ecdb7-e7ed-4e53-bee5-aaac886a678f
 	- Coming Soon
