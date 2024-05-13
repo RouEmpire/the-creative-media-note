@@ -209,7 +209,8 @@ language:: [[HTML]]
 				  logseq.order-list-type:: number
 					- Link : "*Where is the nearest hospital?*"
 					- If you website is for navigation, it must have a localization element added toit
-		- Topic
+		- **Topic**
+			- It is a available information by Google
 - # Localization SEO
   id:: 663ecdb7-e7ed-4e53-bee5-aaac886a678f
 	- Coming Soon
