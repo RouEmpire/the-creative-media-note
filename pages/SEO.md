@@ -249,5 +249,6 @@ language:: [[HTML]]
 	- This Type of SEO is very popular with mobile devices
 		- About `50%` of all web traffic happends via mobile devices
 		- so, Performimg a location-base result is a very good for SEO
-		- also, Your website must be res
+		- also, Your website must be [[responsiveness]]
+	- You can use  a Free Google's tool to test your website
 	-
