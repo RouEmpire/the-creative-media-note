@@ -245,4 +245,4 @@ language:: [[HTML]]
 - # Localization SEO
   id:: 663ecdb7-e7ed-4e53-bee5-aaac886a678f
 	- Local SEO means the website must dealing with the different user that uses the same searches keyword
-		-
+		- Like `Coffee Shop` should give a result different for each users depends on their physical
