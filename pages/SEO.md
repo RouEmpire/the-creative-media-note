@@ -244,4 +244,5 @@ language:: [[HTML]]
 		- Sucks theme usually leads to higher ((664160db-99a4-4384-a309-b3dbcb29bde3))
 - # Localization SEO
   id:: 663ecdb7-e7ed-4e53-bee5-aaac886a678f
-	-
+	- Local SEO means the website must dealing with the different user that uses the same searches keyword
+		-
