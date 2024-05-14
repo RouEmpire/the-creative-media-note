@@ -9,7 +9,7 @@
 	font-family:"Fira Code";
 }*/
 
-hr {border-color:white;}
+/*hr {border-color:white;}
 
 samp {
 	font-family:'Fira Code','Fira Sans','Courier New','monospace';
@@ -21,3 +21,9 @@ samp {
 #root div {
 	font-family:"Noto Sans Thai","Noto Sans";
 }
+body {
+	font-family:'Noto Sans';
+}
+body div {
+	font-family:'Noto Sans';
+}*/
