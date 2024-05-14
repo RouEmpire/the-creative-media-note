@@ -248,5 +248,6 @@ language:: [[HTML]]
 		- Like `Coffee Shop` should give a result different for each users depends on their physical locations
 	- This Type of SEO is very popular with mobile devices
 		- About `50%` of all web traffic happends via mobile devices
-		-
+		- so, Performimg a location-base result is a very good for SEO
+		- also, Your website must be res
 	-
