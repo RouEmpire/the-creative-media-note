@@ -1,5 +1,5 @@
 
-a.tag {
+/*a.tag {
 	font-family:"Fira Code";
 	background-color:black;
 	border:white 2px solid;
@@ -7,8 +7,17 @@ a.tag {
 }
 .page-ref {
 	font-family:"Fira Code";
-}
+}*/
+
+hr {border-color:white;}
 
 samp {
 	font-family:'Fira Code','Fira Sans','Courier New','monospace';
+}
+/*#root {
+	font-weight:bold;
+	font-family:"Noto Sans Thai","Noto Sans";
+}*/
+#root div {
+	font-family:"Noto Sans Thai","Noto Sans";
 }
