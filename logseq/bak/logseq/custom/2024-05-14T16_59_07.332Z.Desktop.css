@@ -9,18 +9,21 @@
 	font-family:"Fira Code";
 }*/
 
-hr {border-color:white;}
+/*hr {border-color:white;}
 
 samp {
 	font-family:'Fira Code','Fira Sans','Courier New','monospace';
 }
 #root {
 	font-weight:bold;
-	font-family:"Noto Sans Bold";
+	font-family:"Noto Sans Thai","Noto Sans";
 }
-/*#root div {
-font-family:"Noto Sans Thai";
-font-color:green;
---ls-primary-background-color: #55aa55;
---ls-secondary-background-color: #5555aa;
+#root div {
+	font-family:"Noto Sans Thai","Noto Sans";
+}
+body {
+	font-family:'Noto Sans';
+}
+body div {
+	font-family:'Noto Sans';
 }*/
