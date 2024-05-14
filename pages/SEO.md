@@ -247,4 +247,6 @@ language:: [[HTML]]
 	- Local SEO means the website must dealing with the different user that uses the same searches keyword
 		- Like `Coffee Shop` should give a result different for each users depends on their physical locations
 	- This Type of SEO is very popular with mobile devices
+		- About `50%` of all web traffic happends via mobile devices
+		-
 	-
