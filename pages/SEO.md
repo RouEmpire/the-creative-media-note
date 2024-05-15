@@ -252,5 +252,5 @@ language:: [[HTML]]
 		- also, Your website must be [[responsiveness]]
 	- # Keyword Research
 		- We can reverse using of google auto complete to find a related search by typing an incomplete search keywords and let the auto complete finish it
-		- FOr
+		- For a query like `<shop name> phone number` Google can a
 	-
