@@ -253,5 +253,5 @@ language:: [[HTML]]
 	- # Keyword Research
 		- We can reverse using of google auto complete to find a related search by typing an incomplete search keywords and let the auto complete finish it
 		- For a query like `<shop name> phone number` Google can actually pull that data from SERP and directly shows that info to users without ant additional clicking
-		- If your w
+		- If your website has so many pages, every page should have the same information like this
 	-
