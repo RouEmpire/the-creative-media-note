@@ -251,5 +251,5 @@ language:: [[HTML]]
 		- so, Performimg a location-base result is a very good for SEO
 		- also, Your website must be [[responsiveness]]
 	- # Keyword Research
-		- We can reverse using of google auto complete
+		- We can reverse using of google auto complete to find a related search by typing an incomplete search keywords
 	-
