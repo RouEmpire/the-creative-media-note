@@ -250,5 +250,6 @@ language:: [[HTML]]
 		- About `50%` of all web traffic happends via mobile devices
 		- so, Performimg a location-base result is a very good for SEO
 		- also, Your website must be [[responsiveness]]
-	-
+	- # Keyword Research
+		-
 	-
