@@ -32,8 +32,8 @@ language:: [[BASH]]
 	- `/` means _then_, we put other directory name or other file name in here, if it's a file, it's execute it
 	- `myscript.sh` is the file, so ,  BASH will execute it
 - # Class 2
-- ## How to declare varible
-- This is the syntax to declare the variable, use `var` for Variable name and `val` for its Value. To Access its Value, insert `$` at the begin of the variable name, such as `$var` _Do this after declaretions_
+	- ## How to declare varible
+	- This is the syntax to declare the variable, use `var` for Variable name and `val` for its Value. To Access its Value, insert `$` at the begin of the variable name, such as `$var` _Do this after declaretions_
 - ```bash
   #!/bin/bash
   
@@ -58,5 +58,6 @@ language:: [[BASH]]
   echo  ls  # run 'ls' command
   ```
 - Use `exit` command to exit the terminal and **clear all the declared varible**
-- ## Example
+- # Class 3
+	-
 -
