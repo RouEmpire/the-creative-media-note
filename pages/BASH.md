@@ -64,3 +64,4 @@ language:: [[BASH]]
 	  variable=value
 	  ```
 		- Do it with no space
+	- To access varible, write `$` in front of any variable names
