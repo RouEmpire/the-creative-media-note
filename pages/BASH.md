@@ -59,5 +59,8 @@ language:: [[BASH]]
   ```
 - Use `exit` command to exit the terminal and **clear all the declared varible**
 - # Class 3
-	-
+	- In order to declare a varible use this
+	  ```sh
+	  variable=value
+	  ```
 -
