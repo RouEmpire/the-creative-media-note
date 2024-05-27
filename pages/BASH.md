@@ -64,4 +64,9 @@ language:: [[BASH]]
 	  variable=value
 	  ```
 		- Do it with no space
-	- To access varible, write `$` in front of any variable names
+	- To access varible, write `$` in front of any variable names, such as
+	  ```bash
+	  foo="bar"
+	  echo $foo
+	  ```
+	-
