@@ -99,6 +99,8 @@ language:: [[BASH]]
 			  ```
 			  <samp>150</samp>
 - # class 5
+	- **testcase**
+		-
 	- **If Statement**
 		- The systax of if statement is...
 		  ```bash
@@ -144,4 +146,5 @@ language:: [[BASH]]
 			  fi
 			  ```
 			  <samp>  There aren't Equal </samp>
-			-
+	- **Reverse The Check**
+		- It is a way to reverse a result in testcase
