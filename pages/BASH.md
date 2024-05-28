@@ -8,6 +8,7 @@ language:: [[BASH]]
 	- **pwd (Print Working Directory)**
 		- `pwd` is the command that will print user current working directory
 	- **ImageMagick**
+	  id:: 6655333b-517a-48a1-9662-db9c49b30db6
 		- `magick` is the ImageMagick command that will convert image file as you wish
 		- To convert, use `magick input_files.1extension output_files.2extension`
 		- For example
@@ -178,4 +179,5 @@ language:: [[BASH]]
 		     echo "Sorry, you need to install ImageMagick in order to Convert the image"
 		  fi
 		  ```
+		- See more at about `magick` at ((6655333b-517a-48a1-9662-db9c49b30db6))
 		-
