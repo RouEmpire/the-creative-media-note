@@ -81,4 +81,4 @@ language:: [[BASH]]
 	-
 - # Class 4
 	- **Math Function**
-		-
+		- use command `expr`
