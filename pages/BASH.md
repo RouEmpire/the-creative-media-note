@@ -114,7 +114,7 @@ language:: [[BASH]]
 				- add two varible for both sides
 				- in the middle, use ``
 					- `-eq` stands for `Equal`
-					-
+					- `-`
 			- Always End the if statement with `fi`
 			- For Example, this will echo **"Hi"**
 			  ```bash
