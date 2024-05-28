@@ -131,3 +131,4 @@ language:: [[BASH]]
 			     #Final testcase if others false
 			  fi
 			  ```
+				- There's no need to type `then` in else statement
