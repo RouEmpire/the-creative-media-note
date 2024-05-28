@@ -86,4 +86,8 @@ language:: [[BASH]]
 			  expr 30 + 10 - 20
 			  ```
 			  <samp> 20 </samp>
-			-
+		- Math Expressions are
+			- +
+			- -
+			- `\*`
+			- /`
