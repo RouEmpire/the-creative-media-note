@@ -125,5 +125,9 @@ language:: [[BASH]]
 	- **Else Statement**
 		- The syntax of else statement is...
 			- ```bash
-			  if 
+			  if [ testcase ] then
+			     #first testcase
+			  else
+			     #Final testcase if others false
+			  fi
 			  ```
