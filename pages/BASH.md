@@ -59,6 +59,11 @@ language:: [[BASH]]
 	  ```
 	- Use `exit` command to exit the terminal and **clear all the declared varible**
 - In order to declare a varible that contain **Other Commands** we can use `$()` to cover the entier command we want
+	- ```bash
+	  MyCom=$(ls)
+	  
+	  MyCom
+	  ```
 - # Class 4
 	- In order to declare a varible use this
 	  ```sh
