@@ -132,3 +132,7 @@ language:: [[BASH]]
 			  fi
 			  ```
 				- There's no need to type `then` in else statement
+			- example
+			  ```bash
+			  my
+			  ```
