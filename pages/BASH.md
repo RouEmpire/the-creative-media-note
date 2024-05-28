@@ -34,22 +34,22 @@ language:: [[BASH]]
 - # Class 3
 	- ## How to declare varible
 	- This is the syntax to declare the variable, use `var` for Variable name and `val` for its Value. To Access its Value, insert `$` at the begin of the variable name, such as `$var` _Do this after declaretions_
-- ```bash
-  #!/bin/bash
-  
-   var="val"
-   echo  $var   #correct
-   echo "$var"  #also correct
-  ```
-- Such as...
-- ```bash
-  USER_NAME="RouEmpire"
-  echo "Hello , $USER_NAME"
-  ```
-- The Output is : <samp> Hello , RouEmpire </samp>
-  id:: 6638206c-1929-4f01-a39e-9b7ebc2d61f0
-- If we try to `echo` a variable that doesn't exists, it will print **An Empty String**
-- ## Why we need to use `$`
+	- ```bash
+	  #!/bin/bash
+	  
+	   var="val"
+	   echo  $var   #correct
+	   echo "$var"  #also correct
+	  ```
+	- Such as...
+		- ```bash
+		  USER_NAME="RouEmpire"
+		  echo "Hello , $USER_NAME"
+		  ```
+	- The Output is : <samp> Hello , RouEmpire </samp>
+	  id:: 6638206c-1929-4f01-a39e-9b7ebc2d61f0
+	- If we try to `echo` a variable that doesn't exists, it will print **An Empty String**
+	- ## Why we need to use `$`
 - We declare varible for using it later, but some times it has a _conflict_ with other things, if we create a varible name `ls` and use it as `$ls`, the [[intepreter]] will use its value, if its has no `$` the command name `ls` will be run instead
 - ```bash
   ls="Hello Again"
@@ -58,6 +58,7 @@ language:: [[BASH]]
   echo  ls  # run 'ls' command
   ```
 - Use `exit` command to exit the terminal and **clear all the declared varible**
+-
 - # Class 4
 	- In order to declare a varible use this
 	  ```sh
