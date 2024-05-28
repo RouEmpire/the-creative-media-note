@@ -110,7 +110,7 @@ language:: [[BASH]]
 		  fi
 		  ```
 			- You need _spaces_ between the `[` and `]`
-			- the `testcase` is where you put a condition in by...
+			- the ((66553020-31f7-4674-84b0-ea8d304db766)) is where you put a condition in by...
 				- add two varible for both sides
 				- in the middle, use ``
 					- `-eq` stands for `Equal`
@@ -148,4 +148,8 @@ language:: [[BASH]]
 			  ```
 			  <samp>  There aren't Equal </samp>
 	- **Reverse The Check**
-		- It is a way to reverse a result in testcase
+		- It is a way to reverse a result in ((66553020-31f7-4674-84b0-ea8d304db766))
+		- To do it, put `!` in front of any ((66553020-31f7-4674-84b0-ea8d304db766)) like this
+		  ```
+		  []
+		  ```
