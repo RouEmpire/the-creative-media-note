@@ -162,5 +162,9 @@ language:: [[BASH]]
 		- Example
 		  ```bash
 		  if [ -f /bin/magick ] then #check if ImageMagick exists in bin folder
-		     magick input.png output.jpg #convert image using 
+		     magick input.png output.jpg #convert image using ImageMagick
+		  else
+		     echo "Sorry, you need to install ImageMagick in order to Convert the image"
+		  fi
 		  ```
+		-
