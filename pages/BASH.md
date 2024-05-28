@@ -114,9 +114,9 @@ language:: [[BASH]]
 				- add two varible for both sides
 				- in the middle, use `Math Expression`
 					- **Math Expression Flag**
-						- `-eq` stands for `Equal`
-						- `-ne` stands for `Not Equal`
-						- `-gt` stands for `Grater Than**
+						- `-eq` stands for **Equal**
+						- `-ne` stands for **Not Equal**
+						- `-gt` stands for **Grater Than**
 					-
 			- Always End the if statement with `fi`
 			- For Example, this will echo **"Hi"**
