@@ -121,5 +121,9 @@ language:: [[BASH]]
 			     echo "Hi"
 			  fi
 			  ```
-			-
+			  <samp>Hi</samp>
 	- **Else Statement**
+		- The syntax of else statement is...
+			- ```bash
+			  if 
+			  ```
