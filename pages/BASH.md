@@ -158,4 +158,5 @@ language:: [[BASH]]
 		  [ ! 500 -eq 500] #result as "False"
 		  ```
 	- **Files Existing Check**
-		- To Check if file exist in
+		- To Check if file exist, put `-f` in ((66553020-31f7-4674-84b0-ea8d304db766)) and follow by the Path to that files
+		- Example
