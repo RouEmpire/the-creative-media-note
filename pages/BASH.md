@@ -14,7 +14,7 @@ language:: [[BASH]]
 		  ```bash
 		  magick input.png output.jpg #convert PNG to JPG
 		  magick input.png output.pdf #convert PNG to PDF
-		  magick *.png output.pdf #convert all
+		  magick *.png output.pdf #convert all PNG Image in current folder into a single PDF
 		  ```
 - # Class 2
 - BASH is a dependencies coding language
