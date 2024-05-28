@@ -83,7 +83,7 @@ language:: [[BASH]]
 	- **Math Function**
 		- use command `expr` in case you want to perform any MAth Expression
 			- ```sh
-			  expr 30 + 10
+			  expr 30 + 10 - 20
 			  ```
-			  <samp> 40 </samp>
+			  <samp> 20 </samp>
 			-
