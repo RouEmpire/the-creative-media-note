@@ -81,4 +81,9 @@ language:: [[BASH]]
 	-
 - # Class 4
 	- **Math Function**
-		- use command `expr`
+		- use command `expr` in case you want to perform any MAth Expression
+			- ```sh
+			  expr 30 + 10
+			  ```
+			  <samp> 40 </samp>
+			-
