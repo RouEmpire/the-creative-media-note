@@ -103,7 +103,8 @@ language:: [[BASH]]
 		- The systax of if statement is...
 		  ```bash
 		  if [  testcase ] then
-		     #anycondition
+		     #any action here
 		  fi
 		  ```
-		-
+			- You need _spaces_ between the `[` and `]`
+			-
