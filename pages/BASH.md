@@ -2,11 +2,15 @@ type:: [[Programming Language]]
 language:: [[BASH]]
 
 - # Class 1 (For Referers)
-	- ls (List)
+	- **ls (List)**
 	  id:: 66552584-024e-4c23-8619-35be2e3944db
 		- `ls` is stand for list, it's list all the files and directory in the user `$pwd`
-	- pwd (Print Working Directory)
+	- **pwd (Print Working Directory)**
 		- `pwd` is the command that will print user current working directory
+	- **ImageMagick**
+		- `magick` is the ImageMagick command that will convert image file as you wish
+		- To convert
+		- For example
 - # Class 2
 - BASH is a dependencies coding language
 - We use `echo` to print anything to terminal
