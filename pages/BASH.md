@@ -74,7 +74,9 @@ language:: [[BASH]]
 	- It's called **sub-shell**
 	- it's run things in the background
 - In the Linux Environment, there are **Defualt Variable**, there are var that has been declare
-	-
+	- Such as
+		- `$USER` contain your User name in your system
+	- You should declare a varible with all Lo
 - # Class 4
 	- In order to declare a varible use this
 	  ```sh
