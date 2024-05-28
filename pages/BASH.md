@@ -100,7 +100,7 @@ language:: [[BASH]]
 			  <samp>150</samp>
 - # class 5
 	- **testcase**
-		-
+		- It is a condition that happend in the BASH and it will return either
 	- **If Statement**
 		- The systax of if statement is...
 		  ```bash
