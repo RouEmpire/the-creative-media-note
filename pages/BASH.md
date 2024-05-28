@@ -107,4 +107,7 @@ language:: [[BASH]]
 		  fi
 		  ```
 			- You need _spaces_ between the `[` and `]`
-			-
+			- the `testcase` is where you put a condition in by...
+				- add two varible for both sides
+				- in the middle, use ``
+				-
