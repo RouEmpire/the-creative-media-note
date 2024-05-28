@@ -139,4 +139,9 @@ language:: [[BASH]]
 			  
 			  if [ $mynum -eq $othernum] then
 			     echo "There are Equal"
+			  else
+			     echo "There aren't Equal"
+			  fi
 			  ```
+			  <samp>  There aren't Equal </samp>
+			-
