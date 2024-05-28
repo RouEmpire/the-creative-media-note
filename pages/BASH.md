@@ -157,4 +157,5 @@ language:: [[BASH]]
 		  [ 500 -eq 500 ] #result as "True"
 		  [ ! 500 -eq 500] #result as "False"
 		  ```
-		-
+	- **Files Existing Check**
+		- To Check if file exist in
