@@ -99,5 +99,5 @@ language:: [[BASH]]
 			  ```
 			  <samp>150</samp>
 - # class 5
-	- **IF STATEMENT**
-		-
+	- **If Statement**
+		- The systax of I
