@@ -9,8 +9,11 @@ language:: [[BASH]]
 		- `pwd` is the command that will print user current working directory
 	- **ImageMagick**
 		- `magick` is the ImageMagick command that will convert image file as you wish
-		- To convert
+		- To convert, use `magick input_files.1extension output_files.2extension`
 		- For example
+		  ```bash
+		  magick input.png output.jpg 
+		  ```
 - # Class 2
 - BASH is a dependencies coding language
 - We use `echo` to print anything to terminal
