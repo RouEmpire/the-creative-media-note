@@ -100,4 +100,10 @@ language:: [[BASH]]
 			  <samp>150</samp>
 - # class 5
 	- **If Statement**
-		- The systax of I
+		- The systax of if statement is...
+		  ```bash
+		  if [  testcase ] then
+		     #anycondition
+		  fi
+		  ```
+		-
