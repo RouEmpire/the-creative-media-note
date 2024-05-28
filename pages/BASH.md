@@ -87,7 +87,9 @@ language:: [[BASH]]
 			  ```
 			  <samp> 20 </samp>
 		- Math Expressions are
-			- +
-			- -
-			- `\*`
-			- /`
+			- `+` for plus
+			- `-` for minus
+			- `\*` for for multiplication
+				- is case you just use `*` it will leads to error, cause by
+			- `/` for division
+			-
