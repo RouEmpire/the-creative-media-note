@@ -69,4 +69,4 @@ language:: [[BASH]]
 	  foo="bar"
 	  echo $foo
 	  ```
-	- When you a
+	- When you trying to access the variable that doesn't exist, it will return you a empty string
