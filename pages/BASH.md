@@ -150,6 +150,8 @@ language:: [[BASH]]
 	- **Reverse The Check**
 		- It is a way to reverse a result in ((66553020-31f7-4674-84b0-ea8d304db766))
 		- To do it, put `!` in front of any ((66553020-31f7-4674-84b0-ea8d304db766)) like this
+		  ```bash
+		  [ 500 -eq 500 ] #result as "True"
+		  [ ! 500 -eq 500] #result as "False"
 		  ```
-		  []
-		  ```
+		-
