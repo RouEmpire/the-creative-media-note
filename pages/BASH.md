@@ -71,8 +71,9 @@ language:: [[BASH]]
 	  echo $MyCom
 	  ```
 	  see ((66552584-024e-4c23-8619-35be2e3944db))
-	- It's called `sub-shell`
-	- it
+	- It's called **sub-shell**
+	- it's run things in the background
+	-
 - # Class 4
 	- In order to declare a varible use this
 	  ```sh
