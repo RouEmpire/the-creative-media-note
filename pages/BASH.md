@@ -50,15 +50,15 @@ language:: [[BASH]]
 	  id:: 6638206c-1929-4f01-a39e-9b7ebc2d61f0
 	- If we try to `echo` a variable that doesn't exists, it will print **An Empty String**
 	- ## Why we need to use `$`
-- We declare varible for using it later, but some times it has a _conflict_ with other things, if we create a varible name `ls` and use it as `$ls`, the [[intepreter]] will use its value, if its has no `$` the command name `ls` will be run instead
-- ```bash
-  ls="Hello Again"
-  
-  echo $ls  # print "Hello Again"
-  echo  ls  # run 'ls' command
-  ```
-- Use `exit` command to exit the terminal and **clear all the declared varible**
--
+	- We declare varible for using it later, but some times it has a _conflict_ with other things, if we create a varible name `ls` and use it as `$ls`, the [[intepreter]] will use its value, if its has no `$` the command name `ls` will be run instead
+	- ```bash
+	  ls="Hello Again"
+	  
+	  echo $ls  # print "Hello Again"
+	  echo  ls  # run 'ls' command
+	  ```
+	- Use `exit` command to exit the terminal and **clear all the declared varible**
+- In order to declare a varible that contain **Other Commands** we can use `$()` to cover the entier command we want
 - # Class 4
 	- In order to declare a varible use this
 	  ```sh
