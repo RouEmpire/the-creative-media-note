@@ -90,6 +90,6 @@ language:: [[BASH]]
 			- `+` for plus
 			- `-` for minus
 			- `\*` for for multiplication
-				- is case you just use `*` it will leads to error, cause by
+				- is case you just use `*` it will leads to error, cause by a wildcards error (BASH thinks it's a wildcards symbol, not a asterisk)
 			- `/` for division
-			-
+		- We can use it with variab
