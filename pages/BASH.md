@@ -80,14 +80,5 @@ language:: [[BASH]]
 	- Run `env` command to see all the defualt var in your system
 	-
 - # Class 4
-	- In order to declare a varible use this
-	  ```sh
-	  variable=value
-	  ```
-		- Do it with no space
-	- To access varible, write `$` in front of any variable names, such as
-	  ```bash
-	  foo="bar"
-	  echo $foo
-	  ```
-	- When you trying to access the variable that doesn't exist, it will return you a empty string
+	- **Math Function**
+		-
