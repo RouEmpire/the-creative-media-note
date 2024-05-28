@@ -134,5 +134,9 @@ language:: [[BASH]]
 				- There's no need to type `then` in else statement
 			- example
 			  ```bash
-			  my
+			  mynum=100
+			  othernum=105
+			  
+			  if [ $mynum -eq $othernum] then
+			     echo "There are Equal"
 			  ```
