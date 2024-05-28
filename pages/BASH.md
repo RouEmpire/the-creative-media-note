@@ -3,9 +3,10 @@ language:: [[BASH]]
 
 - # Class 1 (For Referers)
 	- ls (List)
+	  id:: 66552584-024e-4c23-8619-35be2e3944db
 		- `ls` is stand for list, it's list all the files and directory in the user `$pwd`
 	- pwd (Print Working Directory)
-		- `pwd` is stand for
+		- `pwd` is the command that will print user current working directory
 - # Class 2
 - BASH is a dependencies coding language
 - We use `echo` to print anything to terminal
@@ -69,7 +70,8 @@ language:: [[BASH]]
 	  
 	  echo $MyCom
 	  ```
-	  see
+	  see ((66552584-024e-4c23-8619-35be2e3944db))
+-
 - # Class 4
 	- In order to declare a varible use this
 	  ```sh
