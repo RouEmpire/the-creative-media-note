@@ -100,7 +100,8 @@ language:: [[BASH]]
 			  <samp>150</samp>
 - # class 5
 	- **testcase**
-		- It is a condition that happend in the BASH and it will return either
+	  id:: 66553020-31f7-4674-84b0-ea8d304db766
+		- It is a condition that happend in the BASH and it will return either **True** or **False**
 	- **If Statement**
 		- The systax of if statement is...
 		  ```bash
