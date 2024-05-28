@@ -98,4 +98,6 @@ language:: [[BASH]]
 			  expr $mynum + 50
 			  ```
 			  <samp>150</samp>
-- #
+- # class 5
+	- **IF STATEMENT**
+		-
