@@ -113,3 +113,8 @@ language:: [[BASH]]
 					- `-eq` stands for `Equal`
 					-
 			- Always End the if statement with `fi`
+			- For Example, this will echo **"Hi"**
+			  ```bash
+			  
+			  ```
+	- **Else Statement**
