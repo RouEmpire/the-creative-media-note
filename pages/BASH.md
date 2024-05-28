@@ -76,7 +76,9 @@ language:: [[BASH]]
 - In the Linux Environment, there are **Defualt Variable**, there are var that has been declare
 	- Such as
 		- `$USER` contain your User name in your system
-	- You should declare a varible with all Lo
+	- You should declare a varible with all Lowercase, so it's not replace any other defualt var accidentally
+	- Run `env` command to see all the defualt var in your system
+	-
 - # Class 4
 	- In order to declare a varible use this
 	  ```sh
