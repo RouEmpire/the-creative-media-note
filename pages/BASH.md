@@ -161,6 +161,6 @@ language:: [[BASH]]
 		- To Check if file exist, put `-f` in ((66553020-31f7-4674-84b0-ea8d304db766)) and follow by the Path to that files
 		- Example
 		  ```bash
-		  if [ -f /bin/fish ] then #check if Fish Shell is exist
-		     fish #turn to fish shell
+		  if [ -f /bin/magick ] then #check if ImageMagick exists in bin folder
+		     magick input.png output.jpg #convert image using 
 		  ```
