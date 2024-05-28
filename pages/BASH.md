@@ -1,6 +1,9 @@
 type:: [[Programming Language]]
 language:: [[BASH]]
 
+- # Class 1 (For Referers)
+	- ls (List)
+		- `ls` is stand for list,
 - # Class 2
 - BASH is a dependencies coding language
 - We use `echo` to print anything to terminal
@@ -62,8 +65,9 @@ language:: [[BASH]]
 	- ```bash
 	  MyCom=$(ls)
 	  
-	  MyCom
+	  echo $MyCom
 	  ```
+	  see
 - # Class 4
 	- In order to declare a varible use this
 	  ```sh
