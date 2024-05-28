@@ -115,6 +115,11 @@ language:: [[BASH]]
 			- Always End the if statement with `fi`
 			- For Example, this will echo **"Hi"**
 			  ```bash
+			  mynum=100
 			  
+			  if [ $mynum -eq 100 ] then
+			     echo "Hi"
+			  fi
 			  ```
+			-
 	- **Else Statement**
