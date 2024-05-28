@@ -92,4 +92,10 @@ language:: [[BASH]]
 			- `\*` for for multiplication
 				- is case you just use `*` it will leads to error, cause by a wildcards error (BASH thinks it's a wildcards symbol, not a asterisk)
 			- `/` for division
-		- We can use it with variab
+		- We can use it with variable
+			- ```bash
+			  mynum=100
+			  expr $mynum + 50
+			  ```
+			  <samp>150</samp>
+			-
