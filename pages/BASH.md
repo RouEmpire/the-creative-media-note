@@ -16,7 +16,8 @@ language:: [[BASH]]
 		  magick input.png output.pdf #convert PNG to PDF
 		  magick *.png output.pdf #convert all PNG Image in current folder into a single PDF
 		  ```
-	- Touch
+	- **Touch**
+		- `touch` is use to create a file, simply put a file name you want to create after the touch command, like `touch main.py`
 - # Class 2
 - BASH is a dependencies coding language
 - We use `echo` to print anything to terminal
