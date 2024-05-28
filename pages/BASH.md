@@ -112,9 +112,11 @@ language:: [[BASH]]
 			- You need _spaces_ between the `[` and `]`
 			- the ((66553020-31f7-4674-84b0-ea8d304db766)) is where you put a condition in by...
 				- add two varible for both sides
-				- in the middle, use ``
-					- `-eq` stands for `Equal`
-					- `-ne` stands for `Not Equal`
+				- in the middle, use `Math Expression`
+					- **Math Expression Flag**
+						- `-eq` stands for `Equal`
+						- `-ne` stands for `Not Equal`
+						- `-gt` stands for `Grater Than**
 					-
 			- Always End the if statement with `fi`
 			- For Example, this will echo **"Hi"**
