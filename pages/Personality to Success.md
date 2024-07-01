@@ -30,5 +30,7 @@ Language:: [[HTML]]
 - บุคลิกกภาพสามารถบอกนิสัยของคนอื่นได้
 	- การนั่งกอดอกถือว่าไม่ welcome คนอื่นเข้ามาในการสนทนา
 	-
-- homework #card #การบ้าน
-	-
+- Profile Homework #card #การบ้าน
+	- make a infographic the introduce yourself
+	- There's plenty of things you need to have
+		-
