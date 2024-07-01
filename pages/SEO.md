@@ -10,6 +10,12 @@ language:: [[HTML]]
 		- When Users search something, SEO's bots will looking into your website and choice the best answer for **Users Keywords** or **Users Question**
 		- **SEO's bots** will look upon a **Certain Paramiters** So making those bot look in to your website is a kind of _Art_
 	- SEO's bot are... #card
+	  card-last-interval:: -1
+	  card-repeats:: 1
+	  card-ease-factor:: 2.5
+	  card-next-schedule:: 2024-07-01T17:00:00.000Z
+	  card-last-reviewed:: 2024-07-01T05:42:17.664Z
+	  card-last-score:: 1
 	  collapsed:: true
 		- Google's Bots
 		- Bing's Bots
