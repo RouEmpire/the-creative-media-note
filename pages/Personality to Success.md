@@ -6,6 +6,8 @@ Language:: [[HTML]]
 	- I learn with **นางสาว นงลักษณ์ ไหว้พรม**, but the first professor that comes to the class is not a woman somehow, he is **ดอกเตอร์ ณัณธกรณ์ คำแฝง**
 	- Start at 9:15 Every This morning Class
 	- ## Learn about
-	- Learn presentation and มารยาทในสังคม การรับประทานอาหาร มารยาทในการสมัครงาน จิตวิทยา การสื่อสาร สังคม
+	- Learn presentation and มารยาทในสังคม การรับประทานอาหาร มารยาทในการสมัครงาน จิตวิทยา การสื่อสาร สังคม การแต่งกาย
+	- ## PORTION
+		- งานและกิจกรรม
 - บุคลิกกภาพสามารถบอกนิสัยของคนอื่นได้
 	- การนั่งกอดอกถือว่าไม่ welcome คนอื่นเข้ามาในการสนทนา
