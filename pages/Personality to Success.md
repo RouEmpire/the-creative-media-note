@@ -33,4 +33,9 @@ Language:: [[HTML]]
 - Profile Homework #card #การบ้าน
 	- make a infographic the introduce yourself
 	- There's plenty of things you need to have
+		- Your Picture
+		- Full name
+		- Nick Name
+		- Facalty and department
+		- Contact info
 		-
