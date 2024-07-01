@@ -6,5 +6,6 @@ Language:: [[HTML]]
 	- I learn with **นางสาว นงลักษณ์ ไหว้พรม**, but the first professor that comes to the class is not a woman somehow, he is **นันทการ คำเฟื่อง**
 	- Start at 9:15 Every This morning Class
 	- ## Learn about
-	- Learn presentation and มารยาทในสังคม การรับประทานอาหาร มารยาทในการสมัครงาน และอื่นๆ
--
+	- Learn presentation and มารยาทในสังคม การรับประทานอาหาร มารยาทในการสมัครงาน และอื่น
+- บุคลิกกภาพสามารถบอกนิสัยของคนอื่นได้
+	- การนั่งกอดอกถือว่าไม่ welcome คนอื่นเข้ามาในการสนทนา
