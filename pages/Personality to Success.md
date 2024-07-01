@@ -7,5 +7,4 @@ Language:: [[HTML]]
 	- Start at 9:15 Every This morning Class
 	- ## Learn about
 	- Learn presentation and มารยาทในสังคม การรับประทานอาหาร มารยาทในการสมัครงาน และอื่นๆ
-	-
-	-
+-
