@@ -1,6 +1,5 @@
-Facalty:: [[Liberal Art]]
-Type:: [[Person Skill]] 
-Language:: [[HTML]]
+Facalty:: [[Science and Technology]]
+Type:: [[Soft Skill]]
 
 -
 -
