@@ -70,4 +70,4 @@ Type:: [[Person Skill]]
 				- การใช้สายตา
 				- น้ำเสียง
 		- Internal
-			-
+			- ทิ
