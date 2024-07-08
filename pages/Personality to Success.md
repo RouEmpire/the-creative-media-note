@@ -55,4 +55,4 @@ Type:: [[Person Skill]]
 		- ความเป็นตัวของตัวเอง (Self-Confident)
 		- การยอมรับความแตกต่าง (Individual Differences)
 		- การปรับตัว (Adaptation)
-		-
+		- เกิดการยอมรับของกลุ่ม (Acceptance) *คนเก่ง ทุกคนต้องการ*
