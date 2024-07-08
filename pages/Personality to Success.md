@@ -57,3 +57,4 @@ Type:: [[Person Skill]]
 		- การปรับตัว (Adaptation)
 		- เกิดการยอมรับของกลุ่ม (Acceptance) *คนเก่ง ทุกคนต้องการ*
 		- ความคาดหมายทางพฤติกรรม (Expected Behavior)
+		- ความสำเร็จ (Success)
