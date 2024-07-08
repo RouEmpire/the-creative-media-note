@@ -54,4 +54,5 @@ Type:: [[Person Skill]]
 		- ความมั่นใจ (Confident)
 		- ความเป็นตัวของตัวเอง (Self-Confident)
 		- การยอมรับความแตกต่าง (Individual Differences)
+		- การปรับตัว (Adaptation)
 		-
