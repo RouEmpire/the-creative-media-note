@@ -42,4 +42,4 @@ Type:: [[Person Skill]]
 		- คำคมแจ่มๆ
 - # My Group
 	- It's Chapter **10**
-	- I'm in the Group named ****
+	- I'm in the Group named **บุคลิกภาพในการนำเสนอ**
