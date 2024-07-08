@@ -56,3 +56,4 @@ Type:: [[Person Skill]]
 		- การยอมรับความแตกต่าง (Individual Differences)
 		- การปรับตัว (Adaptation)
 		- เกิดการยอมรับของกลุ่ม (Acceptance) *คนเก่ง ทุกคนต้องการ*
+		- ความคาดหมายทางพฤติกรรม (Behavior)
