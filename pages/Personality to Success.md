@@ -40,4 +40,6 @@ Type:: [[Person Skill]]
 		- บุคลิกภาพที่อยากปรับปรุง
 		- บุคคลที่อยากมีบุคลิกภาพเหมือนกับเขา
 		- คำคมแจ่มๆ
--
+- # My Group
+	- It's Chapter
+	- I'm in the Groupt named
