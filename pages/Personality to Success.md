@@ -41,5 +41,5 @@ Type:: [[Person Skill]]
 		- บุคคลที่อยากมีบุคลิกภาพเหมือนกับเขา
 		- คำคมแจ่มๆ
 - # My Group
-	- It's Chapter ****
+	- It's Chapter **10**
 	- I'm in the Group named ****
