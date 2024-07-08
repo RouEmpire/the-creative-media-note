@@ -53,4 +53,5 @@ Type:: [[Person Skill]]
 	- ความสำคัญของบุคลิกภาพ
 		- ความมั่นใจ (Confident)
 		- ความเป็นตัวของตัวเอง (Self-Confident)
+		- การยอมรับความแตกต่าง (Individual Differences)
 		-
