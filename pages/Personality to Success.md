@@ -58,3 +58,6 @@ Type:: [[Person Skill]]
 		- เกิดการยอมรับของกลุ่ม (Acceptance) *คนเก่ง ทุกคนต้องการ*
 		- ความคาดหมายทางพฤติกรรม (Expected Behavior)
 		- ความสำเร็จ (Success)
+	- องค์ประกอบของบุคลิกภาพ
+		- External
+			- Physical Structure
