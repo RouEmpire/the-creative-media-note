@@ -43,4 +43,5 @@ Type:: [[Person Skill]]
 - # My Group
 	- It's Chapter **10**
 	- I'm in the Group named **บุคลิกภาพในการนำเสนอ**
--
+- # Class 1
+	- Persona มาจากภาษา Latin แปลว่า Mask มาจากเทศกาลในกรีกโบราณที่
