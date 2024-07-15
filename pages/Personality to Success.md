@@ -389,6 +389,10 @@ Type:: [[Person Skill]]
 								- **MMPI** วัดผู้ป่วยทางจิด
 								- **16 PF** วัดคุณลักษณะ 16 อย่าง (ใช้กับคนอายุ 16 ปีขึ้นไป)
 								- **MBTI** วัดการแสดงออก
+									- Extrovert / Introvert
+									- Sensing / Intuition
+									- Thinking / Feeling
+									- Judgement / Perception
 								- **CPI** แบบทดสอบพัฒนามาจาก MMPI แต่ใช้วัดกับคนปกติ
 								- **Neo-FFI** วัดบุคลิกภาพ 5 องค์ประกอบ
 				-
