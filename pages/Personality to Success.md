@@ -310,6 +310,11 @@ Type:: [[Person Skill]]
 			- ประโยชน์ทางด้านการวิจัย
 			  logseq.order-list-type:: number
 		- ข้อระวังเกี่ยวกับการประเมิน
-			- ต้องมีหลายข้อ เพื่อความละเอียด จะได้ประเมินได
+			- ต้องมีหลายข้อ เพื่อความละเอียด จะได้ประเมินได้อย่างแม่นยำมากที่สุด
+			- การเลือกรับรู้ ()
+			  logseq.order-list-type:: number
+				- การรับรู้เฉพาะด้านดี
+				  logseq.order-list-type:: number
+					- logseq.order-list-type:: number
 		-
 -
