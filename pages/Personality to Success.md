@@ -305,6 +305,7 @@ Type:: [[Person Skill]]
 			  logseq.order-list-type:: number
 				- มีการคัดเลือกบุคลากร
 				  logseq.order-list-type:: number
-				- logseq.order-list-type:: number
+			- ประโยชน์ทางด้านกฎหมาย
+			  logseq.order-list-type:: number
 		-
 -
