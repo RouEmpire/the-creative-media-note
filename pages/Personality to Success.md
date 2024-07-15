@@ -309,5 +309,7 @@ Type:: [[Person Skill]]
 			  logseq.order-list-type:: number
 			- ประโยชน์ทางด้านการวิจัย
 			  logseq.order-list-type:: number
+		- ข้อระวังเกี่ยวกับการประเมิน
+			- ต้องมีหลายข้อ เพื่อความละเอียด จะได้ประเมินได
 		-
 -
