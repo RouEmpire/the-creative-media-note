@@ -224,6 +224,7 @@ Type:: [[Person Skill]]
 				- ระดับจิตสำนึกรู้
 					- Conscious
 					- Preconscious
+					- Unconcious
 					-
 				- โครงสร้างบุคลิกภาพ (Structure of Personallity)
 				- พัฒนาการทางบุคลิกภาพ (Psychosexual Stages)
