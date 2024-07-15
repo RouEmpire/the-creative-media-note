@@ -307,5 +307,7 @@ Type:: [[Person Skill]]
 				  logseq.order-list-type:: number
 			- ประโยชน์ทางด้านกฎหมาย
 			  logseq.order-list-type:: number
+			- ประโยชน์ทางด้านการวิจัย
+			  logseq.order-list-type:: number
 		-
 -
