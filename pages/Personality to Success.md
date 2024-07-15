@@ -222,9 +222,9 @@ Type:: [[Person Skill]]
 				- บิดาแห่งทฤษฎีจิตวิเคราะห์
 			- มี 3 ระดับ
 				- ระดับจิตสำนึกรู้
-					- Conscious
-					- Preconscious
-					- Unconcious
+					- Conscious (จุดเหนือน้ำ)
+					- Preconscious (จุดปริ่มน้ำ)
+					- Unconcious (จุดจมน้ำ)
 					-
 				- โครงสร้างบุคลิกภาพ (Structure of Personallity)
 				- พัฒนาการทางบุคลิกภาพ (Psychosexual Stages)
