@@ -380,6 +380,10 @@ Type:: [[Person Skill]]
 								  logseq.order-list-type:: number
 								- แบบการใช้ภาษา
 								  logseq.order-list-type:: number
+							- เทคนิคการแสดงออก
+								- การให้วาดภาพคน
+								- การให้วาดบ้าน ต้นไม้ และคน
+								- การวาดภาพของครอบครัว
 						- แบบทดสอบเชิงปรนัย (Objective Test : เช่น 16PS เป็นต้น)
 				-
 			- ไม่เป็นวิทยาศาสตร์
