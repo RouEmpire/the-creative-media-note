@@ -311,10 +311,11 @@ Type:: [[Person Skill]]
 			  logseq.order-list-type:: number
 		- ข้อระวังเกี่ยวกับการประเมิน
 			- ต้องมีหลายข้อ เพื่อความละเอียด จะได้ประเมินได้อย่างแม่นยำมากที่สุด
-			- การเลือกรับรู้ ()
+			- การเลือกรับรู้ (*Selective Perception*)
 			  logseq.order-list-type:: number
-				- การรับรู้เฉพาะด้านดี
+				- การรับรู้เฉพาะด้านดี (*Halo Effect*)
 				  logseq.order-list-type:: number
-					- logseq.order-list-type:: number
+				- การรับรู้ในด้านที่ไม่ดั (Horns Effect)
+				  logseq.order-list-type:: number
 		-
 -
