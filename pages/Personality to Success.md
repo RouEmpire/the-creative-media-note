@@ -310,12 +310,15 @@ Type:: [[Person Skill]]
 			- ประโยชน์ทางด้านการวิจัย
 			  logseq.order-list-type:: number
 		- ข้อระวังเกี่ยวกับการประเมิน
-			- ต้องมีหลายข้อ เพื่อความละเอียด จะได้ประเมินได้อย่างแม่นยำมากที่สุด
-			- การเลือกรับรู้ (*Selective Perception*)
+			- *ต้องมีหลายข้อ เพื่อความละเอียด จะได้ประเมินได้อย่างแม่นยำมากที่สุด*
+			- การเลือกรับรู้ (**Selective Perception**)
 			  logseq.order-list-type:: number
 				- การรับรู้เฉพาะด้านดี (*Halo Effect*)
 				  logseq.order-list-type:: number
-				- การรับรู้ในด้านที่ไม่ดั (Horns Effect)
+				- การรับรู้ในด้านที่ไม่ดั (*Horns Effect*)
 				  logseq.order-list-type:: number
+			- แบบเหมาะรวม (**Stereotype**)
+			  logseq.order-list-type:: number
+			- logseq.order-list-type:: number
 		-
 -
