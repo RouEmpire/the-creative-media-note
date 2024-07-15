@@ -319,6 +319,10 @@ Type:: [[Person Skill]]
 				  logseq.order-list-type:: number
 			- แบบเหมาะรวม (**Stereotype**)
 			  logseq.order-list-type:: number
-			- logseq.order-list-type:: number
+				- เชื่อว่าทุกคนในหมวดหมู่นั้นๆ มีบางอย่างเหมือนกันจนหมด
+				  logseq.order-list-type:: number
+		- แบบทดสอบบุคลิกภาพที่ดี
+			- มีความเป็นมาตรฐาน
+				- มาตรฐานในการ
 		-
 -
