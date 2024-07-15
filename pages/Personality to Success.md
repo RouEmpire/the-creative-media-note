@@ -225,7 +225,10 @@ Type:: [[Person Skill]]
 					- Conscious (*จุดเหนือน้ำ*)
 					- Preconscious (*จุดปริ่มน้ำ*)
 					- Unconcious (*จุดจมน้ำ*) **AKA. จิดใต้สำนึก**
-					-
-				- โครงสร้างบุคลิกภาพ (Structure of Personallity)
+				- โครงสร้างบุคลิกภาพ (Structure of Personallity
+					- Id
+						- สิ่งที่ติดตัวมาตั้งแต่เกิด เหมือนเด็ก
+					- Ego
+					- Super Ego
 				- พัฒนาการทางบุคลิกภาพ (Psychosexual Stages)
 			-
