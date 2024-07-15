@@ -295,6 +295,16 @@ Type:: [[Person Skill]]
 		- ประโยชน์ของการประเมิน
 			- พัฒนาตนเองได้ เมื่อรู้จักตนเอง
 			  logseq.order-list-type:: number
-			- logseq.order-list-type:: number
+			- ประโยชน์ทางด้านคลินิค
+			  logseq.order-list-type:: number
+				- หาแนวทางการรักษา
+				  logseq.order-list-type:: number
+				- การปรับตัว
+				  logseq.order-list-type:: number
+			- ประโยชน์ในด้านธุรกิจ
+			  logseq.order-list-type:: number
+				- มีการคัดเลือกบุคลากร
+				  logseq.order-list-type:: number
+				- logseq.order-list-type:: number
 		-
 -
