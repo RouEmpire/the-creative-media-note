@@ -376,6 +376,8 @@ Type:: [[Person Skill]]
 							- มี 3 แบบ
 								- การใช้ภาพ เช่น ภาพหยดน้ำหมึกรอร์สชาค
 								  logseq.order-list-type:: number
+								- แบบทดส
+								  logseq.order-list-type:: number
 								- logseq.order-list-type:: number
 						- แบบทดสอบเชิงปรนัย (Objective Test : เช่น 16PS เป็นต้น)
 				-
