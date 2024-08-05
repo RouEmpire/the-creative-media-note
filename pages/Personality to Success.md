@@ -605,4 +605,6 @@ Type:: [[Person Skill]]
 					  logseq.order-list-type:: number
 				- แนวคิดพฤติกรรมนิยม
 				  logseq.order-list-type:: number
+					- การเสริมแรง เมื่อโหยหาการยอมรับ
+					  logseq.order-list-type:: number
 -
