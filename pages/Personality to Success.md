@@ -501,6 +501,8 @@ Type:: [[Person Skill]]
 					  logseq.order-list-type:: number
 					- ย้ำคิดย้ำทำ (OCD,OCN : Obsessive-compulsive Neurosis)
 					  logseq.order-list-type:: number
-					- ฌ
+					- โรคประสาทกลัว (Phobic Neurosis)
 					  logseq.order-list-type:: number
+			- โรคจิต (Psychoses)
+				-
 -
