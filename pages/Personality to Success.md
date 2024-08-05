@@ -476,9 +476,13 @@ Type:: [[Person Skill]]
 				  logseq.order-list-type:: number
 				- **พฤติกรรมไม่เหมาะสมกับวัย** ทำตัวเป็นเด็ก  แก่แล้วไม่ยอมแก่ กระทืบเท้าเวลามีเรื่องทะเลาะ ทะเลาะกับพ่อแม่ 
 				  logseq.order-list-type:: number
-				- **การแสดงอาการเจ็บป่วยทางกายที่หาสาเหตุไม่ได้** ทำเป็นปวดหัว อยู่ๆ ก็ชัก
+				- **การแสดงอาการเจ็บป่วยทางกายที่หาสาเหตุไม่ได้** ทำเป็นปวดหัว อยู่ๆ ก็ชักโดยไม่มีสาเหตุ
 				  logseq.order-list-type:: number
-				- **แยกตัว ไม่เข้าสังคม**
+				- **แยกตัว ไม่เข้าสังคม** ไม่อยากสุงสิงกับใคร หลบหลีก เชื่ว่าตนดีกว่าทุกคน
+				  logseq.order-list-type:: number
+				- **เศร้า วิตก อยากฆ่าตัวตาย**
+				  logseq.order-list-type:: number
+				- **ย้ำคิดย้ำทำ**
 				  logseq.order-list-type:: number
 				- logseq.order-list-type:: number
 				- logseq.order-list-type:: number
