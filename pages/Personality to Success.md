@@ -544,12 +544,16 @@ Type:: [[Person Skill]]
 					  logseq.order-list-type:: number
 						- ปัจจัยทางชีววิทยา ปัจจัยทางสมอง
 						  logseq.order-list-type:: number
-					- logseq.order-list-type:: number
-					-
 				- ฮิสทริโอนิก (Histrionic)
 				  logseq.order-list-type:: number
 					- **อาการ** :
 					  logseq.order-list-type:: number
 						- เล่นใหญ่ ประดุจการเล่นละคร มีพละกำลัง กล้าแสดงออกมาเกินไป มีความตื่นเต้นตลอด ชอบสังคม รักสนุก ชอบให้ผู้อื่นชื่นชมตัวเอง พบได้ในเพศหญิงและผู้เบี่ยงเบนทางเพศ
+						  logseq.order-list-type:: number
+				- ย้ำคิดย้ำทำ
+				  logseq.order-list-type:: number
+					- อาการ
+					  logseq.order-list-type:: number
+						- ชอบสะสม ทำซ้ำๆ
 						  logseq.order-list-type:: number
 -
