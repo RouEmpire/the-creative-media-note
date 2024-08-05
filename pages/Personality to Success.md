@@ -589,7 +589,11 @@ Type:: [[Person Skill]]
 					  logseq.order-list-type:: number
 						- โดปามีน
 						  logseq.order-list-type:: number
-						- logseq.order-list-type:: number
+						- นอเอฟริสเนมปริน
+						  logseq.order-list-type:: number
+						- ซีโอโรโทนิน
+						  logseq.order-list-type:: number
 				- แนวคิดทฤษฎีจิตวิเคราะห์
 				  logseq.order-list-type:: number
+				- logseq.order-list-type:: number
 -
