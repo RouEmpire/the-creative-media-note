@@ -536,5 +536,12 @@ Type:: [[Person Skill]]
 					- **เสนอแนะ** :
 				- ไฮเปอร์ (Hyper Active)
 				  logseq.order-list-type:: number
-					- logseq.order-list-type:: number
+					- อาการ :
+					  logseq.order-list-type:: number
+						- สมาธิสั้น ชอบเคลื่อนไหวใช้พลังงาน 
+						  logseq.order-list-type:: number
+					- เกิดจาก 
+					  logseq.order-list-type:: number
+						- ปั
+						  logseq.order-list-type:: number
 -
