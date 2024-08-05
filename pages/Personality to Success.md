@@ -494,13 +494,13 @@ Type:: [[Person Skill]]
 		- บุคลิกภาพผิดปกติ (Personality Disorder)
 			- มีการแสดงออกที่ไม่อยู่ในบรรทัดฐานของสังคม เบี่ยงเบน มักปฏิเสธการช่วยเหลือ ไม่ยอมรับว่าตนมีปัญหา
 			- โรคประสาท (Neurosis)
-				- เกิดจากการที่คนที่ใช้กลไกป้องกันตนเองมาเกินไป พร่ำเพรื่อ จนทำให้เกิดเป็นความตึงเครียด ไม่ยอมรับความจริง 
-				   หลอกตัวเอง แบ่งออกเป็น 4 ชนิด
+				- เกิดจากการที่คนที่ใช้กลไกป้องกันตนเองมาเกินไป พร่ำเพรื่อ จนทำให้เกิดเป็นความตึงเครียด ไม่ยอมรับความจริง หลอกตัวเอง แบ่งออกเป็น 4 ชนิด
 					- โรคประสาทกังวล (Anxiety Neurosis)
 					  logseq.order-list-type:: number
 					- ซึมเศร้า (Depression Neurosis)
 					  logseq.order-list-type:: number
 					- ย้ำคิดย้ำทำ (OCD,OCN : Obsessive-compulsive Neurosis)
 					  logseq.order-list-type:: number
-					- logseq.order-list-type:: number
+					- ฌ
+					  logseq.order-list-type:: number
 -
