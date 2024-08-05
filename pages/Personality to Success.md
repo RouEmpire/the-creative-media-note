@@ -580,7 +580,6 @@ Type:: [[Person Skill]]
 						- ถูกทารุณ ถูกทอดทิ้ง
 				- ติดสังคมออนไลน์
 				  logseq.order-list-type:: number
-					- อาการ
-					  logseq.order-list-type:: number
-						- logseq.order-list-type:: number
+					- **อาการ**
+						- เสพติดการดูผลลัพธ์ในโลกโซเชียลมากเกินไป
 -
