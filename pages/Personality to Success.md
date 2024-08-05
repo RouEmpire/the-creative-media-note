@@ -430,5 +430,15 @@ Type:: [[Person Skill]]
 			  logseq.order-list-type:: number
 			- เมื่อเกิดความผิดหวัง เราสามารถควบคุมได้
 			  logseq.order-list-type:: number
-			- logseq.order-list-type:: number
+			- เข้าใจตนเองถูกต้อง
+			  logseq.order-list-type:: number
+			- นับถือคนเอง
+			  logseq.order-list-type:: number
+			- สามารถแก้ไขปัญหาที่เกิดขึ้นได้
+			  logseq.order-list-type:: number
+			- มีความพึงพอใจนสิ่งต่างๆ รอบตัวเอง
+			  logseq.order-list-type:: number
+			- สนองความต้องการของตนใน*ทางที่ควร*
+			  logseq.order-list-type:: number
+		-
 -
