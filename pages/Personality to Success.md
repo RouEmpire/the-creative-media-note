@@ -539,21 +539,16 @@ Type:: [[Person Skill]]
 					- อาการ :
 					  logseq.order-list-type:: number
 						- สมาธิสั้น ชอบเคลื่อนไหวใช้พลังงาน ชอบใช้กำลัง ขี้โมโห บ้าคลั่ง ลุกลี้ลุกลน ฟังคนอื่นให้พูดจนจบไม่ค่อยได้ ไม่ค่อยสนใจใคร
-						  logseq.order-list-type:: number
 					- เกิดจาก 
 					  logseq.order-list-type:: number
 						- ปัจจัยทางชีววิทยา ปัจจัยทางสมอง
-						  logseq.order-list-type:: number
 				- ฮิสทริโอนิก (Histrionic)
 				  logseq.order-list-type:: number
 					- **อาการ** :
-					  logseq.order-list-type:: number
 						- เล่นใหญ่ ประดุจการเล่นละคร มีพละกำลัง กล้าแสดงออกมาเกินไป มีความตื่นเต้นตลอด ชอบสังคม รักสนุก ชอบให้ผู้อื่นชื่นชมตัวเอง พบได้ในเพศหญิงและผู้เบี่ยงเบนทางเพศ
-						  logseq.order-list-type:: number
 				- ย้ำคิดย้ำทำ
 				  logseq.order-list-type:: number
-					- อาการ :
-					  logseq.order-list-type:: number
+					- **อาการ** :
 						- ชอบสะสม ทำซ้ำๆ บ้าสะสมเพื่อสนองความรู้สึก *เผื่อ* การขาดแคลน ทำให้ตนอุ่นใจ ส่วนใหญ่จะพบในเพศชายมากกว่า ดื้อรั้น ไม่มีระเบียบ อารมณ์อ่อนไหว ยึดติดกับสิ่งสะสม แยกแยะไม่ได้ว่าอะไรควรทิ้งหรือไม่ทิ้ง
-						  logseq.order-list-type:: number
+				- logseq.order-list-type:: number
 -
