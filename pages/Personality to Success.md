@@ -595,5 +595,14 @@ Type:: [[Person Skill]]
 						  logseq.order-list-type:: number
 				- แนวคิดทฤษฎีจิตวิเคราะห์
 				  logseq.order-list-type:: number
-				- logseq.order-list-type:: number
+					- Ego ทำงานผิดพลาด
+					  logseq.order-list-type:: number
+					- Ego ไปเชื่อ id
+					  logseq.order-list-type:: number
+					- หลงเชื่อ ยมงาย เชื่อในสัญชาติญาณ
+					  logseq.order-list-type:: number
+					- กลายเป็น Super Ego
+					  logseq.order-list-type:: number
+				- แนวคิดพฤติกรรมนิยม
+				  logseq.order-list-type:: number
 -
