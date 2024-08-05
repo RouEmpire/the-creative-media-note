@@ -447,4 +447,9 @@ Type:: [[Person Skill]]
 			  logseq.order-list-type:: number
 			- ไว้ใจ ไม่ระหวาดระแวงมากเกินไป
 			  logseq.order-list-type:: number
+			- ยอมรับความแตกต่างระหว่างบุคคล
+			  logseq.order-list-type:: number
+			- ไม่ให้คนอื่นตามใจตนเอง ไ
+			  logseq.order-list-type:: number
+			- logseq.order-list-type:: number
 -
