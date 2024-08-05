@@ -611,5 +611,6 @@ Type:: [[Person Skill]]
 				  logseq.order-list-type:: number
 				- แนวคิดทางด้านวัฒนธรรม
 				  logseq.order-list-type:: number
-				- logseq.order-list-type:: number
+			- การส่งเสริมสุขภาพจิต
+				-
 -
