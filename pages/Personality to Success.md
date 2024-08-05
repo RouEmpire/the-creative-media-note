@@ -460,6 +460,12 @@ Type:: [[Person Skill]]
 			  logseq.order-list-type:: number
 			- ปรับตัวเข้ากับสภาพแวดล้อมได้
 			  logseq.order-list-type:: number
-			- รับผิดชอบใน
+			- รับผิดชอบในหน้าที่ของตนเองได้
+			  logseq.order-list-type:: number
+			- วาแผนชีวิต ไม่กลัวอนาคต
+			  logseq.order-list-type:: number
+			- ยอมรับความเปลี่ยนแปลง
+			  logseq.order-list-type:: number
+			- ใช้ความสามารถในการทำงานและ
 			  logseq.order-list-type:: number
 -
