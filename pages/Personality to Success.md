@@ -443,5 +443,8 @@ Type:: [[Person Skill]]
 		- ความรู้สึกต่อผู้อื่น
 			- ให้ความรักต่อคนอื่นเป็น
 			  logseq.order-list-type:: number
-			- logseq.order-list-type:: number
+			- เข้าใจความรู้สึกคนอื่น คบค้าสมาคมได้
+			  logseq.order-list-type:: number
+			- ไว้ใจ ไม่ระหวาดระแวงมากเกินไป
+			  logseq.order-list-type:: number
 -
