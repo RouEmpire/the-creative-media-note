@@ -560,5 +560,11 @@ Type:: [[Person Skill]]
 					  logseq.order-list-type:: number
 						- มีความรู้สึกว่า การใช้จ่ายช่วยลดความเครียด บ่อครั้งที่ซื้อของที่ไม่ได้จำเป็น
 						  logseq.order-list-type:: number
+				- ต่อต้านสังคม
+				  logseq.order-list-type:: number
+					- อาการ
+					  logseq.order-list-type:: number
+						- มีสัมพัธภาพกับคนอื่นในแง่ร้าย ฝ่าฝืนกดหมาย ไม่เคารพสิทธิของคนอื่น
+						  logseq.order-list-type:: number
 					- logseq.order-list-type:: number
 -
