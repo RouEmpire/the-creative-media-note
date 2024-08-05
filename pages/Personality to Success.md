@@ -562,9 +562,16 @@ Type:: [[Person Skill]]
 						  logseq.order-list-type:: number
 				- ต่อต้านสังคม
 				  logseq.order-list-type:: number
-					- อาการ
+					- **อาการ**
 					  logseq.order-list-type:: number
 						- มีสัมพัธภาพกับคนอื่นในแง่ร้าย ฝ่าฝืนกดหมาย ไม่เคารพสิทธิของคนอื่น
 						  logseq.order-list-type:: number
-					- logseq.order-list-type:: number
+					- **ปัญหา**
+					  logseq.order-list-type:: number
+						- ติดยา ติดเหล้า เป็นเด็กแว้น
+						  logseq.order-list-type:: number
+				- หลงตัวเอง
+				  logseq.order-list-type:: number
+					- **อากรา**
+						- ชอบข่มคนอื่น ตนเองดีกว่า รักตนเองมากกว่า เห็นแก่ตัวเอง มองตนเป็นหลัก
 -
