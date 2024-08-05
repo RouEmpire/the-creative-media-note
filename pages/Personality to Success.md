@@ -484,6 +484,9 @@ Type:: [[Person Skill]]
 				  logseq.order-list-type:: number
 				- **ย้ำคิดย้ำทำ**
 				  logseq.order-list-type:: number
-				- logseq.order-list-type:: number
+				- **อารมณ์ฉุนเฉียว อ่อนไหวง่าย** อารมณ์เปลี่ยนง่ายและเร็ว
+				  logseq.order-list-type:: number
+				- **ไม่พอใจในตนเอง อิจฉาริษยาตลอด**
+				  logseq.order-list-type:: number
 				- logseq.order-list-type:: number
 -
