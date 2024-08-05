@@ -449,7 +449,9 @@ Type:: [[Person Skill]]
 			  logseq.order-list-type:: number
 			- ยอมรับความแตกต่างระหว่างบุคคล
 			  logseq.order-list-type:: number
-			- ไม่ให้คนอื่นตามใจตนเอง ไ
+			- ไม่ให้คนอื่นตามใจตนเอง และ ไม่ยอมให้ตนเองจามใจคนอื่นจน*มากเกินไป*
+			  logseq.order-list-type:: number
+			- ทำงานร่วมกับผู้อื่นได้ ทั้งการเป็นผู้นำและผู้ตาม
 			  logseq.order-list-type:: number
 			- logseq.order-list-type:: number
 -
