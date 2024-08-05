@@ -552,8 +552,8 @@ Type:: [[Person Skill]]
 						  logseq.order-list-type:: number
 				- ย้ำคิดย้ำทำ
 				  logseq.order-list-type:: number
-					- อาการ
+					- อาการ :
 					  logseq.order-list-type:: number
-						- ชอบสะสม ทำซ้ำๆ
+						- ชอบสะสม ทำซ้ำๆ บ้าสะสมเพื่อสนองความรู้สึก *เผื่อ* การขาดแคลน ทำให้ตนอุ่นใจ
 						  logseq.order-list-type:: number
 -
