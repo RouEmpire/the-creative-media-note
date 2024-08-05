@@ -538,10 +538,11 @@ Type:: [[Person Skill]]
 				  logseq.order-list-type:: number
 					- อาการ :
 					  logseq.order-list-type:: number
-						- สมาธิสั้น ชอบเคลื่อนไหวใช้พลังงาน 
+						- สมาธิสั้น ชอบเคลื่อนไหวใช้พลังงาน ชอบใช้กำลัง ขี้โมโห บ้าคลั่ง ลุกลี้ลุกลน ฟังคนอื่นให้พูดจนจบไม่ค่อยได้ ไม่ค่อยสนใจใคร
 						  logseq.order-list-type:: number
 					- เกิดจาก 
 					  logseq.order-list-type:: number
-						- ปั
+						- ปัจจัยทางชีววิทยา ปัจจัยทางสมอง
 						  logseq.order-list-type:: number
+					- logseq.order-list-type:: number
 -
