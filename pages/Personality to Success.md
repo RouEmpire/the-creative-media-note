@@ -556,7 +556,9 @@ Type:: [[Person Skill]]
 						- ชอบแข่งขัน ต้อง Perfect ตลอด มุ่งมั่นที่จะเอาชนะ ตื่นตัว มีความรับผิดชอบสูง มีความเครียดสูง รู้สึกว่าแพ้ไม่ได้ มีความรู้สึกกดดัน
 				- บ้าช้อปปิ้ง (Compulsive)
 				  logseq.order-list-type:: number
-					- อาการ
+					- **อาการ** :
 					  logseq.order-list-type:: number
-						- logseq.order-list-type:: number
+						- มีความรู้สึกว่า การใช้จ่ายช่วยลดความเครียด บ่อครั้งที่ซื้อของที่ไม่ได้จำเป็น
+						  logseq.order-list-type:: number
+					- logseq.order-list-type:: number
 -
