@@ -440,5 +440,8 @@ Type:: [[Person Skill]]
 			  logseq.order-list-type:: number
 			- สนองความต้องการของตนใน*ทางที่ควร*
 			  logseq.order-list-type:: number
-		-
+		- ความรู้สึกต่อผู้อื่น
+			- ให้ความรักต่อคนอื่นเป็น
+			  logseq.order-list-type:: number
+			- logseq.order-list-type:: number
 -
