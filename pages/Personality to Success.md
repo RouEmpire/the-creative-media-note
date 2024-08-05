@@ -472,5 +472,7 @@ Type:: [[Person Skill]]
 			  logseq.order-list-type:: number
 		- พฤติกรรมของบุคคลที่มีปัญหาสุขภาพจิต
 			- เบื้องต้น
-				-
+				- ความผิดปกติทางพฤติกรรม ความแปรปรวนทางนิสัย หยาบคาย ใช้สารเสพติด ความแปรปรวนทางประสาท ขี้กลัว เพ้อเจ้อ
+				  logseq.order-list-type:: number
+				- logseq.order-list-type:: number
 -
