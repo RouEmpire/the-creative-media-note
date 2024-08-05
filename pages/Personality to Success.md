@@ -2,6 +2,7 @@ Facalty:: [[Liberal Art]]
 Type:: [[Person Skill]]
 
 - # Class Introduction
+  collapsed:: true
 	- I learn with **นางสาว นงลักษณ์ ไหว้พรม**, but the first professor that comes to the class is not a woman somehow, he is **ดอกเตอร์ ณัณธกรณ์ คำแฝง**
 	- Start at 9:15 Every This morning Class
 	- ## Learn about
@@ -30,6 +31,7 @@ Type:: [[Person Skill]]
 	- การนั่งกอดอกถือว่าไม่ welcome คนอื่นเข้ามาในการสนทนา
 	-
 - Profile Homework #card #การบ้าน
+  collapsed:: true
 	- make a infographic the introduce yourself
 	- There's plenty of things you need to have
 		- Your Picture
@@ -192,6 +194,7 @@ Type:: [[Person Skill]]
 			- ไม่มีมนุษยสัมพันธ์
 			- ชอบอวดตัว ไม่มีน้ำใจ ไม่รับฟังความคิดเห็นจากคนเอง
 - # Class 2
+  collapsed:: true
 	- ทฤษฎีจิตวิทยาเพื่อวิเคราห์จนเอง
 		- การวิเคราะห์ตนเอง
 			- มีเพื่อการเข้าใจ**ข้อดีข้อด้อย**ของตนเอง
@@ -288,6 +291,7 @@ Type:: [[Person Skill]]
 					- แต่ละคนไม่เหมือนกัน เช่น ความรวย ชื่อเสียง หรือเกี่ยวกับศาสนา
 					- มักจะไม่มีความกดดันแล้ว
 - # Class 3
+  collapsed:: true
 	- การประเมินบุคลิกภาพ
 		- หมายถึง การตรวจสอบทั้งลักษณะภายนอก/ภายใน และคุณภาพของบุคคลนั้นๆ
 			- **ภายนอก** : รูปร่าง หน้าตา การเดิน พิวพรรณ ความสูง/เตี้ย
@@ -414,4 +418,5 @@ Type:: [[Person Skill]]
 				- **Graphology** การคิดคำนวนกับตัวเลขจากทางโหราศาสตร์แล้วนำมาทำเป็นกราฟ (กราฟชีวิต)
 - # Class 4
 	- สุขภาพจิต
+		- เรื่องอารม ความคิด การมีมนุษยสัมพัธ์
 -
