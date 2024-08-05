@@ -477,4 +477,5 @@ Type:: [[Person Skill]]
 				- **พฤติกรรมไม่เหมาะสมกับวัย**
 				  logseq.order-list-type:: number
 				- logseq.order-list-type:: number
+				- logseq.order-list-type:: number
 -
