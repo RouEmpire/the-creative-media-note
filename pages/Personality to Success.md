@@ -453,5 +453,13 @@ Type:: [[Person Skill]]
 			  logseq.order-list-type:: number
 			- ทำงานร่วมกับผู้อื่นได้ ทั้งการเป็นผู้นำและผู้ตาม
 			  logseq.order-list-type:: number
-			- logseq.order-list-type:: number
+			- รู้สึกว่าคนเอ
+			  logseq.order-list-type:: number
+		- ความสามารถในการดำเนินชีวิต
+			- แก้ไขปัญหาในชีวิต
+			  logseq.order-list-type:: number
+			- ปรับตัวเข้ากับสภาพแวดล้อมได้
+			  logseq.order-list-type:: number
+			- รับผิดชอบใน
+			  logseq.order-list-type:: number
 -
