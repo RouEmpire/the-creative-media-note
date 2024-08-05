@@ -466,6 +466,11 @@ Type:: [[Person Skill]]
 			  logseq.order-list-type:: number
 			- ยอมรับความเปลี่ยนแปลง
 			  logseq.order-list-type:: number
-			- ใช้ความสามารถในการทำงานและ
+			- ใช้ความสามารถในการทำงานและทำสิ่งต่างไ อย่างเต็มที่
 			  logseq.order-list-type:: number
+			- วางเป้าหมายชีวิตได้
+			  logseq.order-list-type:: number
+		- พฤติกรรมของบุคคลที่มีปัญหาสุขภาพจิต
+			- เบื้องต้น
+				-
 -
