@@ -545,4 +545,11 @@ Type:: [[Person Skill]]
 						- ปัจจัยทางชีววิทยา ปัจจัยทางสมอง
 						  logseq.order-list-type:: number
 					- logseq.order-list-type:: number
+					-
+				- ฮิสทริโอนิก (Histrionic)
+				  logseq.order-list-type:: number
+					- อาการ :
+					  logseq.order-list-type:: number
+						- เล่นใหญ่ ประดุจการเล่นละคร พบได้ในเพศหญิงและ
+						  logseq.order-list-type:: number
 -
