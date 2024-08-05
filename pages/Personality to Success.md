@@ -498,7 +498,9 @@ Type:: [[Person Skill]]
 				   หลอกตัวเอง แบ่งออกเป็น 4 ชนิด
 					- โรคประสาทกังวล (Anxiety Neurosis)
 					  logseq.order-list-type:: number
-					- ซึมเศร้า (Depression Neu)
+					- ซึมเศร้า (Depression Neurosis)
+					  logseq.order-list-type:: number
+					- ย้ำคิดย้ำทำ (OCD,OCN : Obsessive-compulsive Neurosis)
 					  logseq.order-list-type:: number
 					- logseq.order-list-type:: number
 -
