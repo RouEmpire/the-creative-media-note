@@ -587,11 +587,11 @@ Type:: [[Person Skill]]
 				  logseq.order-list-type:: number
 					- สารเคมี เช่น
 					  logseq.order-list-type:: number
-						- โดปามีน
+						- *โดปามีน*
 						  logseq.order-list-type:: number
-						- นอเอฟริสเนมปริน
+						- *นอเอฟริสเนมปริน*
 						  logseq.order-list-type:: number
-						- ซีโอโรโทนิน
+						- *ซีโอโรโทนิน*
 						  logseq.order-list-type:: number
 				- แนวคิดทฤษฎีจิตวิเคราะห์
 				  logseq.order-list-type:: number
@@ -607,4 +607,9 @@ Type:: [[Person Skill]]
 				  logseq.order-list-type:: number
 					- การเสริมแรง เมื่อโหยหาการยอมรับ
 					  logseq.order-list-type:: number
+				- การเรียนรู้ทางสังคม
+				  logseq.order-list-type:: number
+				- แนวคิดทางด้านวัฒนธรรม
+				  logseq.order-list-type:: number
+				- logseq.order-list-type:: number
 -
