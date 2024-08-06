@@ -22,4 +22,7 @@
 			  ```
 		- Add this JavaScript [[CDN]] in to the `<head>` of the html file
 		  logseq.order-list-type:: number
-		- logseq.order-list-type:: number
+			- logseq.order-list-type:: number
+			  ```html
+			  
+			  ```
