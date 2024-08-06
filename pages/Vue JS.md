@@ -68,4 +68,6 @@
 				     <script src="./App.js"></script>
 				  <body>
 				  ```
+		- After we create the VueJS App, there's nothing happend in the browser
+		- Remeber that whatever code we
 -
