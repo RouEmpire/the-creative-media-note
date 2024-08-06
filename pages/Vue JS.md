@@ -117,7 +117,8 @@
 						  <p> Hi, my name is Zeen and I'm {{ age }} years old </p>
 						  ```
 				- **To declare** a variable that can be use in the HTML file, we need to follow these step
-				- logseq.order-list-type:: number
+				- In the `Vue.createApp` function, we put
+				  logseq.order-list-type:: number
 			-
 			-
 -
