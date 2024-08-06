@@ -74,13 +74,13 @@ language:: [[JavaScript]]
 				     <script src="./App.js"></script>
 				  <body>
 				  ```
-		- After we create the VueJS App, there's nothing happend in the browser
+		- After we create the **VueJS App**, there's nothing happend in the browser
 		- Remeber that whatever code we wrote in the `App.js` will only affect in the `div#myApp` only, we can still make changes in other part of the HTML freely and it won't affect the `div#myApp`
 	- ## Root Component
 		- In order to create anything in the HTML by writing code in the `App.js`. You have to put a **Object** in the `Vue.createApp()` like this
 			- ```js
 			  const App = Vue.createApp({})
-			  // or this way
+			  // or this way, not much different
 			  cosnt App = Vue.createApp({
 			  
 			  })
