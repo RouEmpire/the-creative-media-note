@@ -1,1 +1,3 @@
-- Vue J
+- Vue JS is the JavaScript for Front End Development, it's make HTML elements dynamic
+- # Class 1
+	-
