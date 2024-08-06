@@ -58,8 +58,14 @@
 				  ```
 			- The Final form should look like this
 				- ```html
-				  <body>
+				  <head>
 				  
+				  
+				  <body>
+				      <div id="myApp">
+				      </div>
+				  
+				     <script src="./App.js"></script>
 				  <body>
 				  ```
 				  ```
