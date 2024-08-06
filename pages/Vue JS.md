@@ -98,6 +98,8 @@
 			- The HTML element in `template` will be inject into the HTML file if that HTML file has...
 				- Right HTML5 Structure
 				  logseq.order-list-type:: number
-				- Include the
+				- Include the ((66b19a7d-8b9d-497f-93d1-0aca8588ba59)) in the `<head>`
+				  logseq.order-list-type:: number
+				- has `div#myApp` or other ID name that its
 				  logseq.order-list-type:: number
 -
