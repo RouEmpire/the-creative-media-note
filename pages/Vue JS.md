@@ -81,7 +81,9 @@
 			  ```
 			- In the object. It's the place where we control the web page (only in the `div#myApp`)
 			- In the object, we can put 2 things. **Data**, **Template** and **Function** that can be run when user do something on the web page
-				- **Data** : It's a Variable that you can *Call or Access* them in the HTML file
-				- **Templete** : It's
+				- **Data**
+					- It's a Variable that you can *Call or Access* them in the HTML file
+				- **Templete**
+					- It's a group of HTML tag that will be inject directly into the
 			-
 -
