@@ -109,7 +109,8 @@
 					- has ((66b19b3f-b2cf-4a84-b56b-d10b558d10ee)) after the `div#myApp`
 					  logseq.order-list-type:: number
 			- #### Code it directly in Index.html
-				- Basically write any HTML tag/content in the `div#myApp`
+				- Basically write any HTML tag/content in the `div#myApp` the **VueJS** will automatically consider it as a template
+			-
 			-
 			-
 -
