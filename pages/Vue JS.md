@@ -53,7 +53,8 @@
 				  
 				  App.mount("#myApp")
 				  ```
-			- Third, Import the `App.js` file into HTML.
+			- Third, Import the `App.js` file into HTML with the `script:src` way
+				-
 				- ```html
 				  <script src="./App.js"></script>
 				  ```
@@ -100,6 +101,8 @@
 				  logseq.order-list-type:: number
 				- Include the ((66b19a7d-8b9d-497f-93d1-0aca8588ba59)) in the `<head>`
 				  logseq.order-list-type:: number
-				- has `div#myApp` or other ID name that its
+				- has `div#myApp` or other ID name that its works as you like
+				  logseq.order-list-type:: number
+				- has `sc`
 				  logseq.order-list-type:: number
 -
