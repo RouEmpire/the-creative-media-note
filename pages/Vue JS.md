@@ -90,6 +90,8 @@
 		- ### Using Template
 			- Insert `templete:` in the object, then follow it with any HTML tag/content you like
 				- ```js
-				  
+				  cosnt App = Vue.createApp({
+				     template: "<h1> Hello World </h1>"
+				  })
 				  ```
 -
