@@ -29,14 +29,14 @@
 		- Open the browser, then open the HTML in that browser. I here, check the *console* in the *inspect menu* of the browser. make sure that you see the message that tells you that this webpage is running on Vue JS
 		  logseq.order-list-type:: number
 	- ## Create VueJS App
-		- Open `App.js` and assign `Vue.Create()` in to `const App` like this
+		- Open `App.js` and assign `Vue.createApp()` in to `const App` like this
 		  logseq.order-list-type:: number
 			- ```js
 			  // App.js
-			  const App = Vue.Create();
+			  const App = Vue.createApp();
 			  ```
-			- The command `Vue.Create()` is the command that create the part of the web to control
-		- Now, we create app, but doesn't mount it to the HTML files anymore. I order to do that, use `app.mount()` method. Put the ID of the `<div>` you want to mount as a method argument.
+			- The command `Vue.createApp()` is the command that create the part of the web to control
+		- Now, we create app, but doesn't mount it to the HTML files anymore. I order to do that, use `App.mount()` method. Put the ID of the `<div>` you want to mount as a method argument.
 		  logseq.order-list-type:: number
 			- First, Make sure you have `<div>` that has an ID on it.
 				- ```html
@@ -48,7 +48,7 @@
 			- Next, Use `mount` method in App.JS after `Vue.create`
 				- ```js
 				  // App.js
-				  
+				  const App = Vue.Create
 				  
 				  App.mount("#myApp")
 				  ```
