@@ -72,4 +72,12 @@
 		- Remeber that whatever code we wrote in the `App.js` will only affect in the `div#myApp` only, we can still make changes in other part of the HTML freely and it won't affect the `div#myApp`
 	- ## Root Component
 		- In order to create anything in the HTML by writing code in the `App.js`. You have to put a **Object** in the `Vue.createApp()` like this
+			- ```js
+			  const App = Vue.createApp({})
+			  // or this way
+			  cosnt App = Vue.createApp({
+			  
+			  })
+			  ```
+			-
 -
