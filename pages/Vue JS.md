@@ -126,8 +126,10 @@
 					     data() {}
 					  })
 					  ```
-					- if you have `template` before that data, you have to
+					- if you have `template` before that data, you have to put `,` at the end of it
 					  logseq.order-list-type:: number
+				- in the `data() {}` put a `return` in an o
+				  logseq.order-list-type:: number
 			-
 			-
 -
