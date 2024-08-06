@@ -114,8 +114,9 @@
 				- **To call** any variable in `template` you have to write it withthin `{{` and `}}`
 					- Assume we have a variable `age` in JavaScript and we want HTML to display the value of this variable, we write `{{ age }}` such as...
 						- ```html
-						  <p> Hi, my name is Zeen and I'm {{ age }}  </p>
+						  <p> Hi, my name is Zeen and I'm {{ age }} years old </p>
 						  ```
+						-
 			-
 			-
 -
