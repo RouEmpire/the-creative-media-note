@@ -40,4 +40,9 @@
 		  logseq.order-list-type:: number
 			- First, Make sure you have `<div>` that has an ID on it.
 			  logseq.order-list-type:: number
-				- logseq.order-list-type:: number
+				- ```html
+				  <!-- html -->
+				  <div>
+				     
+				  </div>
+				  ```
