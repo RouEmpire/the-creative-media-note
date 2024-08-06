@@ -56,8 +56,10 @@
 				- ```html
 				  <script src="./App.js"></script>
 				  ```
+			- The Final form should look like this
 				- ```html
 				  <body>
 				  
 				  <body>
+				  ```
 				  ```
