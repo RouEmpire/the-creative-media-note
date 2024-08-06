@@ -59,13 +59,13 @@
 			- The Final form should look like this
 				- ```html
 				  <head>
-				  
+				    <script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
+				  </head>
 				  
 				  <body>
-				      <div id="myApp">
-				      </div>
+				      <div id="myApp"></div>
 				  
 				     <script src="./App.js"></script>
 				  <body>
 				  ```
-				  ```
+-
