@@ -91,7 +91,8 @@
 				- **Function**
 					- It's a JavaScript function or method
 		- ### Using Template
-			- Any content in any element in the **Template** are dynamic, which mean you can put directly any words or contents, or just
+			- ### Injecting from App.js
+			- Any content in any element in the **Template** are dynamic, which mean you can put directly any words or contents, or just put it a variable name between the tag.
 			- Insert `templete:` in the object, then follow it with any HTML tag/content you like
 				- ```js
 				  cosnt App = Vue.createApp({
