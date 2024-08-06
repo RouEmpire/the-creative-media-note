@@ -52,4 +52,12 @@
 				  
 				  App.mount("#myApp")
 				  ```
-			- Third, Import the `App.js` file into HTML, the final form should
+			- Third, Import the `App.js` file into HTML.
+				- ```html
+				  <script src="./App.js"></script>
+				  ```
+				- ```html
+				  <body>
+				  
+				  <body>
+				  ```
