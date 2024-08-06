@@ -28,4 +28,5 @@
 			  ```
 		- Open the browser, then open the HTML in that browser. I here, check the *console* in the *inspect menu* of the browser. make sure that you see the message that tells you that this webpage is running on Vue JS
 		  logseq.order-list-type:: number
-		- logseq.order-list-type:: number
+	- ## Create VueJS App
+		- Open `App.js` and assign `Vue.Create`
