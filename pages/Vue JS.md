@@ -92,7 +92,7 @@
 					- It's a JavaScript function or method
 		- ### Using Template
 			- Any content in any element in the **Template** are dynamic, which mean you can put directly any words or contents, or just put it a variable name between the tag.
-			- ### Injecting from App.js
+			- #### Injecting from App.js
 				- Insert `templete:` in the object, then follow it with any HTML tag/content you like
 					- ```js
 					  cosnt App = Vue.createApp({
@@ -108,6 +108,8 @@
 					  logseq.order-list-type:: number
 					- has ((66b19b3f-b2cf-4a84-b56b-d10b558d10ee)) after the `div#myApp`
 					  logseq.order-list-type:: number
-			- ### Code it directly in
+			- #### Code it directly in Index.html
+				- Basically write any HTML tag/content in the `div#myApp`
+			-
 			-
 -
