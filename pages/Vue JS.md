@@ -87,6 +87,6 @@
 					- It's a group of HTML tag that will be inject directly into the HTML file
 				- **Function**
 					- It's a JavaScript function or method
-			-
+		- ### Using Template
 			-
 -
