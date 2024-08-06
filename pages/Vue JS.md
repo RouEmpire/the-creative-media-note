@@ -26,5 +26,5 @@
 			  ```html
 			  <script src="https://unpkg.com/vue@3/dist/vue.global.js"></script
 			  ```
-		- Open the browser, then open
+		- Open the browser, then open the HTML in that browser. I here, check the *console* in the *inspect menu* of the browser. make sure that you see the message that tells
 		  logseq.order-list-type:: number
