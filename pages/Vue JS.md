@@ -48,7 +48,7 @@
 			- Second, Use `mount` method in App.JS after `Vue.createApp`
 				- ```js
 				  // App.js
-				  const App = Vue.Create
+				  const App = Vue.createApp()
 				  
 				  App.mount("#myApp")
 				  ```
@@ -69,5 +69,6 @@
 				  <body>
 				  ```
 		- After we create the VueJS App, there's nothing happend in the browser
-		- Remeber that whatever code we wrote in the `App.js` will only affect in the `div#myApp` only, we can still make changes in other part of the HTML freely and it won't affect te
+		- Remeber that whatever code we wrote in the `App.js` will only affect in the `div#myApp` only, we can still make changes in other part of the HTML freely and it won't affect the `div#myApp`
+		-
 -
