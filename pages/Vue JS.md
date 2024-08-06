@@ -94,5 +94,7 @@
 				     template: "<h1> Hello World </h1>"
 				  })
 				  ```
-			- The
+			- The HTML element in `template` will be inject into the HTML file if that HTML file has...
+				- Right
+				  logseq.order-list-type:: number
 -
