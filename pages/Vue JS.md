@@ -80,5 +80,6 @@
 			  })
 			  ```
 			- In the object. It's the place where we control the web page (only in the `div#myApp`)
-			- In the object, we can put 2 things.
+			- In the object, we can put 2 things. **Data** and **Function** that can be run when user do something on the web page
+			-
 -
