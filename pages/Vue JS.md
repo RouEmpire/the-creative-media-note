@@ -112,7 +112,7 @@
 				- Basically write any HTML tag/content in the `div#myApp` the **VueJS** will automatically consider it as a template
 			- ### Variable
 				- To call any variable in `template` you have to write it withthin `{{` and `}}`
-				- Assume we have a variable ``
+				- Assume we have a variable `age` in JavaScript and we want HTML to display the value of this variable, we write
 			-
 			-
 -
