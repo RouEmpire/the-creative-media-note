@@ -139,6 +139,9 @@
 					     }
 					  })
 					  ```
+				- In the `return {}`, you can now put in any variable you like, such as...
+				  logseq.order-list-type:: number
+					- logseq.order-list-type:: number
 			-
 			-
 -
