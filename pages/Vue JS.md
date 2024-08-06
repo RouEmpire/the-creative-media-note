@@ -54,10 +54,11 @@
 				  App.mount("#myApp")
 				  ```
 			- Third, Import the `App.js` file into HTML with the `script:src` way
-				-
-				- ```html
-				  <script src="./App.js"></script>
-				  ```
+				- **VueJS** `script:src`
+				  id:: 66b19b3f-b2cf-4a84-b56b-d10b558d10ee
+					- ```html
+					  <script src="./App.js"></script>
+					  ```
 			- The Final form should look like this
 				- ```html
 				  <head>
@@ -103,6 +104,7 @@
 				  logseq.order-list-type:: number
 				- has `div#myApp` or other ID name that its works as you like
 				  logseq.order-list-type:: number
-				- has `sc`
+				- has ((66b19b3f-b2cf-4a84-b56b-d10b558d10ee)) after the `div#myApp`
 				  logseq.order-list-type:: number
+				- logseq.order-list-type:: number
 -
