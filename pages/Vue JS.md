@@ -117,8 +117,14 @@
 						  <p> Hi, my name is Zeen and I'm {{ age }} years old </p>
 						  ```
 				- **To declare** a variable that can be use in the HTML file, we need to follow these step
-				- In the `Vue.createApp` function, we put
+				- In the `Vue.createApp` function, we put a `data() {}` inside. It should look like this
 				  logseq.order-list-type:: number
+					- logseq.order-list-type:: number
+					  ```Js
+					  const App = Vue.createApp({
+					  
+					  })
+					  ```
 			-
 			-
 -
