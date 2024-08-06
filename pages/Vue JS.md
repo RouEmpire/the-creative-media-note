@@ -1,6 +1,6 @@
 - Vue JS is the JavaScript for Front End Development, it's make HTML elements dynamic
 - # Class 1
-	- ## Setup Env for
+	- ## Setup Environment for learing
 		- In order to set up **Vue JS** we have to make 2 files, `index.html` and `App.js`
 		  logseq.order-list-type:: number
 		- Put a Basic HTML Structure into the file, like this
@@ -26,4 +26,5 @@
 			  ```html
 			  <script src="https://unpkg.com/vue@3/dist/vue.global.js"></script
 			  ```
-		- logseq.order-list-type:: number
+		- Open the browser, then open
+		  logseq.order-list-type:: number
