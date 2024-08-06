@@ -20,14 +20,13 @@
 			  </body>
 			  </html>
 			  ```
-		- Add this JavaScript [[CDN]] in to the `<head>` of the html file,
+		- Add this JavaScript [[CDN]] in to the `<head>` of the html file, in this case its called *VueJS CDN*
 		  logseq.order-list-type:: number
-			- VueJS CDN
-			  logseq.order-list-type:: number
-			- logseq.order-list-type:: number
-			  ```html
-			  <script src="https://unpkg.com/vue@3/dist/vue.global.js"></script
-			  ```
+			- **VueJS CDN**
+			  id:: 66b19a7d-8b9d-497f-93d1-0aca8588ba59
+				- ```html
+				  <script src="https://unpkg.com/vue@3/dist/vue.global.js"></script
+				  ```
 		- Open the browser, then open the HTML in that browser. I here, check the *console* in the *inspect menu* of the browser. make sure that you see the message that tells you that this webpage is running on Vue JS
 		  logseq.order-list-type:: number
 	- ## Create VueJS App
