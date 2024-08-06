@@ -84,6 +84,9 @@
 				- **Data**
 					- It's a Variable that you can *Call or Access* them in the HTML file
 				- **Templete**
-					- It's a group of HTML tag that will be inject directly into the
+					- It's a group of HTML tag that will be inject directly into the HTML file
+				- **Function**
+					- It's a JavaScript function or method
+			-
 			-
 -
