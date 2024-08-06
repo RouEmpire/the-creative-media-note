@@ -88,5 +88,8 @@
 				- **Function**
 					- It's a JavaScript function or method
 		- ### Using Template
-			-
+			- Insert `templete:` in the object, then follow it with any HTML tag/content you like
+				- ```js
+				  
+				  ```
 -
