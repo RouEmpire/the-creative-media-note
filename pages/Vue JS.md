@@ -45,5 +45,11 @@
 				     
 				  </div>
 				  ```
-			- Next, Use `mount` method in App.JS
-			-
+			- Next, Use `mount` method in App.JS after `Vue.create`
+				- ```js
+				  // App.js
+				  
+				  
+				  App.mount("#myApp")
+				  ```
+				-
