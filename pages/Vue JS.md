@@ -142,6 +142,13 @@
 				- In the `return {}`, you can now put in any variable you like, such as...
 				  logseq.order-list-type:: number
 					- logseq.order-list-type:: number
+					  ```js
+					  const App = Vue.createApp({
+					     template: "Hello World I'm {{ age }} years old"
+					     data () {}
+					  
+					  })
+					  ```
 			-
 			-
 -
