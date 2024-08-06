@@ -145,7 +145,12 @@
 					  ```js
 					  const App = Vue.createApp({
 					     template: "Hello World I'm {{ age }} years old"
-					     data () {}
+					     data () {
+					        return {
+					           name : "Zeen"
+					           age : 19
+					        }
+					     }
 					  
 					  })
 					  ```
