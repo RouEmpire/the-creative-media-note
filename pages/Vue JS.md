@@ -45,11 +45,11 @@
 				     
 				  </div>
 				  ```
-			- Next, Use `mount` method in App.JS after `Vue.createApp`
+			- Second, Use `mount` method in App.JS after `Vue.createApp`
 				- ```js
 				  // App.js
 				  const App = Vue.Create
 				  
 				  App.mount("#myApp")
 				  ```
-				-
+			- Third, Import the `App.js` file into HTML, the final form should
