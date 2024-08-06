@@ -144,7 +144,7 @@
 					- logseq.order-list-type:: number
 					  ```js
 					  const App = Vue.createApp({
-					     template: "Hello World I'm {{ age }} years old",
+					     template: "Hello, I'm {{ name }} and I'm {{ age }} years old",
 					     data () {
 					        return {
 					           name : "Zeen"
@@ -154,6 +154,7 @@
 					  
 					  })
 					  ```
+					- logseq.order-list-type:: number
 			-
 			-
 -
