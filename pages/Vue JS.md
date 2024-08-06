@@ -34,4 +34,4 @@
 			  // App.js
 			  const App = Vue.Create();
 			  ```
-			-
+			- The command `Vue.Create()` is the command that create the
