@@ -111,10 +111,10 @@
 			- #### Code it directly in Index.html
 				- Basically write any HTML tag/content in the `div#myApp` the **VueJS** will automatically consider it as a template
 			- ### Variable
-				- To call any variable in `template` you have to write it withthin `{{` and `}}`
+				- **To call** any variable in `template` you have to write it withthin `{{` and `}}`
 					- Assume we have a variable `age` in JavaScript and we want HTML to display the value of this variable, we write `{{ age }}` such as...
-						- ```js
-						  // JavaScrip
+						- ```html
+						  <p> Hi, my name is Zeen and I'm {{ age }}  </p>
 						  ```
 			-
 			-
