@@ -128,8 +128,17 @@
 					  ```
 					- if you have `template` before that data, you have to put `,` at the end of it
 					  logseq.order-list-type:: number
-				- in the `data() {}` put a `return` in an o
+				- in the `data() {}` put a `return` in an object inside it
 				  logseq.order-list-type:: number
+					- logseq.order-list-type:: number
+					  ```js
+					  const App = Vue.createApp({
+					     template: "Hello World",
+					     data() {
+					      return()
+					  }
+					  })
+					  ```
 			-
 			-
 -
