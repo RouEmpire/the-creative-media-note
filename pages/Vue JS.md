@@ -110,7 +110,8 @@
 					  logseq.order-list-type:: number
 			- #### Code it directly in Index.html
 				- Basically write any HTML tag/content in the `div#myApp` the **VueJS** will automatically consider it as a template
-			-
+			- ### Variable
+				-
 			-
 			-
 -
