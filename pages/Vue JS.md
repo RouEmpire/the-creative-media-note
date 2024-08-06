@@ -79,5 +79,6 @@
 			  
 			  })
 			  ```
+			- In the object. It's the place where we control the web page (only in the `div#myApp`)
 			-
 -
