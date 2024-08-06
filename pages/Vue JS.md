@@ -39,10 +39,11 @@
 		- Now, we create app, but doesn't mount it to the HTML files anymore. I order to do that, use `app.mount()` method. Put the ID of the `<div>` you want to mount as a method argument.
 		  logseq.order-list-type:: number
 			- First, Make sure you have `<div>` that has an ID on it.
-			  logseq.order-list-type:: number
 				- ```html
 				  <!-- html -->
-				  <div>
+				  <div id="myApp">
 				     
 				  </div>
 				  ```
+			- Next, Use `mount` method in App.JS
+			-
