@@ -36,5 +36,8 @@
 			  const App = Vue.Create();
 			  ```
 			- The command `Vue.Create()` is the command that create the part of the web to control
-		- Now, we create app, but doesn't mount it to the HTML files anymore. I order to do that, use `app.mount()` method. Put the id of the `<div>` you want to mount
+		- Now, we create app, but doesn't mount it to the HTML files anymore. I order to do that, use `app.mount()` method. Put the ID of the `<div>` you want to mount as a method argument.
 		  logseq.order-list-type:: number
+			- First, Make sure you have `<div>` that has an ID on it.
+			  logseq.order-list-type:: number
+				- logseq.order-list-type:: number
