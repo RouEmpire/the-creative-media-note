@@ -91,22 +91,23 @@
 				- **Function**
 					- It's a JavaScript function or method
 		- ### Using Template
-			- ### Injecting from App.js
 			- Any content in any element in the **Template** are dynamic, which mean you can put directly any words or contents, or just put it a variable name between the tag.
-			- Insert `templete:` in the object, then follow it with any HTML tag/content you like
-				- ```js
-				  cosnt App = Vue.createApp({
-				     template: "<h1> Hello World </h1>"
-				  })
-				  ```
-			- The HTML element in `template` will be inject into the HTML file if that HTML file has...
-				- Right HTML5 Structure
-				  logseq.order-list-type:: number
-				- Include the ((66b19a7d-8b9d-497f-93d1-0aca8588ba59)) in the `<head>`
-				  logseq.order-list-type:: number
-				- has `div#myApp` or other ID name that its works as you like
-				  logseq.order-list-type:: number
-				- has ((66b19b3f-b2cf-4a84-b56b-d10b558d10ee)) after the `div#myApp`
-				  logseq.order-list-type:: number
+			- ### Injecting from App.js
+				- Insert `templete:` in the object, then follow it with any HTML tag/content you like
+					- ```js
+					  cosnt App = Vue.createApp({
+					     template: "<h1> Hello World </h1>"
+					  })
+					  ```
+				- The HTML element in `template` will be inject into the HTML file if that HTML file has...
+					- Right HTML5 Structure
+					  logseq.order-list-type:: number
+					- Include the ((66b19a7d-8b9d-497f-93d1-0aca8588ba59)) in the `<head>`
+					  logseq.order-list-type:: number
+					- has `div#myApp` or other ID name that its works as you like
+					  logseq.order-list-type:: number
+					- has ((66b19b3f-b2cf-4a84-b56b-d10b558d10ee)) after the `div#myApp`
+					  logseq.order-list-type:: number
+			- ### Code it directly in
 			-
 -
