@@ -20,8 +20,10 @@
 			  </body>
 			  </html>
 			  ```
-		- Add this JavaScript [[CDN]] in to the `<head>` of the html file
+		- Add this JavaScript [[CDN]] in to the `<head>` of the html file,
 		  logseq.order-list-type:: number
+			- VueJS CDN
+			  logseq.order-list-type:: number
 			- logseq.order-list-type:: number
 			  ```html
 			  <script src="https://unpkg.com/vue@3/dist/vue.global.js"></script
@@ -95,6 +97,8 @@
 				  })
 				  ```
 			- The HTML element in `template` will be inject into the HTML file if that HTML file has...
-				- Right
+				- Right HTML5 Structure
+				  logseq.order-list-type:: number
+				- Include the
 				  logseq.order-list-type:: number
 -
