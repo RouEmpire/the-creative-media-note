@@ -122,9 +122,12 @@
 					- logseq.order-list-type:: number
 					  ```Js
 					  const App = Vue.createApp({
-					  
+					     template: "Hello World",
+					     data() {}
 					  })
 					  ```
+					- if you have `template` before that data, you have to
+					  logseq.order-list-type:: number
 			-
 			-
 -
