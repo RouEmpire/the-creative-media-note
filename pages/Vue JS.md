@@ -45,7 +45,7 @@
 				     
 				  </div>
 				  ```
-			- Second, Use `mount` method in App.JS after `Vue.createApp`
+			- Second, Use `mount` method in App.JS after `Vue.createApp()`
 				- ```js
 				  // App.js
 				  const App = Vue.createApp()
