@@ -120,44 +120,40 @@ language:: [[JavaScript]]
 						  <p> Hi, my name is Zeen and I'm {{ age }} years old </p>
 						  ```
 				- **To declare** a variable that can be use in the HTML file, we need to follow these step
-				- In the `Vue.createApp` function, we put a `data() {}` inside. It should look like this
-				  logseq.order-list-type:: number
-					- logseq.order-list-type:: number
-					  ```Js
-					  const App = Vue.createApp({
-					     template: "Hello World",
-					     data() {}
-					  })
-					  ```
-					- if you have `template` before that data, you have to put `,` at the end of it
+					- In the `Vue.createApp` function, we put a `data() {}` inside. It should look like this
 					  logseq.order-list-type:: number
-				- in the `data() {}` put a `return` in an object inside it, make sure it's return object too.
-				  logseq.order-list-type:: number
-					- logseq.order-list-type:: number
-					  ```js
-					  const App = Vue.createApp({
-					     template: "Hello World",
-					     data() {
-					        return {}
-					     }
-					  })
-					  ```
-				- In the `return {}`, you can now put in any variable you like, such as...
-				  logseq.order-list-type:: number
-					- logseq.order-list-type:: number
-					  ```js
-					  const App = Vue.createApp({
-					     template: "Hello, I'm {{ name }} and I'm {{ age }} years old",
-					     data () {
-					        return {
-					           name : "Zeen"
-					           age : 19
-					        }
-					     }
-					  
-					  })
-					  ```
-					- logseq.order-list-type:: number
+						- ```Js
+						  const App = Vue.createApp({
+						     template: "Hello World",
+						     data() {}
+						  })
+						  ```
+						- if you have `template` before that data, you have to put `,` at the end of it
+					- in the `data() {}` put a `return` in an object inside it, make sure it's return object too.
+					  logseq.order-list-type:: number
+						- ```js
+						  const App = Vue.createApp({
+						     template: "Hello World",
+						     data() {
+						        return {}
+						     }
+						  })
+						  ```
+					- In the `return {}`, you can now put in any variable you like, such as...
+					  logseq.order-list-type:: number
+						- ```js
+						  const App = Vue.createApp({
+						     template: "Hello, I'm {{ name }} and I'm {{ age }} years old",
+						     data () {
+						        return {
+						           name : "Zeen"
+						           age : 19
+						        }
+						     }
+						  
+						  })
+						  ```
+						- logseq.order-list-type:: number
 			-
 			-
 -
