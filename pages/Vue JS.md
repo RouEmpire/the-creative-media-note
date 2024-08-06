@@ -106,5 +106,5 @@
 				  logseq.order-list-type:: number
 				- has ((66b19b3f-b2cf-4a84-b56b-d10b558d10ee)) after the `div#myApp`
 				  logseq.order-list-type:: number
-				- logseq.order-list-type:: number
+			-
 -
