@@ -128,7 +128,7 @@
 					  ```
 					- if you have `template` before that data, you have to put `,` at the end of it
 					  logseq.order-list-type:: number
-				- in the `data() {}` put a `return` in an object inside it, Make sure it's return object too.
+				- in the `data() {}` put a `return` in an object inside it, make sure it's return object too.
 				  logseq.order-list-type:: number
 					- logseq.order-list-type:: number
 					  ```js
