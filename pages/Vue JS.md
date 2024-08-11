@@ -287,5 +287,10 @@ language:: [[JavaScript]]
 					     }
 					  })
 					  ```
-					-
+					- More `v-if` conditoning
+						- vi-else
+						  logseq.order-list-type:: number
+							- logseq.order-list-type:: number
+						- vi-else-if
+						  logseq.order-list-type:: number
 -
