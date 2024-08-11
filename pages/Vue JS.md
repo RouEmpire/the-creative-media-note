@@ -270,5 +270,13 @@ language:: [[JavaScript]]
 					     <p v-if="isDisplay"> Hello world! </p>
 					  </div>
 					  ```
-					- ```
+					- ```js
+					  const App = Vue.createApp({
+					     data() {
+					        return {
+					           isDisplay: true
+					        }
+					     }
+					  })
+					  ```
 -
