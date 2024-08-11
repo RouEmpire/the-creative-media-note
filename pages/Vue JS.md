@@ -267,7 +267,8 @@ language:: [[JavaScript]]
 					- It's a condition, if **True** the element will be render, if not then it won't
 					- ```html
 					  <div id="app">
-					     <p v-if=""> Hello world! </p>
+					     <p v-if="isDisplay"> Hello world! </p>
 					  </div>
 					  ```
+					- ```
 -
