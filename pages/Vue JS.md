@@ -330,5 +330,6 @@ language:: [[JavaScript]]
 								  </div>
 								  ```
 								- If...
-									- The `var_1` is **true** | only
+									- The `var_1` is **true** | only `<h1>` will be render
+									- The `var_1` is **false** | VueJS will check if `var_2`
 -
