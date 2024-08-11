@@ -238,5 +238,5 @@ language:: [[JavaScript]]
 						     }
 						  })
 						  ```
-						- Now, the Attribue value in `href` in HTML file line 2 are
+						- Now, the Attribue value in `href` in HTML file line 2 are dynamic, and it when user click that Element in the browser, it will load `rouempire.github.io` website instead of error
 -
