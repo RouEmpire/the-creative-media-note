@@ -205,5 +205,7 @@ language:: [[JavaScript]]
 			  ONLY JUST **FALSE/WRONG** SAMPLE
 			  #+END_CAUTION
 		- In order to do the samething bu working we need to use ((66b85147-37f2-4b8a-80b7-e902175bb1df))
-		-
+		- **To make Vue Directive**
+			- A
+			  logseq.order-list-type:: number
 -
