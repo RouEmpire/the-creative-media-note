@@ -350,7 +350,16 @@ language:: [[JavaScript]]
 					- Here's how it's works
 						- ```html
 						  <div id="app">
-						     <p v-show=""> Hello World </p>
+						     <p v-show="isShow"> Hello World </p>
 						  </div>
+						  ```
+						- ```js
+						  const App = Vue.createApp({
+						     data() {
+						        return {
+						           isShow:
+						        }
+						     }
+						  })
 						  ```
 -
