@@ -342,5 +342,5 @@ language:: [[JavaScript]]
 										- The `Var_2` is **false** | only `<h3>` will be render
 				- `v-show`
 				  logseq.order-list-type:: number
-					- logseq.order-list-type:: number
+					- The `v-show` works similary to `v-if` it makes element display and
 -
