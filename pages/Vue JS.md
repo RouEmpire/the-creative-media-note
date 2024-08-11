@@ -295,9 +295,12 @@ language:: [[JavaScript]]
 							- This is how it using
 								- ```html
 								  <div id="app">
-								     <h1 v-if="v"> Main Header </h1>
+								     <h1 v-if="myVar"> Main Header </h1>
+								     <h2 v-else> Sub Header </h2>
 								  </div>
 								  ```
+								- If...
+									- The `myVar` is **true** |
 						- `vi-else-if`
 						  logseq.order-list-type:: number
 							-
