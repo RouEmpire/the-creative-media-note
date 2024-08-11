@@ -187,5 +187,11 @@ language:: [[JavaScript]]
 - # Class 2
 	- ## Vue Directive
 		- Assumed that we have this in our *App.js*
-			-
+			- ```js
+			  const App = Vue.createApp({
+			     data() {
+			        color:
+			     }
+			  })
+			  ```
 -
