@@ -332,6 +332,7 @@ language:: [[JavaScript]]
 								- If...
 									- The `var_1` is **true** | only `<h1>` will be render
 									- The `var_1` is **false** | VueJS will check what `var_2` is
-										- `Var_2` is **true** | only `<h2>` will be render
-										- `Var_2` is **false** | only `<h2>` will be render
+										- The `Var_2` is **true** | only `<h2>` will be render
+										- The `Var_2` is **false** | only `<h3>` will be render
+								-
 -
