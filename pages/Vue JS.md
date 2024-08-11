@@ -362,5 +362,5 @@ language:: [[JavaScript]]
 						     }
 						  })
 						  ```
-						- Run this code will make `<p>`
+						- Run this code will make `<p>` being visible by user, if you try to change `isShow: true` in JS file to `isShow: false` the `<p>` will not
 -
