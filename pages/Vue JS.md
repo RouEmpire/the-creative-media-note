@@ -357,9 +357,10 @@ language:: [[JavaScript]]
 						  const App = Vue.createApp({
 						     data() {
 						        return {
-						           isShow:
+						           isShow: true
 						        }
 						     }
 						  })
 						  ```
+						- Run this code will make `<p>`
 -
