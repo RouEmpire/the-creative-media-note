@@ -115,7 +115,7 @@ language:: [[JavaScript]]
 				- Basically write any HTML tag/content in the `div#myApp` the **VueJS** will automatically consider it as a template
 			- ### Variable
 				- **To call**
-					- any variable in `template`  we use **Mustache brace**
+					- To call any variable in `template`  we use **Mustache brace**
 						- **Mustache brace**
 						  id:: 66b84564-ef98-4088-9340-9fd88a60875c
 							- We can call a variable value in the HTML file (to display it) via this method. it looks like > `{{` and `}}` we put them between the variable that to be call
@@ -130,7 +130,7 @@ language:: [[JavaScript]]
 								  ...
 								  ```
 				- **To declare**
-					- To delcare a variable that can be use in the HTML file, we need to follow these step
+					- To declare a variable that can be use in the HTML file, we need to follow these step
 						- In the `Vue.createApp` function, we put a `data() {}` inside. It should look like this
 						  logseq.order-list-type:: number
 							- ```Js
@@ -170,7 +170,8 @@ language:: [[JavaScript]]
 							     <p>Hello, I'm {{ name }} and I'm {{ age }} years old</p>
 							  </div>
 							  ```
-							-
+				- **JS Expression**
+					- You can make a JS Expression inside ((66b84564-ef98-4088-9340-9fd88a60875c))
 			-
 			-
 -
