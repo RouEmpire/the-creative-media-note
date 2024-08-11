@@ -324,7 +324,10 @@ language:: [[JavaScript]]
 							- This is how it using
 								- ```html
 								  <div id="app">
-								     <p v-if=""> Text </p>
+								     <p v-if="var_1"> Text </p>
+								     <p v-else-if="var_2"> Text </p>
+								     <p v-else> Text </p>
 								  </div>
 								  ```
+								-
 -
