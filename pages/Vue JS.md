@@ -209,21 +209,21 @@ language:: [[JavaScript]]
 			- Every Vue Directive has `v-` prefix, then follow by the kind of Directive you need
 				- v-bind | ((66b85712-b95e-4d70-98d1-efa0baf1b89d))
 				  logseq.order-list-type:: number
-				- v-if
+				- v-if | ((66b85b41-25c9-48f1-8bd2-04d0e3980226))
 				  logseq.order-list-type:: number
-					- v-if
+					- v-if |
 					  logseq.order-list-type:: number
-					- v-else-if
+					- v-else-if |
+					- ((66b861d5-969e-4d89-b2a0-416cff260257))
+					- v-else |
 					  logseq.order-list-type:: number
-					- v-else
-					  logseq.order-list-type:: number
-				- v-show
+				- v-show |
 				  logseq.order-list-type:: number
-				- v-for
+				- v-for |
 				  logseq.order-list-type:: number
-				- v-on
+				- v-on |
 				  logseq.order-list-type:: number
-				- v-model
+				- v-model |
 				  logseq.order-list-type:: number
 			- **V-DIRECTIVE**
 				- `v-bind`
@@ -307,6 +307,7 @@ language:: [[JavaScript]]
 					- More `v-if` conditoning
 						- `vi-else`
 						  logseq.order-list-type:: number
+						  id:: 66b861d5-969e-4d89-b2a0-416cff260257
 							- The element with `vi-else` needs *no Attribute Value*
 							- The element with `vi-else` needs to be place *right after the element with `vi-if` or `vi-else-if` Attribute*. If not, it will throw an error in the browser console
 							- This is how it using
