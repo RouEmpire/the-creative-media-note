@@ -298,7 +298,7 @@ language:: [[JavaScript]]
 						  <p v-if="num_1 > num_2"> MORE THAN Operator </p>
 						  ```
 						- ```html
-						  <p v-if="isDisplay_1 && isDisplay_2"> And Operator </p>
+						  <p v-if="num_1 == num_2"> EQUAL Operator </p>
 						  ```
 					- More `v-if` conditoning
 						- `vi-else`
