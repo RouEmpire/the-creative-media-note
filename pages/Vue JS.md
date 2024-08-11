@@ -346,5 +346,6 @@ language:: [[JavaScript]]
 					- The `V-show` needs Attribute Value either **true** or **false**
 					- There's a different
 						- `v-if` with **false** | the element won't be render, basically no way to be found in the browser inspect mode
-						- `v-show` with **false** | the element won't be shown as it's CSS Style set to `display:none;`
+						- `v-show` with **false** | the element won't be shown as it's CSS Style set to `display:none;` but still, this element can be affect by other DOM or CSS code
+					-
 -
