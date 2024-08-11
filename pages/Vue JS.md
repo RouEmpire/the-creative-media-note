@@ -162,7 +162,10 @@ language:: [[JavaScript]]
 							  
 							  })
 							  ```
-							- Then, you can display it via ((66b84564-ef98-4088-9340-9fd88a60875c))
+							- In case you have nothing in `template` , you can display it via ((66b84564-ef98-4088-9340-9fd88a60875c)) such as...
+							- ```html
+							  <div >
+							  ```
 			-
 			-
 -
