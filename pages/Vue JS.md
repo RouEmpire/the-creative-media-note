@@ -342,5 +342,8 @@ language:: [[JavaScript]]
 										- The `Var_2` is **false** | only `<h3>` will be render
 				- `v-show`
 				  logseq.order-list-type:: number
-					- The `v-show` works similary to `v-if` it makes element display and
+					- The `v-show` works similary to `v-if` it makes element display and undisplay in the user browser
+					- The `V-show` needs Attribute Value either ``
+					- There's a different
+						- `v-if` with **false**
 -
