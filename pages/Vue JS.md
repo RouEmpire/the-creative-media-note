@@ -221,4 +221,5 @@ language:: [[JavaScript]]
 				  logseq.order-list-type:: number
 				- v-model
 				  logseq.order-list-type:: number
+			- logseq.order-list-type:: number
 -
