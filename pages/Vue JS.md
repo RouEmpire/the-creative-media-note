@@ -295,7 +295,7 @@ language:: [[JavaScript]]
 						  <p v-if="isDisplay_1 || isDisplay_2"> OR Operator </p>
 						  ```
 						- ```html
-						  <p v-if="num_1 > num_2"> MORE THAN Operator </p>
+						  <p v-if="num_1 > 15"> MORE THAN Operator </p>
 						  ```
 						- ```html
 						  <p v-if="num_1 == num_2"> EQUAL Operator </p>
@@ -318,5 +318,5 @@ language:: [[JavaScript]]
 								-
 						- `vi-else-if`
 						  logseq.order-list-type:: number
-							-
+							- The `vi-else-if` need Attribute value
 -
