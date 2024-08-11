@@ -293,8 +293,10 @@ language:: [[JavaScript]]
 							- The element with `vi-else` needs no Attribute Value
 							- The element with `vi-else` needs to be place right after the element with `vi-if` Attribute. If not, it will throw an error in the browser console
 							- This is how it using
-								- ```
-								  
+								- ```html
+								  <div id="app">
+								     <h1 v-if="v"> Main Header </h1>
+								  </div>
 								  ```
 						- `vi-else-if`
 						  logseq.order-list-type:: number
