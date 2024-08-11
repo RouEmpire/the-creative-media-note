@@ -208,4 +208,5 @@ language:: [[JavaScript]]
 		- **To make Vue Directive**
 			- Every Vue Directive has `v-` prefix, then follow by the kind of Directive you need
 			  logseq.order-list-type:: number
+				- logseq.order-list-type:: number
 -
