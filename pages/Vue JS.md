@@ -229,4 +229,13 @@ language:: [[JavaScript]]
 						     <a v-bind:href="target"> Click me </a>
 						  </div>
 						  ```
+						  ```js
+						  const App = Vue.createApp({
+						     data() {
+						        return {
+						           target:"https"
+						        }
+						     }
+						  })
+						  ```
 -
