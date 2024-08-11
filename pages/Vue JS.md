@@ -288,7 +288,9 @@ language:: [[JavaScript]]
 						  })
 						  ```
 					- We also can Use it with **Conditioning Check**
-						-
+						- ```html
+						  <p v-if="isDisplay_1">
+						  ```
 					- More `v-if` conditoning
 						- `vi-else`
 						  logseq.order-list-type:: number
