@@ -171,7 +171,10 @@ language:: [[JavaScript]]
 							  </div>
 							  ```
 				- **JS Expression**
-					- You can make a JS Expression inside ((66b84564-ef98-4088-9340-9fd88a60875c))
+					- You can make a JS Expression inside ((66b84564-ef98-4088-9340-9fd88a60875c)) such as...
+						- ```html
+						  <p> The result is {{ 5 + 5 }} </p>
+						  ```
 			-
 			-
 -
