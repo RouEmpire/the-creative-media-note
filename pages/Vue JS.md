@@ -300,7 +300,7 @@ language:: [[JavaScript]]
 						- ```html
 						  <p v-if="num_1 == num_2"> EQUAL Operator </p>
 						  ```
-					- TODO | Add `v-if="text.include("pizza")" `
+					- TODO | Add `v-if="text.include("pizza")"` from [here](https://www.w3schools.com/vue/vue_v-if.php)
 					- More `v-if` conditoning
 						- `vi-else`
 						  logseq.order-list-type:: number
