@@ -175,8 +175,10 @@ language:: [[JavaScript]]
 					- You can make a JS Expression inside ((66b84564-ef98-4088-9340-9fd88a60875c)) such as...
 						- ```html
 						  <p> The result is {{ 5 + 5 }} </p>
+						  <p> "this is a string, not var" </p>
 						  <p> {{'Random number: ' + Math.ceil(Math.random()*6) }} </p>
 						  ```
+						-
 			-
 			-
 -
