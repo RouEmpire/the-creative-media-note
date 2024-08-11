@@ -267,21 +267,21 @@ language:: [[JavaScript]]
 					- It's a condition, if **True** the element will be render, if not then it won't
 					- ```html
 					  <div id="app">
-					     <p v-if="isDisplay"> Hello world! </p>
+					     <p v-if="isDisplay_1"> Hello world! </p>
 					  </div>
-					  <!-- This #app WILL be render on the user webpage --->
+					  <!-- This <p> WILL be render on the user webpage --->
 					  ```
 					- ```html
 					  <div id="app">
 					     <p v-if="isDisplay_2"> Hello world! </p>
 					  </div>
-					  <!-- This #app WON'T be render on the user webpage --->
+					  <!-- This <p> WON'T be render on the user webpage --->
 					  ```
 					- ```js
 					  const App = Vue.createApp({
 					     data() {
 					        return {
-					           isDisplay_1: true
+					           isDisplay_1: true,
 					           isDisplay_2: false
 					        }
 					     }
