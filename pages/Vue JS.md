@@ -116,17 +116,18 @@ language:: [[JavaScript]]
 			- ### Variable
 				- **To call** any variable in `template`  we use **Mustache brace**
 					- **Mustache brace**
-						- We can call a variable value in the HTML file (to display it) via this method. it looks like > `{{` and `}}` we put them between the varia
-					- Assume we have a variable `age` in JavaScript and we want HTML to display the value of this variable, we write `{{ age }}` such as...
-						- ```html
-						  <p> Hi, my name is Zeen and I'm {{ age }} years old </p>
-						  ```
-						- or...
-						- ```js
-						  ...
-						  template: "Yo, my name is {{ name }}"
-						  ...
-						  ```
+					  id:: 66b84564-ef98-4088-9340-9fd88a60875c
+						- We can call a variable value in the HTML file (to display it) via this method. it looks like > `{{` and `}}` we put them between the variable that to be call
+						- Assume we have a variable `age` in JavaScript and we want HTML to display the value of this variable, we write `{{ age }}` such as...
+							- ```html
+							  <p> Hi, my name is Zeen and I'm {{ age }} years old </p>
+							  ```
+							- or...
+							- ```js
+							  ...
+							  template: "Yo, my name is {{ name }}"
+							  ...
+							  ```
 					- **To declare** a variable that can be use in the HTML file, we need to follow these step
 						- In the `Vue.createApp` function, we put a `data() {}` inside. It should look like this
 						  logseq.order-list-type:: number
@@ -161,7 +162,7 @@ language:: [[JavaScript]]
 							  
 							  })
 							  ```
-							- Then, you can display it via
+							- Then, you can display it via ((66b84564-ef98-4088-9340-9fd88a60875c))
 			-
 			-
 -
