@@ -318,5 +318,7 @@ language:: [[JavaScript]]
 								-
 						- `vi-else-if`
 						  logseq.order-list-type:: number
-							- The `vi-else-if` need Attribute value
+							- The `vi-else-if` need Attribute value either of **true** or **false**
+							- The `vi-else-if` must be place between the element with `vi-if` and `vi-else`
+							-
 -
