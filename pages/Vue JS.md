@@ -159,7 +159,7 @@ language:: [[JavaScript]]
 							  
 							  })
 							  ```
-							- logseq.order-list-type:: number
+							- Then, you can display it via
 			-
 			-
 -
