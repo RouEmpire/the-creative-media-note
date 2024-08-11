@@ -190,7 +190,7 @@ language:: [[JavaScript]]
 			- ```js
 			  const App = Vue.createApp({
 			     data() {
-			        color:
+			        target:"htt"
 			     }
 			  })
 			  ```
