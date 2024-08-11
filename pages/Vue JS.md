@@ -217,7 +217,7 @@ language:: [[JavaScript]]
 					  logseq.order-list-type:: number
 					- v-else | ((66b861d5-969e-4d89-b2a0-416cff260257))
 					  logseq.order-list-type:: number
-				- v-show |
+				- v-show | ((66b86980-7f08-4f12-8dd8-c8b2aac4638a))
 				  logseq.order-list-type:: number
 				- v-for |
 				  logseq.order-list-type:: number
@@ -342,6 +342,7 @@ language:: [[JavaScript]]
 										- The `Var_2` is **false** | only `<h3>` will be render
 				- `v-show`
 				  logseq.order-list-type:: number
+				  id:: 66b86980-7f08-4f12-8dd8-c8b2aac4638a
 					- The `v-show` works similary to `v-if` it makes element display and undisplay in the user browser
 					- The `V-show` needs Attribute Value either **true** or **false**
 					- There's a different
@@ -367,6 +368,7 @@ language:: [[JavaScript]]
 				  logseq.order-list-type:: number
 				- `v-on`
 				  logseq.order-list-type:: number
-				- ``
+				- `v-model`
 				  logseq.order-list-type:: number
+				- logseq.order-list-type:: number
 -
