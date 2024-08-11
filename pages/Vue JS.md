@@ -250,8 +250,11 @@ language:: [[JavaScript]]
 							- ```js
 							  const App = Vue.createApp({
 							     data() {
-							  
+							        return {
+							          productImage:"./MyFolder/product.jpg"
+							        }
 							     }
 							  })
 							  ```
+							-
 -
