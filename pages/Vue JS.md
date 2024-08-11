@@ -194,9 +194,10 @@ language:: [[JavaScript]]
 			     }
 			  })
 			  ```
+			- Trying to have a variable inside href attribute it won't work
 			- ```html
 			  <div>
-			     <a>  </p>
+			     <a href="{{ target }}">  </a>
 			  </div>
 			  ```
 -
