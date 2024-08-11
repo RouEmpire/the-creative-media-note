@@ -114,61 +114,62 @@ language:: [[JavaScript]]
 			- #### Code it directly in Index.html
 				- Basically write any HTML tag/content in the `div#myApp` the **VueJS** will automatically consider it as a template
 			- ### Variable
-				- **To call** any variable in `template`  we use **Mustache brace**
-					- **Mustache brace**
-					  id:: 66b84564-ef98-4088-9340-9fd88a60875c
-						- We can call a variable value in the HTML file (to display it) via this method. it looks like > `{{` and `}}` we put them between the variable that to be call
-						- Assume we have a variable `age` in JavaScript and we want HTML to display the value of this variable, we write `{{ age }}` such as...
-							- ```html
-							  <p> Hi, my name is Zeen and I'm {{ age }} years old </p>
-							  ```
-							- or...
-							- ```js
-							  ...
-							  template: "Yo, my name is {{ name }}"
-							  ...
-							  ```
-					- **To declare** a variable that can be use in the HTML file, we need to follow these step
-						- In the `Vue.createApp` function, we put a `data() {}` inside. It should look like this
-						  logseq.order-list-type:: number
-							- ```Js
-							  const App = Vue.createApp({
-							     template: "Hello World",
-							     data() {}
-							  })
-							  ```
-							- if you have `template` before that data, you have to put `,` at the end of it
-						- in the `data() {}` put a `return` in an object inside it, make sure it's return object too.
-						  logseq.order-list-type:: number
-							- ```js
-							  const App = Vue.createApp({
-							     template: "Hello World",
-							     data() {
-							        return {}
-							     }
-							  })
-							  ```
-						- In the `return {}`, you can now put in any variable you like, such as...
-						  logseq.order-list-type:: number
-							- ```js
-							  const App = Vue.createApp({
-							     template: "Hello, I'm {{ name }} and I'm {{ age }} years old",
-							     data () {
-							        return {
-							           name : "Zeen"
-							           age : 19
-							        }
-							     }
-							  
-							  })
-							  ```
-							- In case you have nothing in `template` , you can display it via ((66b84564-ef98-4088-9340-9fd88a60875c)) such as...
-							- ```html
-							  <div id="myApp">
-							     <p>Hello, I'm {{ name }} and I'm {{ age }} years old</p>
-							  </div>
-							  ```
-							-
+				- **To call**
+					- any variable in `template`  we use **Mustache brace**
+						- **Mustache brace**
+						  id:: 66b84564-ef98-4088-9340-9fd88a60875c
+							- We can call a variable value in the HTML file (to display it) via this method. it looks like > `{{` and `}}` we put them between the variable that to be call
+							- Assume we have a variable `age` in JavaScript and we want HTML to display the value of this variable, we write `{{ age }}` such as...
+								- ```html
+								  <p> Hi, my name is Zeen and I'm {{ age }} years old </p>
+								  ```
+								- or...
+								- ```js
+								  ...
+								  template: "Yo, my name is {{ name }}"
+								  ...
+								  ```
+				- **To declare** a variable that can be use in the HTML file, we need to follow these step
+					- In the `Vue.createApp` function, we put a `data() {}` inside. It should look like this
+					  logseq.order-list-type:: number
+						- ```Js
+						  const App = Vue.createApp({
+						     template: "Hello World",
+						     data() {}
+						  })
+						  ```
+						- if you have `template` before that data, you have to put `,` at the end of it
+					- in the `data() {}` put a `return` in an object inside it, make sure it's return object too.
+					  logseq.order-list-type:: number
+						- ```js
+						  const App = Vue.createApp({
+						     template: "Hello World",
+						     data() {
+						        return {}
+						     }
+						  })
+						  ```
+					- In the `return {}`, you can now put in any variable you like, such as...
+					  logseq.order-list-type:: number
+						- ```js
+						  const App = Vue.createApp({
+						     template: "Hello, I'm {{ name }} and I'm {{ age }} years old",
+						     data () {
+						        return {
+						           name : "Zeen"
+						           age : 19
+						        }
+						     }
+						  
+						  })
+						  ```
+						- In case you have nothing in `template` , you can display it via ((66b84564-ef98-4088-9340-9fd88a60875c)) such as...
+						- ```html
+						  <div id="myApp">
+						     <p>Hello, I'm {{ name }} and I'm {{ age }} years old</p>
+						  </div>
+						  ```
+						-
 			-
 			-
 -
