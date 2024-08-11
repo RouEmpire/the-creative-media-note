@@ -290,7 +290,7 @@ language:: [[JavaScript]]
 					- More `v-if` conditoning
 						- `vi-else`
 						  logseq.order-list-type:: number
-							- The element with `vi-else` needs no Attribute Value
+							- The element with `vi-else` needs *no Attribute Value*
 							- The element with `vi-else` needs to be place right after the element with `vi-if` Attribute. If not, it will throw an error in the browser console
 							- This is how it using
 								- ```html
@@ -300,7 +300,9 @@ language:: [[JavaScript]]
 								  </div>
 								  ```
 								- If...
-									- The `myVar` is **true** |
+									- The `myVar` is **true** | only `<h1>` will be render
+									- The `myVar` is **false** | only `<h2>` will be render
+								-
 						- `vi-else-if`
 						  logseq.order-list-type:: number
 							-
