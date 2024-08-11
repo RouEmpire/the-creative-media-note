@@ -116,7 +116,7 @@ language:: [[JavaScript]]
 			- ### Variable
 				- **To call** any variable in `template`  we use **Mustache brace**
 					- **Mustache brace**
-						- We can call a variable value in the HTML file (to display it) via this method. it look like
+						- We can call a variable value in the HTML file (to display it) via this method. it looks like > `{{` and `}}` we put them between the varia
 					- Assume we have a variable `age` in JavaScript and we want HTML to display the value of this variable, we write `{{ age }}` such as...
 						- ```html
 						  <p> Hi, my name is Zeen and I'm {{ age }} years old </p>
