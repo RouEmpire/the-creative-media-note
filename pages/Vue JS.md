@@ -323,6 +323,8 @@ language:: [[JavaScript]]
 							- We can stack `v-else-if` as many time as you want
 							- This is how it using
 								- ```html
-								  
+								  <div id="app">
+								     <p v-if=""> Text </p>
+								  </div>
 								  ```
 -
