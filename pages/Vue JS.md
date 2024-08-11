@@ -208,7 +208,6 @@ language:: [[JavaScript]]
 		- In order to do the samething bu working we need to use ((66b85147-37f2-4b8a-80b7-e902175bb1df))
 		- **To make Vue Directive**
 			- Every Vue Directive has `v-` prefix, then follow by the kind of Directive you need
-			  logseq.order-list-type:: number
 				- v-bind
 				  logseq.order-list-type:: number
 				- v-if , v-else-if , v-else
@@ -221,5 +220,8 @@ language:: [[JavaScript]]
 				  logseq.order-list-type:: number
 				- v-model
 				  logseq.order-list-type:: number
-			- logseq.order-list-type:: number
+			- V-DIRECTIVE
+				- `v-bind`
+				  logseq.order-list-type:: number
+					- We put
 -
