@@ -203,9 +203,5 @@ language:: [[JavaScript]]
 			  #+BEGIN_CAUTION
 			  ONLY JUST **FALSE/WRONG** SAMPLE
 			  #+END_CAUTION
-			- #+BEGIN_WARNING
-			  DONT DO
-			  #+END_WARNING
-			-
-			-
+		- In order to do the samething bu working we need to use ``
 -
