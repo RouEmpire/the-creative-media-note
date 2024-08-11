@@ -291,7 +291,11 @@ language:: [[JavaScript]]
 						- `vi-else`
 						  logseq.order-list-type:: number
 							- The element with `vi-else` needs no Attribute Value
-							- The element with `vi-else` needs to be place right after the element with `vi-if` Attribute
+							- The element with `vi-else` needs to be place right after the element with `vi-if` Attribute. If not, it will throw an error in the browser console
+							- This is how it using
+								- ```
+								  
+								  ```
 						- `vi-else-if`
 						  logseq.order-list-type:: number
 							-
