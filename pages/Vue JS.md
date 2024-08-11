@@ -185,5 +185,7 @@ language:: [[JavaScript]]
 						  <p> {{'Random number: ' + Math.ceil(Math.random()*6) }} </p>
 						  ```
 - # Class 2
-	-
+	- ## Vue Directive
+		- Assumed that we have this in our *App.js*
+			-
 -
