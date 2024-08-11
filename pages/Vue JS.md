@@ -266,6 +266,8 @@ language:: [[JavaScript]]
 				  logseq.order-list-type:: number
 					- It's a condition, if **True** the element will be render, if not then it won't
 					- ```html
-					  
+					  <div id="app">
+					     <p v-if=""> Hello world! </p>
+					  </div>
 					  ```
 -
