@@ -184,8 +184,6 @@ language:: [[JavaScript]]
 						  <p> "this is a string, not var" </p>
 						  <p> {{'Random number: ' + Math.ceil(Math.random()*6) }} </p>
 						  ```
-						-
-						-
-			-
-			-
+- # Class 2
+	-
 -
