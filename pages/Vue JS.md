@@ -343,7 +343,7 @@ language:: [[JavaScript]]
 				- `v-show`
 				  logseq.order-list-type:: number
 					- The `v-show` works similary to `v-if` it makes element display and undisplay in the user browser
-					- The `V-show` needs Attribute Value either ``
+					- The `V-show` needs Attribute Value either **true** or **false**
 					- There's a different
-						- `v-if` with **false**
+						- `v-if` with **false** the element won't be render, basically no way to be found in the browser inspect mode
 -
