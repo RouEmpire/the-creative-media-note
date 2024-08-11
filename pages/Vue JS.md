@@ -288,8 +288,12 @@ language:: [[JavaScript]]
 						  })
 						  ```
 					- We also can Use it with **Conditioning Check**
-						- `<p v-if="isDisplay_1 && isDisplay_2"> And Operator </p>`
-						-
+						- ```html
+						  <p v-if="isDisplay_1 && isDisplay_2"> AND Operator </p>
+						  ```
+						- ```html
+						  <p v-if="isDisplay_1 || isDisplay_2"> OR Operator </p>
+						  ```
 					- More `v-if` conditoning
 						- `vi-else`
 						  logseq.order-list-type:: number
