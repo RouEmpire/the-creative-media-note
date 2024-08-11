@@ -210,8 +210,14 @@ language:: [[JavaScript]]
 			- Every Vue Directive has `v-` prefix, then follow by the kind of Directive you need
 				- v-bind
 				  logseq.order-list-type:: number
-				- v-if , v-else-if , v-else
+				- v-if
 				  logseq.order-list-type:: number
+					- v-if
+					  logseq.order-list-type:: number
+					- v-else-if
+					  logseq.order-list-type:: number
+					- v-else
+					  logseq.order-list-type:: number
 				- v-show
 				  logseq.order-list-type:: number
 				- v-for
@@ -220,7 +226,7 @@ language:: [[JavaScript]]
 				  logseq.order-list-type:: number
 				- v-model
 				  logseq.order-list-type:: number
-			- V-DIRECTIVE
+			- **V-DIRECTIVE**
 				- `v-bind`
 				  logseq.order-list-type:: number
 					- We put `v-bind:` in front of any HTML Attribute to make it **Dynamic** such as...
