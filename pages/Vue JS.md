@@ -287,6 +287,8 @@ language:: [[JavaScript]]
 						     }
 						  })
 						  ```
+					- We also can Use it with **Conditioning Check**
+						-
 					- More `v-if` conditoning
 						- `vi-else`
 						  logseq.order-list-type:: number
