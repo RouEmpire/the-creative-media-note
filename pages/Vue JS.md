@@ -81,7 +81,7 @@ language:: [[JavaScript]]
 			- ```js
 			  const App = Vue.createApp({})
 			  // or this way, not much different
-			  cosnt App = Vue.createApp({
+			  const App = Vue.createApp({
 			  
 			  })
 			  ```
