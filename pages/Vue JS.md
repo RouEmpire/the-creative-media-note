@@ -256,5 +256,6 @@ language:: [[JavaScript]]
 							     }
 							  })
 							  ```
-					- TODO | Add
+					- TODO | Add `v-bind:class` with **Object** Value
+				- logseq.order-list-type:: number
 -
