@@ -199,7 +199,7 @@ language:: [[JavaScript]]
 			- Trying to have a variable inside href attribute it won't work
 			- ```html
 			  <div>
-			     <a href="{{ target }}">  </a>
+			     <a href="{{ target }}">  Click me </a>
 			  </div>
 			  ``` 
 			  #+BEGIN_CAUTION
@@ -225,6 +225,8 @@ language:: [[JavaScript]]
 				  logseq.order-list-type:: number
 					- We put `v-bind:` in front of any HTML Attribute to make it **Dynamic** such as...
 						- ```html
-						  <div id="">
+						  <div id="app">
+						     <a v-bind:href="target"> Click me </a>
+						  </div>
 						  ```
 -
