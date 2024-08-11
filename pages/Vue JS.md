@@ -238,5 +238,5 @@ language:: [[JavaScript]]
 						     }
 						  })
 						  ```
-						-
+						- Now, the Attribue value in `href` in HTML file line 2 are
 -
