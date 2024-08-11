@@ -324,10 +324,11 @@ language:: [[JavaScript]]
 							- This is how it using
 								- ```html
 								  <div id="app">
-								     <p v-if="var_1"> Text </p>
-								     <p v-else-if="var_2"> Text </p>
-								     <p v-else> Text </p>
+								     <h1 v-if="var_1"> Text </h1>
+								     <h2 v-else-if="var_2"> Text </h2>
+								     <h3 v-else> Text </h3>
 								  </div>
 								  ```
-								-
+								- If...
+									- The `var_1` is **true** | only
 -
