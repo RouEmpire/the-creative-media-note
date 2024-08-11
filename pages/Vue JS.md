@@ -207,7 +207,7 @@ language:: [[JavaScript]]
 		- In order to do the samething bu working we need to use ((66b85147-37f2-4b8a-80b7-e902175bb1df))
 		- **To make Vue Directive**
 			- Every Vue Directive has `v-` prefix, then follow by the kind of Directive you need
-				- v-bind
+				- v-bind | ((66b85712-b95e-4d70-98d1-efa0baf1b89d))
 				  logseq.order-list-type:: number
 				- v-if
 				  logseq.order-list-type:: number
@@ -228,6 +228,7 @@ language:: [[JavaScript]]
 			- **V-DIRECTIVE**
 				- `v-bind`
 				  logseq.order-list-type:: number
+				  id:: 66b85712-b95e-4d70-98d1-efa0baf1b89d
 					- We put `v-bind:` in front of any HTML Attribute to make it **Dynamic** such as...
 						- ```html
 						  <div id="app">
@@ -264,6 +265,7 @@ language:: [[JavaScript]]
 					- TODO | Add `v-bind:class` with **Object** Value
 				- `v-if`
 				  logseq.order-list-type:: number
+				  id:: 66b85b41-25c9-48f1-8bd2-04d0e3980226
 					- It's a condition, if **True** the element will be render, if not then it won't
 						- ```html
 						  <div id="app">
@@ -301,6 +303,7 @@ language:: [[JavaScript]]
 						  <p v-if="num_1 == num_2"> EQUAL Operator </p>
 						  ```
 					- TODO | Add `v-if="text.include("pizza")"` from [here](https://www.w3schools.com/vue/vue_v-if.php)
+					  id:: 66b869cc-9992-4a52-80f6-dfb4d15bc1b0
 					- More `v-if` conditoning
 						- `vi-else`
 						  logseq.order-list-type:: number
