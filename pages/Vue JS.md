@@ -265,28 +265,28 @@ language:: [[JavaScript]]
 				- `v-if`
 				  logseq.order-list-type:: number
 					- It's a condition, if **True** the element will be render, if not then it won't
-					- ```html
-					  <div id="app">
-					     <p v-if="isDisplay_1"> Hello world! </p>
-					  </div>
-					  <!-- This <p> WILL be render on the user webpage --->
-					  ```
-					- ```html
-					  <div id="app">
-					     <p v-if="isDisplay_2"> Hello world! </p>
-					  </div>
-					  <!-- This <p> WON'T be render on the user webpage --->
-					  ```
-					- ```js
-					  const App = Vue.createApp({
-					     data() {
-					        return {
-					           isDisplay_1: true,
-					           isDisplay_2: false
-					        }
-					     }
-					  })
-					  ```
+						- ```html
+						  <div id="app">
+						     <p v-if="isDisplay_1"> Hello world! </p>
+						  </div>
+						  <!-- This <p> WILL be render on the user webpage --->
+						  ```
+						- ```html
+						  <div id="app">
+						     <p v-if="isDisplay_2"> Hello world! </p>
+						  </div>
+						  <!-- This <p> WON'T be render on the user webpage --->
+						  ```
+						- ```js
+						  const App = Vue.createApp({
+						     data() {
+						        return {
+						           isDisplay_1: true,
+						           isDisplay_2: false
+						        }
+						     }
+						  })
+						  ```
 					- More `v-if` conditoning
 						- `vi-else`
 						  logseq.order-list-type:: number
