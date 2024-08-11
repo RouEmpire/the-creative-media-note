@@ -129,6 +129,7 @@ language:: [[JavaScript]]
 								  template: "Yo, my name is {{ name }}"
 								  ...
 								  ```
+								- (If you have do both method, The `` will)
 				- **To declare**
 					- To declare a variable that can be use in the HTML file, we need to follow these step
 						- In the `Vue.createApp` function, we put a `data() {}` inside. It should look like this
