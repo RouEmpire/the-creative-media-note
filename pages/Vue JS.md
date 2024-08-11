@@ -45,7 +45,7 @@ language:: [[JavaScript]]
 			  // App.js
 			  const App = Vue.createApp();
 			  ```
-			- The command `Vue.createApp()` is the command that create and store the content of you website(eg., )
+			- The command `Vue.createApp()` is the command that create and store the content of you website (eg., HTML Elements, variable, functions)
 		- Now, we create app, but doesn't mount it to the HTML files anymore. I order to do that, use `App.mount()` method. Put the ID of the `<div>` you want to mount as a method argument.
 		  logseq.order-list-type:: number
 			- First, Make sure you have `<div>` that has an ID on it.
