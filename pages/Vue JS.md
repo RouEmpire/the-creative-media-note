@@ -186,6 +186,7 @@ language:: [[JavaScript]]
 						  ```
 - # Class 2
 	- ## Vue Directive
+	  id:: 66b85147-37f2-4b8a-80b7-e902175bb1df
 		- Assumed that we have this in our *App.js*
 			- ```js
 			  const App = Vue.createApp({
@@ -203,5 +204,6 @@ language:: [[JavaScript]]
 			  #+BEGIN_CAUTION
 			  ONLY JUST **FALSE/WRONG** SAMPLE
 			  #+END_CAUTION
-		- In order to do the samething bu working we need to use ``
+		- In order to do the samething bu working we need to use ((66b85147-37f2-4b8a-80b7-e902175bb1df))
+		-
 -
