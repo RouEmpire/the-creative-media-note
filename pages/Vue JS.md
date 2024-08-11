@@ -241,5 +241,10 @@ language:: [[JavaScript]]
 						- Now, the Attribue value in `href` in *HTML file line 2* are dynamic, and it when user click that Element in the browser, it will load `rouempire.github.io` website instead of error
 					- Shorthand
 						- the `v-bind` has it owns *shorthand* called `:` which do the same thing
-						- This code with `:`
+						- This code with `:` are working the same with `v-bind:`
+							- ```html
+							  <div id="app">
+							     <img src="">
+							  </div>
+							  ```
 -
