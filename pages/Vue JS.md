@@ -269,13 +269,13 @@ language:: [[JavaScript]]
 					  <div id="app">
 					     <p v-if="isDisplay"> Hello world! </p>
 					  </div>
-					  <!-- This #app will be render on the user webpage --->
+					  <!-- This #app WILL be render on the user webpage --->
 					  ```
 					- ```html
 					  <div id="app">
 					     <p v-if="isDisplay_2"> Hello world! </p>
 					  </div>
-					  <!-- This #app will be render on the user webpage --->
+					  <!-- This #app WON'T be render on the user webpage --->
 					  ```
 					- ```js
 					  const App = Vue.createApp({
