@@ -190,8 +190,13 @@ language:: [[JavaScript]]
 			- ```js
 			  const App = Vue.createApp({
 			     data() {
-			        target:"htt"
+			        target:"https://google.com"
 			     }
 			  })
+			  ```
+			- ```html
+			  <div>
+			     <a>  </p>
+			  </div>
 			  ```
 -
