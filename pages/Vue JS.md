@@ -210,8 +210,14 @@ language:: [[JavaScript]]
 			  logseq.order-list-type:: number
 				- v-bind
 				  logseq.order-list-type:: number
-				- v-if
+				- v-if , v-else-if , v-else
 				  logseq.order-list-type:: number
-				- v-else
+				- v-show
+				  logseq.order-list-type:: number
+				- v-for
+				  logseq.order-list-type:: number
+				- v-on
+				  logseq.order-list-type:: number
+				- v-model
 				  logseq.order-list-type:: number
 -
