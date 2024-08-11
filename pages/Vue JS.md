@@ -223,5 +223,8 @@ language:: [[JavaScript]]
 			- V-DIRECTIVE
 				- `v-bind`
 				  logseq.order-list-type:: number
-					- We put
+					- We put `v-bind:` in front of any HTML Attribute to make it **Dynamic** such as...
+						- ```html
+						  <div id="">
+						  ```
 -
