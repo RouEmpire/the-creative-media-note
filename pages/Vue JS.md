@@ -288,10 +288,11 @@ language:: [[JavaScript]]
 					  })
 					  ```
 					- More `v-if` conditoning
-						- vi-else
+						- `vi-else`
 						  logseq.order-list-type:: number
-							-
-						- vi-else-if
+							- The element with `vi-else` needs no Attribute Value
+							- The element with `vi-else`
+						- `vi-else-if`
 						  logseq.order-list-type:: number
 							-
 -
