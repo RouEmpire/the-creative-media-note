@@ -349,6 +349,8 @@ language:: [[JavaScript]]
 						- `v-show` with **false** | the element won't be shown as it's CSS Style set to `display:none;` but still, this element can be affect by other DOM or CSS code
 					- Here's how it's works
 						- ```html
-						  
+						  <div id="app">
+						     <p v-show=""> Hello World </p>
+						  </div>
 						  ```
 -
