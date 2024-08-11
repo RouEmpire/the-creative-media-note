@@ -340,5 +340,7 @@ language:: [[JavaScript]]
 									- The `var_1` is **false** | VueJS will check what `var_2` is
 										- The `Var_2` is **true** | only `<h2>` will be render
 										- The `Var_2` is **false** | only `<h3>` will be render
-								-
+				- `v-show`
+				  logseq.order-list-type:: number
+					- logseq.order-list-type:: number
 -
