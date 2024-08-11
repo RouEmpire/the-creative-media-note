@@ -233,9 +233,10 @@ language:: [[JavaScript]]
 						  const App = Vue.createApp({
 						     data() {
 						        return {
-						           target:"https"
+						           target:"https://rouempire.github.com"
 						        }
 						     }
 						  })
 						  ```
+						-
 -
