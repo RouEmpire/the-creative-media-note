@@ -213,9 +213,9 @@ language:: [[JavaScript]]
 				  logseq.order-list-type:: number
 					- v-if |
 					  logseq.order-list-type:: number
-					- v-else-if |
-					- ((66b861d5-969e-4d89-b2a0-416cff260257))
-					- v-else |
+					- v-else-if | ((66b861ec-8d4d-44de-8a6e-111eb536871c))
+					  logseq.order-list-type:: number
+					- v-else | ((66b861d5-969e-4d89-b2a0-416cff260257))
 					  logseq.order-list-type:: number
 				- v-show |
 				  logseq.order-list-type:: number
@@ -323,6 +323,7 @@ language:: [[JavaScript]]
 								-
 						- `vi-else-if`
 						  logseq.order-list-type:: number
+						  id:: 66b861ec-8d4d-44de-8a6e-111eb536871c
 							- The `vi-else-if` need Attribute value either of **true** or **false**
 							- The `vi-else-if` must be place between the element with `vi-if` and `vi-else`
 							- We can stack `v-else-if` as many time as you want
