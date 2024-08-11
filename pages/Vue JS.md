@@ -244,7 +244,14 @@ language:: [[JavaScript]]
 						- This code with `:` are working the same with `v-bind:`
 							- ```html
 							  <div id="app">
-							     <img src="">
+							     <img src="productImage">
 							  </div>
+							  ```
+							- ```js
+							  const App = Vue.createApp({
+							     data() {
+							  
+							     }
+							  })
 							  ```
 -
