@@ -269,12 +269,14 @@ language:: [[JavaScript]]
 					  <div id="app">
 					     <p v-if="isDisplay"> Hello world! </p>
 					  </div>
+					  <!--  ---
 					  ```
 					- ```js
 					  const App = Vue.createApp({
 					     data() {
 					        return {
-					           isDisplay: true
+					           isDisplay_1: true
+					           isDisplay_2: false
 					        }
 					     }
 					  })
