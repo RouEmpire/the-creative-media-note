@@ -441,7 +441,7 @@ language:: [[JavaScript]]
 						- ```html
 						  <div id="myApp">
 						     <ol>
-						        <img v-for="(X, index) in imageList" v-bind:src="X">
+						        
 						     </ol>
 						  </div>
 						  ```
