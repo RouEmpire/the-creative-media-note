@@ -368,7 +368,8 @@ language:: [[JavaScript]]
 				  logseq.order-list-type:: number
 					- The `v-for` is made for **List Rendering**, it's render HTML Element from a JavaScript Array or Array of Object
 					- We use `X in ARRAY_NAME` to loop in that array
-						- `X` is
+						- `X` is set as a variable name for HTML Element ro get
+						- `ARRAY_NAME` is the actual JavaScript Array Name in the `App.js` file
 					- This is sample
 						- ```HTML
 						  <div id="myApp">
@@ -386,7 +387,7 @@ language:: [[JavaScript]]
 						     }
 						  })
 						  ```
-						-
+						- *Result*
 				- `v-on`
 				  logseq.order-list-type:: number
 				- `v-model`
