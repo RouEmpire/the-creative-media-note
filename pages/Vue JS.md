@@ -483,7 +483,8 @@ language:: [[JavaScript]]
 					- this is sample
 						- ```html
 						  <div id="myApp">
-						     <p> The count is :  </p>
+						     <p> The count is : {{ numberCount }} </p>
+						     <p v-on:click=""> Click Me!!! </p>
 						  </div>
 						  ```
 				- `v-model`
