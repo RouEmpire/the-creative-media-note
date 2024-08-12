@@ -387,7 +387,14 @@ language:: [[JavaScript]]
 						     }
 						  })
 						  ```
-						- *Result*
+						- *Result :*
+						- <samp>
+						  Hi, my name is ZeenEmpress
+						  Hi, my name is RouEmpire
+						  Hi, my name is ZackEmpire
+						  Hi, my name is TalesEmpress
+						  </samp>
+					-
 				- `v-on`
 				  logseq.order-list-type:: number
 				- `v-model`
