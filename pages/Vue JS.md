@@ -459,9 +459,9 @@ language:: [[JavaScript]]
 						  Hi, my name is Tales and I'm number 3
 						  </samp>
 						- *Tip* : you can use `{{ index + 1 }}` instead to make the index start form **1** not **0**
-						-
 				- `v-on`
 				  logseq.order-list-type:: number
+					- The `v-on` is
 				- `v-model`
 				  logseq.order-list-type:: number
 				- logseq.order-list-type:: number
