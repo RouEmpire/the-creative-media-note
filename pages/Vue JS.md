@@ -393,7 +393,14 @@ language:: [[JavaScript]]
 						  Hi, my name is ZackEmpire
 						  Hi, my name is TalesEmpress
 						  </samp>
-					-
+					- Or in another use case, loop displaying the image
+						- ```HTML
+						  <div id="myApp">
+						     <ol>
+						        <img v-for"X in ">
+						     </ol>
+						  </div>
+						  ```
 				- `v-on`
 				  logseq.order-list-type:: number
 				- `v-model`
