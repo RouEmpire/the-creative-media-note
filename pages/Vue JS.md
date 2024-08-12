@@ -427,7 +427,9 @@ language:: [[JavaScript]]
 						  const App = Vue.createApp({
 						     data() {
 						        return {
-						           imageObj: 
+						           imageObj: [
+						              {url: "image/student/Zeen.png", alt: "Picture of "}
+						           ]
 						        }
 						     }
 						  })
