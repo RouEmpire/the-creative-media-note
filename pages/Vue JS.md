@@ -397,9 +397,15 @@ language:: [[JavaScript]]
 						- ```HTML
 						  <div id="myApp">
 						     <ol>
-						        <img v-for"X in ">
+						        <img v-for="X in imageList" v-bind:src="X">
 						     </ol>
 						  </div>
+						  ```
+						- ```js
+						  const App = Vue.createApp({
+						     data()
+						  
+						  })
 						  ```
 				- `v-on`
 				  logseq.order-list-type:: number
