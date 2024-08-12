@@ -388,8 +388,7 @@ language:: [[JavaScript]]
 						  })
 						  ```
 						- *Result :*
-						- <samp>
-						  Hi, my name is ZeenEmpress
+						- <samp>Hi, my name is ZeenEmpress
 						  Hi, my name is RouEmpire
 						  Hi, my name is ZackEmpire
 						  Hi, my name is TalesEmpress
