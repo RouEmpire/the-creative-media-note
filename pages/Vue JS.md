@@ -379,11 +379,12 @@ language:: [[JavaScript]]
 						  const App = Vue.createApp({
 						     data() {
 						        return {
-						           nameList: ["Jimmy",]
+						           nameList: ["ZeenEmpress","RouEmpire","ZackEmpire","TalesEmpress"]
 						        }
 						     }
 						  })
 						  ```
+						-
 				- `v-on`
 				  logseq.order-list-type:: number
 				- `v-model`
