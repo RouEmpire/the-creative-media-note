@@ -437,7 +437,7 @@ language:: [[JavaScript]]
 						     }
 						  })
 						  ```
-					- We can get **Loop number index** that tell you what times the loop has been made in each loop
+					- We can get **Loop number index** that tell you what times the loop has been made in each loop. All you have to do is change `v-for="X in ARRAY_NAME"` to `v-for="(X, index) in ARRAY_NAME"`, now you can use the `index` an
 						- ```html
 						  <div id="myApp">
 						     <p v-for="(X, index) in nameList"> Hi, my name is {{ X }} and I'm number {{ index }} </p>
