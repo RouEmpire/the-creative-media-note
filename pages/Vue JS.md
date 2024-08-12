@@ -484,8 +484,16 @@ language:: [[JavaScript]]
 						- ```html
 						  <div id="myApp">
 						     <p> The count is : {{ numberCount }} </p>
-						     <p v-on:click=""> Click Me!!! </p>
+						     <p v-on:click="number++"> Click Me!!! </p>
 						  </div>
+						  ```
+						- ```js
+						  const App = Vue.createApp({
+						     data() {
+						        return {
+						        }
+						     }
+						  })
 						  ```
 				- `v-model`
 				  logseq.order-list-type:: number
