@@ -453,7 +453,12 @@ language:: [[JavaScript]]
 						  })
 						  ```
 						- *RESULT :*
-						  <samp>Hi
+						  <samp>Hi, my name is Rou and I'm number 0
+						  Hi, my name is Zeen and I'm number 1
+						  Hi, my name is Zack and I'm number 2
+						  Hi, my name is Tales and I'm number 3
+						  </samp>
+						-
 				- `v-on`
 				  logseq.order-list-type:: number
 				- `v-model`
