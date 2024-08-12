@@ -466,6 +466,8 @@ language:: [[JavaScript]]
 						  logseq.order-list-type:: number
 						- `v-on:mouseover` | handle **hover** event
 						  logseq.order-list-type:: number
+						- `v-on:mouseout` | handle **leaving hover** event
+						  logseq.order-list-type:: number
 						- logseq.order-list-type:: number
 				- `v-model`
 				  logseq.order-list-type:: number
