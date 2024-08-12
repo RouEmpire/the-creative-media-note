@@ -437,7 +437,8 @@ language:: [[JavaScript]]
 						     }
 						  })
 						  ```
-					-
+					- We can get **Loop number index** that tell you what times the loop has been made in each loop
+						-
 				- `v-on`
 				  logseq.order-list-type:: number
 				- `v-model`
