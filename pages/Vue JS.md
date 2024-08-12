@@ -461,7 +461,9 @@ language:: [[JavaScript]]
 						- *Tip* : you can use `{{ index + 1 }}` instead to make the index start form **1** not **0**
 				- `v-on`
 				  logseq.order-list-type:: number
-					- The `v-on` is
+					- The `v-on` is HTML Attribute that can handle the events, these are what it does
+						- `v-on:click` handle
+						  logseq.order-list-type:: number
 				- `v-model`
 				  logseq.order-list-type:: number
 				- logseq.order-list-type:: number
