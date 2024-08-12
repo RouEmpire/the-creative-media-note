@@ -464,14 +464,16 @@ language:: [[JavaScript]]
 					- The `v-on` is HTML Attribute that can handle the events, these are what it does
 						- `v-on:click` | handle click event
 						  logseq.order-list-type:: number
+						- `v-on:dbclick` | handle **double click** event
+						  logseq.order-list-type:: number
 						- `v-on:mouseover` | handle **hover** event
 						  logseq.order-list-type:: number
 						- `v-on:mouseout` | handle **leaving hover** event
 						  logseq.order-list-type:: number
+						- `v-on:focus` | handle ****
+						  logseq.order-list-type:: number
 						- `v-on:blur` | handle **element loses focus** event
 						  logseq.order-list-type:: number
-							- `v-on:`
-							  logseq.order-list-type:: number
 				- `v-model`
 				  logseq.order-list-type:: number
 				- logseq.order-list-type:: number
