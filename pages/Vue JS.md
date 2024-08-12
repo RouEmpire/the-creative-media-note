@@ -431,12 +431,13 @@ language:: [[JavaScript]]
 						              {url: "image/student/Zeen.png", alt: "Picture of Zeen and her cat"}
 						              {url: "image/student/Rou.png", alt: "Picture of Rou writing code"}
 						              {url: "image/student/Zack.png", alt: "Picture of Zack with black coat"}
-						              {url: "image/student/Tales.png", alt: "Picture of Tales in her"}
+						              {url: "image/student/Tales.png", alt: "Picture of Tales in her server room"}
 						           ]
 						        }
 						     }
 						  })
 						  ```
+						-
 				- `v-on`
 				  logseq.order-list-type:: number
 				- `v-model`
