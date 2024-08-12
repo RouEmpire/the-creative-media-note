@@ -419,12 +419,18 @@ language:: [[JavaScript]]
 						- ```HTML
 						  <div id="myApp">
 						     <ol>
-						        <img v-for="X in imageList" v-bind:src="X.url" v-bind:alt="X.altText">
+						        <img v-for="X in imageObj" v-bind:src="X.url" v-bind:alt="X.altText">
 						     </ol>
 						  </div>
 						  ```
 						- ```js
-						  
+						  const App = Vue.createApp({
+						     data() {
+						        return {
+						           imageObj: 
+						        }
+						     }
+						  })
 						  ```
 				- `v-on`
 				  logseq.order-list-type:: number
