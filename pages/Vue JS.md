@@ -438,7 +438,20 @@ language:: [[JavaScript]]
 						  })
 						  ```
 					- We can get **Loop number index** that tell you what times the loop has been made in each loop
-						-
+						- ```html
+						  <div id="myApp">
+						     <ol>
+						        <img v-for="(X, index) in imageList" v-bind:src="X">
+						     </ol>
+						  </div>
+						  ```
+						- ```js
+						  const App = Vue.createApp({
+						     data() {
+						        return {}
+						     }
+						  })
+						  ```
 				- `v-on`
 				  logseq.order-list-type:: number
 				- `v-model`
