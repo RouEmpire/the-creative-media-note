@@ -478,7 +478,8 @@ language:: [[JavaScript]]
 						  logseq.order-list-type:: number
 						- `v-on:keyup` | handle **when key on keyboard are released** event
 						  logseq.order-list-type:: number
-						- Learn more about these thing in the list in here []
+						- Learn more about these thing in the list in > [HTML EVENT](https://www.w3schools.com/jsref/dom_obj_event.asp)
+					- As you can see, in order to use `v-on` is to put `:`
 				- `v-model`
 				  logseq.order-list-type:: number
 				- logseq.order-list-type:: number
