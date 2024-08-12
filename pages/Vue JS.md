@@ -406,7 +406,10 @@ language:: [[JavaScript]]
 						     data() {
 						        return {
 						           imageList:[
-						              "image/"
+						              "image/student/Zeen.png",
+						              "image/student/Rou.png",
+						              "image/student/Zack.png",
+						              "image/student/Tales.png"
 						           ]
 						        }
 						     }
