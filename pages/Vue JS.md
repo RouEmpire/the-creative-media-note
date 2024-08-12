@@ -476,6 +476,9 @@ language:: [[JavaScript]]
 						  logseq.order-list-type:: number
 						- `v-on:keydown` | handle **when key on keyboard are down** event
 						  logseq.order-list-type:: number
+						- `v-on:keyup` | handle **when key on keyboard are released** event
+						  logseq.order-list-type:: number
+						- logseq.order-list-type:: number
 				- `v-model`
 				  logseq.order-list-type:: number
 				- logseq.order-list-type:: number
