@@ -479,7 +479,7 @@ language:: [[JavaScript]]
 						- `v-on:keyup` | handle **when key on keyboard are released** event
 						  logseq.order-list-type:: number
 						- Learn more about these thing in the list in > [HTML EVENT](https://www.w3schools.com/jsref/dom_obj_event.asp)
-					- As you can see, in order to use `v-on` is to put `:` and an HTML EVENT right behind it
+					- As you can see, in order to use `v-on` is to put `:` and an HTML EVENT right behind it, for it's Attribute Value, it can be a Function name in a `App.js` file or just a basic JavaScript code inside it
 					- this is sample
 						- ```html
 						  <div id="myApp">
