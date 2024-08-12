@@ -437,7 +437,7 @@ language:: [[JavaScript]]
 						     }
 						  })
 						  ```
-						-
+					-
 				- `v-on`
 				  logseq.order-list-type:: number
 				- `v-model`
