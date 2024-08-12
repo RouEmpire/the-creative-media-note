@@ -482,7 +482,9 @@ language:: [[JavaScript]]
 					- As you can see, in order to use `v-on` is to put `:` and an HTML EVENT right behind it
 					- this is sample
 						- ```html
-						  
+						  <div id="myApp">
+						     <p> The count is :  </p>
+						  </div>
 						  ```
 				- `v-model`
 				  logseq.order-list-type:: number
