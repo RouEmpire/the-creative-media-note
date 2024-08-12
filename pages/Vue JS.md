@@ -470,9 +470,11 @@ language:: [[JavaScript]]
 						  logseq.order-list-type:: number
 						- `v-on:mouseout` | handle **leaving hover** event
 						  logseq.order-list-type:: number
-						- `v-on:focus` | handle ****
+						- `v-on:focus` | handle **element got focus** event
 						  logseq.order-list-type:: number
 						- `v-on:blur` | handle **element loses focus** event
+						  logseq.order-list-type:: number
+						- `v-on:keydown` | handle **when key on keyboard are down** event
 						  logseq.order-list-type:: number
 				- `v-model`
 				  logseq.order-list-type:: number
