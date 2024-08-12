@@ -397,7 +397,7 @@ language:: [[JavaScript]]
 						- ```HTML
 						  <div id="myApp">
 						     <ol>
-						        <img v-for="X in imageList" v-bind:src="X" v-bind:alt="X">
+						        <img v-for="X in imageList" v-bind:src="X" v-bind>
 						     </ol>
 						  </div>
 						  ```
@@ -410,8 +410,7 @@ language:: [[JavaScript]]
 						              "image/student/Rou.png",
 						              "image/student/Zack.png",
 						              "image/student/Tales.png"
-						           ],
-						           
+						           ]
 						        }
 						     }
 						  })
