@@ -403,8 +403,13 @@ language:: [[JavaScript]]
 						  ```
 						- ```js
 						  const App = Vue.createApp({
-						     data()
-						  
+						     data() {
+						        return {
+						           imageList:[
+						              "image/"
+						           ]
+						        }
+						     }
 						  })
 						  ```
 				- `v-on`
