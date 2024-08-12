@@ -497,6 +497,7 @@ language:: [[JavaScript]]
 						     }
 						  })
 						  ```
+						- This code add the values that display at `{{ numberCount }}`
 				- `v-model`
 				  logseq.order-list-type:: number
 				- logseq.order-list-type:: number
