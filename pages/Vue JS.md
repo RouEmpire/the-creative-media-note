@@ -448,7 +448,9 @@ language:: [[JavaScript]]
 						- ```js
 						  const App = Vue.createApp({
 						     data() {
-						        return {}
+						        return {
+						           nameList: ["Rou","Zeen","Zack","Tales"]
+						        }
 						     }
 						  })
 						  ```
