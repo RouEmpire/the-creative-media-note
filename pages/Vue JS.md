@@ -376,7 +376,13 @@ language:: [[JavaScript]]
 						  </div>
 						  ```
 						- ```js
-						  const App = 
+						  const App = Vue.createApp({
+						     data() {
+						        return {
+						           nameList: ["Jimmy",]
+						        }
+						     }
+						  })
 						  ```
 				- `v-on`
 				  logseq.order-list-type:: number
