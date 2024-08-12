@@ -462,8 +462,11 @@ language:: [[JavaScript]]
 				- `v-on`
 				  logseq.order-list-type:: number
 					- The `v-on` is HTML Attribute that can handle the events, these are what it does
-						- `v-on:click` handle
+						- `v-on:click` | handle click event
 						  logseq.order-list-type:: number
+						- `v-on:mouseover` | handle **hover** event
+						  logseq.order-list-type:: number
+						- logseq.order-list-type:: number
 				- `v-model`
 				  logseq.order-list-type:: number
 				- logseq.order-list-type:: number
