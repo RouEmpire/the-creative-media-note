@@ -371,7 +371,7 @@ language:: [[JavaScript]]
 						- ```HTML
 						  <div id="myApp">
 						     <ol>
-						        <li>  </i>
+						        <li v-for="">  </i>
 						     </ol>
 						  </div>
 						  ```
