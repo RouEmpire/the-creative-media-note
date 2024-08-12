@@ -366,7 +366,7 @@ language:: [[JavaScript]]
 						- Run this code will make `<p>` being visible by user, if you try to change `isShow: true` in JS file to `isShow: false` the `<p>` will not be visible by user, but still render in the background
 				- `v-for`
 				  logseq.order-list-type:: number
-					- The `v-for` is made for **List Rendering**, it's render HTML Element
+					- The `v-for` is made for **List Rendering**, it's render HTML Element from a JavaScript Array
 				- `v-on`
 				  logseq.order-list-type:: number
 				- `v-model`
