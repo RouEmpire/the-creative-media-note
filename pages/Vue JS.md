@@ -371,7 +371,7 @@ language:: [[JavaScript]]
 						- ```HTML
 						  <div id="myApp">
 						     <ol>
-						        <li v-for="X"> Hi, my name is {{ X }} </li>
+						        <li v-for="x in nameList"> Hi, my name is {{ x }} </li>
 						     </ol>
 						  </div>
 						  ```
