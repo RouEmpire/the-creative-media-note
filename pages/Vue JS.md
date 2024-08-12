@@ -428,7 +428,10 @@ language:: [[JavaScript]]
 						     data() {
 						        return {
 						           imageObj: [
-						              {url: "image/student/Zeen.png", alt: "Picture of "}
+						              {url: "image/student/Zeen.png", alt: "Picture of Zeen and her cat"}
+						              {url: "image/student/Rou.png", alt: "Picture of Rou writing code"}
+						              {url: "image/student/Zack.png", alt: "Picture of Zack"}
+						              {url: "image/student/Tales.png", alt: "Picture of Zeen and her cat"}
 						           ]
 						        }
 						     }
