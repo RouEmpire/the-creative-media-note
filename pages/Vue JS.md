@@ -497,7 +497,7 @@ language:: [[JavaScript]]
 						     }
 						  })
 						  ```
-						- This code add the values that display at `{{ numberCount }}`
+						- This code add the values that display at `{{ numberCount }}` by 1 everytime there's a **Click Event** on the *Click Me!!!* text
 				- `v-model`
 				  logseq.order-list-type:: number
 				- logseq.order-list-type:: number
