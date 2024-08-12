@@ -440,7 +440,7 @@ language:: [[JavaScript]]
 					- We can get **Loop number index** that tell you what times the loop has been made in each loop
 						- ```html
 						  <div id="myApp">
-						     <p v-for="X, index"> Hi, my name is {{ X }} and I'm number {{ index }} </p>
+						     <p v-for="(X, index) in nameList"> Hi, my name is {{ X }} and I'm number {{ index }} </p>
 						  </div>
 						  ```
 						- ```js
