@@ -484,13 +484,14 @@ language:: [[JavaScript]]
 						- ```html
 						  <div id="myApp">
 						     <p> The count is : {{ numberCount }} </p>
-						     <p v-on:click="number++"> Click Me!!! </p>
+						     <p v-on:click="numberCount++"> Click Me!!! </p>
 						  </div>
 						  ```
 						- ```js
 						  const App = Vue.createApp({
 						     data() {
 						        return {
+						           numberCount: 0
 						        }
 						     }
 						  })
