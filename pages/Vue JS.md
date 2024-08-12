@@ -371,9 +371,12 @@ language:: [[JavaScript]]
 						- ```HTML
 						  <div id="myApp">
 						     <ol>
-						        <li v-for="">  </i>
+						        <li v-for="X"> Hi, my name is {{ X }} </li>
 						     </ol>
 						  </div>
+						  ```
+						- ```js
+						  const App = 
 						  ```
 				- `v-on`
 				  logseq.order-list-type:: number
