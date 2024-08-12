@@ -397,7 +397,7 @@ language:: [[JavaScript]]
 						- ```HTML
 						  <div id="myApp">
 						     <ol>
-						        <img v-for="X in imageList" v-bind:src="X" v-bind>
+						        <img v-for="X in imageList" v-bind:src="X">
 						     </ol>
 						  </div>
 						  ```
@@ -414,6 +414,14 @@ language:: [[JavaScript]]
 						        }
 						     }
 						  })
+						  ```
+					- Or in the same case, but change Array to Object, so you can loop more than 1 value
+						- ```HTML
+						  <div id="myApp">
+						     <ol>
+						        <img v-for="X in imageList" v-bind:src="X">
+						     </ol>
+						  </div>
 						  ```
 				- `v-on`
 				  logseq.order-list-type:: number
