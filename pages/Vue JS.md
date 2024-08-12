@@ -419,9 +419,12 @@ language:: [[JavaScript]]
 						- ```HTML
 						  <div id="myApp">
 						     <ol>
-						        <img v-for="X in imageList" v-bind:src="X" alt="">
+						        <img v-for="X in imageList" v-bind:src="X.url" v-bind:alt="X.altText">
 						     </ol>
 						  </div>
+						  ```
+						- ```js
+						  
 						  ```
 				- `v-on`
 				  logseq.order-list-type:: number
