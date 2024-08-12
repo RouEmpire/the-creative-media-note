@@ -369,8 +369,10 @@ language:: [[JavaScript]]
 					- The `v-for` is made for **List Rendering**, it's render HTML Element from a JavaScript Array or Array of Object
 					- This is sample
 						- ```HTML
-						  <div id=">
-						     
+						  <div id="myApp">
+						     <ol>
+						        <li>  </i>
+						     </ol>
 						  </div>
 						  ```
 				- `v-on`
