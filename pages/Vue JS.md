@@ -3,7 +3,6 @@ language:: [[JavaScript]]
 
 - Vue JS is the JavaScript framework for Front End Development, it's make HTML elements dynamic
 - # Class 1
-  collapsed:: true
 	- ## Setup Environment for learing
 		- In order to set up **Vue JS** we have to make 2 files, `index.html` and `App.js`
 		  logseq.order-list-type:: number
