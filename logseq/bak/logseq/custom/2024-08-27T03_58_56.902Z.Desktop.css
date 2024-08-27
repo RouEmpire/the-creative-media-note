@@ -6,6 +6,16 @@
 	font-family: "Fira Code";
 	src: url(./font/FiraCode-Regular.ttf);
 }
+/*a.tag {
+	font-family:"Fira Code";
+	background-color:black;
+	border:white 2px solid;
+	color:white;
+}
+.page-ref {
+	font-family:"Fira Code";
+}*/
+
 hr {border-color:white;}
 
 samp, code, pre {
@@ -17,4 +27,10 @@ samp, code, pre {
 }
 #root div {
 	font-family:"Noto Sans Thai","Noto Sans";
+}
+body {
+	font-family:'Noto Sans Thai';
+}
+body div {
+	font-family:'Noto Sans Thai';
 }
