@@ -8,7 +8,7 @@
 }
 hr {border-color:white;}
 
-samp, code, pre, .code-editor {
+samp, code, pre, .code-editor, .CodeMirror, pre.CodeMirror-line {
 	font-family:'Amiga','Fira Sans','Courier New','Noto Sans Thai','monospace' !important;
 }
 #root {
