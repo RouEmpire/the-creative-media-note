@@ -1,0 +1,20 @@
+@font-face {
+	font-family: "Noto Sans Thai";
+	src: url(./font/NotoSansThai-Regular.ttf);
+}
+@font-face {
+	font-family: "Fira Code";
+	src: url(./font/FiraCode-Regular.ttf);
+}
+hr {border-color:white;}
+
+samp, code, pre {
+	font-family:'Fira Code','Fira Sans','Courier New','Noto Sans Thai','monospace';
+}
+#root {
+	font-weight:bold;
+	font-family:"Noto Sans Thai","Noto Sans";
+}
+#root div {
+	font-family:"Noto Sans Thai","Noto Sans";
+}
