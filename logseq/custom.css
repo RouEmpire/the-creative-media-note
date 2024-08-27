@@ -8,3 +8,6 @@ body, body div {
 	font-family:"Noto Sans","Noto Sans Thai","TH Sarabun New";
 	font-weight: 500;
 }
+div.CodeMirror-linenumber, CodeMirror-gutter-elt {
+
+}
