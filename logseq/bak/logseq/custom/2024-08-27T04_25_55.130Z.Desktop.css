@@ -4,13 +4,13 @@
 }
 @font-face {
 	font-family: "CodeFont";
-	src: url(./font/FiraCode.ttf);
+	src: url(./font/FiraCode-Light.woff2);
 }
 
 hr {border-color:white;}
 
 samp, code, pre, .code-editor, .CodeMirror, pre.CodeMirror-line {
-	font-family:'','CodeFont','Fira Sans','Courier New','Noto Sans Thai','monospace' !important;
+	font-family:'Times new Roman';
 }
 #root {
 	font-weight:bold;
