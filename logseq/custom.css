@@ -1,4 +1,11 @@
-
+@font-face {
+	font-family: "Noto Sans Thai";
+	src: url(./font/NotoSansThai-Regular.ttf);
+}
+@font-face {
+	font-family: "Fira Code";
+	src: url(./font/FiraCode-Regular.ttf);
+}
 /*a.tag {
 	font-family:"Fira Code";
 	background-color:black;
