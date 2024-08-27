@@ -1,16 +1,16 @@
-/*@font-face {
+@font-face {
 	font-family: "NotoFont";
 	src: url(./font/NotoSansThai.ttf);
 }
 @font-face {
 	font-family: "CodeFont";
-	src: url(./font/FiraCode.ttf);
+	src: url(./font/FiraCode-Light.woff2);
 }
 
 hr {border-color:white;}
 
 samp, code, pre, .code-editor, .CodeMirror, pre.CodeMirror-line {
-	font-family:'','CodeFont','Fira Sans','Courier New','Noto Sans Thai','monospace' !important;
+	font-family:'CodeFont';
 }
 #root {
 	font-weight:bold;
@@ -18,4 +18,4 @@ samp, code, pre, .code-editor, .CodeMirror, pre.CodeMirror-line {
 }
 #root div {
 	font-family:"NotoFont","Noto Sans";
-}*/
+}
