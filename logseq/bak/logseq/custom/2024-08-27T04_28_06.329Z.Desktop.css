@@ -10,12 +10,12 @@
 hr {border-color:white;}
 
 samp, code, pre, .code-editor, .CodeMirror, pre.CodeMirror-line {
-	font-family:'CodeFont';
+	font-family:'Amiga';
 }
 #root {
 	font-weight:bold;
 	font-family:"NotoFont","Noto Sans";
 }
 #root div {
-	font-family:"NotoFont","Noto Sans";
+	font-family:"Fira Code","Noto Sans";
 }
