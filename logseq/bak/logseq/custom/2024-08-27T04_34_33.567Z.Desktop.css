@@ -4,18 +4,22 @@
 }
 @font-face {
 	font-family: "CodeFont";
-	src: url(./font/FiraCode-Light.woff2);
+	src: url(""./font/FiraCode.ttf");
+}
+@font-face {
+	font-family: "CodeFont";
+	src: url();
 }
 
 hr {border-color:white;}
 
 samp, code, pre, .code-editor, .CodeMirror, pre.CodeMirror-line {
-	font-family:'Amiga';
+	font-family: "CodeFont";
 }
 #root {
 	font-weight:bold;
-	font-family:"NotoFont","Noto Sans";
+	font-family:"NotoFont","TH Sarabun New";
 }
 #root div {
-	font-family:"Fira Code","Noto Sans";
+	font-family:"NotoFont","TH Sarabun New";
 }
