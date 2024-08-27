@@ -1,21 +1,21 @@
 @font-face {
 	font-family: "NotoFont";
-	src: url(./font/NotoSansThai.ttf);
+	src: url("./font/NotoSansThai.ttf");
 }
 @font-face {
 	font-family: "CodeFont";
-	src: url(./font/FiraCode-Light.woff2);
+	src: url("./font/FiraCode.ttf");
 }
 
 hr {border-color:white;}
 
 samp, code, pre, .code-editor, .CodeMirror, pre.CodeMirror-line {
-	font-family:'CodeFont' !important;
+	font-family: "CodeFont";
 }
 #root {
 	font-weight:bold;
-	font-family:"NotoFont","Noto Sans";
+	font-family:"NotoFont","TH Sarabun New";
 }
 #root div {
-	font-family:"NotoFont","Noto Sans";
+	font-family:"NotoFont","TH Sarabun New";
 }
