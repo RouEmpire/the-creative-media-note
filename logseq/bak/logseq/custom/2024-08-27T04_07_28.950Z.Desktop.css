@@ -23,14 +23,14 @@ samp, code, pre {
 }
 #root {
 	font-weight:bold;
-	font-family:"TH Sarabun New","Noto Sans";
+	font-family:"Noto Sans Thai","Noto Sans";
 }
 #root div {
-	font-family:"TH Sarabun New","Noto Sans";
+	font-family:"Noto Sans Thai","Noto Sans";
 }
 body {
-	font-family:'TH Sarabun New';
+	font-family:'Noto Sans';
 }
 body div {
-	font-family:'TH Sarabun New';
+	font-family:'Noto Sans';
 }
