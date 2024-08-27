@@ -12,10 +12,9 @@ hr {border-color:white;}
 samp, code, pre, .code-editor, .CodeMirror, pre.CodeMirror-line {
 	font-family: "CodeFont";
 }
-#body {
-	font-weight:bold;
+body {
 	font-family:"NotoFont","TH Sarabun New";
 }
-#root div {
+body div {
 	font-family:"NotoFont","TH Sarabun New";
 }
