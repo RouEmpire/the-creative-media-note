@@ -18,8 +18,8 @@
 
 hr {border-color:white;}
 
-samp {
-	font-family:'Fira Code','Fira Sans','Courier New','monospace';
+samp, code, pre {
+	font-family:'Fira Code','Fira Sans','Courier New','Noto Sans Thai','monospace';
 }
 #root {
 	font-weight:bold;
