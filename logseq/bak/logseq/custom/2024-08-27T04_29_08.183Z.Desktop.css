@@ -10,7 +10,7 @@
 hr {border-color:white;}
 
 samp, code, pre, .code-editor, .CodeMirror, pre.CodeMirror-line {
-	font-family:'CodeFont';
+	font-family:'Amiga' !important;
 }
 #root {
 	font-weight:bold;
