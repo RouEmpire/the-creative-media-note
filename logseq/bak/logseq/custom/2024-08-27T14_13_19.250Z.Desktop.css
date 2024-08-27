@@ -6,18 +6,16 @@
 	font-family: "CodeFont";
 	src: url("./font/FiraCode.ttf");
 }
-<style>
 @import url('https://fonts.googleapis.com/css2?family=Matemasie&display=swap');
-</style>
 
 hr {border-color:white;}
 
 samp, code, pre, .code-editor, .CodeMirror, pre.CodeMirror-line {
-	font-family: "CodeFont";
+	font-family: "Matemasie";
 }
 body {
-	font-family:"NotoFont","TH Sarabun New";
+	font-family:"Matemasie","TH Sarabun New";
 }
 body div {
-	font-family:"NotoFont","TH Sarabun New";
+	font-family:"Matemasie","TH Sarabun New";
 }
