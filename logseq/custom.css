@@ -4,7 +4,7 @@
 }
 @font-face {
 	font-family: "CodeFont";
-	src: url(./font/FiraCode-Light.woff2);
+	src: url(./font/FiraCode.ttf);
 }
 
 hr {border-color:white;}
