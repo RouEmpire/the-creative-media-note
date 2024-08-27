@@ -6,6 +6,10 @@
 	font-family: "CodeFont";
 	src: url("./font/FiraCode.ttf");
 }
+@font-face {
+	font-family: "CodeFont";
+	src: url();
+}
 
 hr {border-color:white;}
 
