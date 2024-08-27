@@ -3,7 +3,9 @@ hr {border-color:white;}
 samp, code, pre, .code-editor, .CodeMirror, pre.CodeMirror-line {
 	font-family: "Fira Code","Fira Sans","Noto Sans","Noto Sans Thai","",'Courier New', Courier, monospace;
 }
-body, body div {
+body {
 	font-family:"Noto Sans","Noto Sans Thai","TH Sarabun New";
-	font-weight: bolder;
+}
+body div {
+	font-family:"Matemasie","TH Sarabun New";
 }
