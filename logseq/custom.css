@@ -1,10 +1,10 @@
 @font-face {
 	font-family: "NotoFont";
-	src: url(./font/NotoSansThai-Regular.ttf);
+	src: url(./font/NotoSansThai.ttf);
 }
 @font-face {
 	font-family: "CodeFont";
-	src: url(./font/FiraCode-Regular.ttf);
+	src: url(./font/FiraCode.ttf);
 }
 hr {border-color:white;}
 

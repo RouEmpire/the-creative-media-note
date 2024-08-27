@@ -8,8 +8,8 @@
 }
 hr {border-color:white;}
 
-samp, code, pre {
-	font-family:'TH Sarabun New','Fira Sans','Courier New','Noto Sans Thai','monospace';
+samp, code, pre, .code-editor, .CodeMirror, pre.CodeMirror-line {
+	font-family:'Fira Code','Fira Sans','Courier New','Noto Sans Thai','monospace' !important;
 }
 #root {
 	font-weight:bold;
