@@ -8,4 +8,10 @@
 		  logseq.order-list-type:: number
 		- Be Creative
 		  logseq.order-list-type:: number
-	-
+	- นิยามของความคิดสร้างสรรค์
+		- ความคิดแนวตั้ง
+			-
+		- ความคิดแนวข้าง
+			-
+		- ความคิดแบบขนาน
+			-
