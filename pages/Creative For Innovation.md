@@ -55,7 +55,7 @@ facalty::  [[Mass Communication Technology]]
 		- [[draws/2024-08-28-11-06-21.excalidraw]]
 		- TODO เพิ่มภาพและความหมาย
 		- TODO เพิ่มบุคลิกของกราฟฟิก
-	- แนงวคิดและคอนเซปต์
+	- แนวคิดและคอนเซปต์
 	  background-color:: yellow
 		- การเน้น (Emphasis)
 		  collapsed:: true
