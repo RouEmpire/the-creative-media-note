@@ -1,4 +1,6 @@
--
+type:: [[]] 
+facalty:: [[Mass Communication Technology]]
+
 - # Creative and Design
 	- สิ่งจำเป็นในการทำ Design มี 3 อย่าง คือ
 		- Big Idea
