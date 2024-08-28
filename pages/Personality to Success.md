@@ -585,9 +585,7 @@ Type:: [[Person Skill]]
 					- **อาการ**
 						- มีสัมพัธภาพกับคนอื่นในแง่ร้าย ฝ่าฝืนกดหมาย ไม่เคารพสิทธิของคนอื่น
 					- **ปัญหา**
-					  logseq.order-list-type:: number
 						- ติดยา ติดเหล้า เป็นเด็กแว้น
-						  logseq.order-list-type:: number
 				- หลงตัวเอง
 				  logseq.order-list-type:: number
 				  background-color:: blue
@@ -606,13 +604,9 @@ Type:: [[Person Skill]]
 				- พันธุกรรม ชีววิทยา สารเคมี
 				  logseq.order-list-type:: number
 					- สารเคมี เช่น
-					  logseq.order-list-type:: number
 						- *โดปามีน*
-						  logseq.order-list-type:: number
 						- *นอเอฟริสเนมปริน*
-						  logseq.order-list-type:: number
 						- *ซีโอโรโทนิน*
-						  logseq.order-list-type:: number
 				- แนวคิดทฤษฎีจิตวิเคราะห์
 				  logseq.order-list-type:: number
 					- Ego ทำงานผิดพลาด
