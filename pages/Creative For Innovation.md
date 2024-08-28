@@ -89,12 +89,18 @@ facalty::  [[Mass Communication Technology]]
 			  เป็นทฤษฎีจิตใจและสมองของสำนักจิตวิทยาเชิงการทดลอง หลักการของจิตวิทยาเกสตัลล์ คือ สมองเป็นแบบองค์รวม หลักการมีอยู่ว่า ตามนุษย์เห็นทั้งหมดก่อนค่อยรับรู้องค์ประกอบย่อ
 			  Analog หมายถึง วิธีการเก็บข้อมูลที่ได้จากการวัดในลักษณะต่อเนื่อง
 			  องค์ประกอบดังนี้
-			  1. proximity ความใกล้ชิด
-			  2. Similarly ความคล้าย/เหมือนกัน
-			  3. Enclosure การตีกรอบ
-			  4. Closure การปิด/สิ้นสุด/ยุติ
-			  5. Continuity ความต่อเนื่อง
-			  6. Connection การเชื่อมต่อ
+				- proximity ความใกล้ชิด
+				  logseq.order-list-type:: number
+				- Similarly ความคล้าย/เหมือนกัน
+				  logseq.order-list-type:: number
+				- Enclosure การตีกรอบ
+				  logseq.order-list-type:: number
+				- Closure การปิด/สิ้นสุด/ยุติ
+				  logseq.order-list-type:: number
+				- Continuity ความต่อเนื่อง
+				  logseq.order-list-type:: number
+				- Connection การเชื่อมต่อ
+				  logseq.order-list-type:: number
 	- Proximity ความใกล้ชิด
 	  มนุษย์จะคิดว่าวัตถุอะไรที่นำเสนอตำแหน่งที่ใกล้กัน จะเป็นวัตถุกลุ่มเดียวกัน
 	  Similarly ความเหมือน
