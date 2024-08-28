@@ -48,5 +48,5 @@
 		- สัดส่วน (Proportion)
 		- ความหลากหลาย (Variety)
 		- ความกลมกลืน (Harmony)
-		-
+		- ![creative-001A-068.png](../assets/creative-001A-068_1724818569972_0.png)
 	-
