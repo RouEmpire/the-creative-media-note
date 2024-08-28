@@ -116,3 +116,5 @@ facalty::  [[Mass Communication Technology]]
 							  logseq.order-list-type:: number
 							- *อื่นๆ*
 							  logseq.order-list-type:: number
+- # Creative Thinking
+	-
