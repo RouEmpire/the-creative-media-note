@@ -43,5 +43,10 @@
 		- การเน้น (Emphasis)
 		- ความสมดุล (Balancing)
 		- ความเป็นหนึ่ง (Unity)
-		- ความแตกต่าง ()
+		- ความแตกต่าง (Contrast)
+		- จังหวะ (Rhythm)
+		- สัดส่วน (Proportion)
+		- ความหลากหลาย (Variety)
+		- ความกลมกลืน (Harmony)
+		-
 	-
