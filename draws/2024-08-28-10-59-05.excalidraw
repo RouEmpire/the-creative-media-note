@@ -1,10 +1,48 @@
 {
   "type": "excalidraw",
   "version": 2,
-  "source": "https://logseq.com",
-  "elements": [],
+  "source": "file://",
+  "elements": [
+    {
+      "id": "dp5SA4QdyD76RDe3s8j9F",
+      "type": "text",
+      "x": 345.7783508300781,
+      "y": 145.5743865966797,
+      "width": 88,
+      "height": 25,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": null,
+      "seed": 779817663,
+      "version": 19,
+      "versionNonce": 989823601,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1724817581868,
+      "link": null,
+      "locked": false,
+      "text": "หมวกขาว",
+      "fontSize": 20,
+      "fontFamily": 1,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "baseline": 17,
+      "containerId": null,
+      "originalText": "หมวกขาว",
+      "lineHeight": 1.25
+    }
+  ],
   "appState": {
-    "viewBackgroundColor": "#FFF",
-    "gridSize": null
-  }
+    "gridSize": null,
+    "viewBackgroundColor": "#FFF"
+  },
+  "files": {}
 }
