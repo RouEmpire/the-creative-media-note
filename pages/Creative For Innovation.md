@@ -37,5 +37,5 @@
 		- ทักษะความคิดสร้างสรรค์ (Creative thinking skill)
 		- ประสบการณ์ (Expertise)
 		- [[draws/2024-08-28-11-06-21.excalidraw]]
-		-
+		- TODO เพิ่มภาพและความหมาย
 	-
