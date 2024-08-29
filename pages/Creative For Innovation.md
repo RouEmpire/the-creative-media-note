@@ -161,4 +161,11 @@ facalty::  [[Mass Communication Technology]]
 		- มีอยู่ 2 ทาง คือ **ทางตรง** และ **ทางอ้อม**
 			- **ทางตรง** คือ การฝึกอบรม
 			- **ทางอ้อม** มีหลายวิธี เช่น
-				- logseq.order-list-type:: number
+				- ยอมรับในความสามารถของแต่ละบุคคล
+				  logseq.order-list-type:: number
+				- แสดงให้เห็นว่าความคิดของเขามีคุณค่า
+				  logseq.order-list-type:: number
+				- ยอมรับในความคิดที่แปลก หรือแตกต่าง
+				  logseq.order-list-type:: number
+				- ไม่สนับสนุน
+				  logseq.order-list-type:: number
