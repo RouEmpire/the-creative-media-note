@@ -139,14 +139,21 @@ facalty::  [[Mass Communication Technology]]
 			- **เริ่มจากความรู้ที่มี แล้วต่อยอดสู่สิ่งใหม่** ส่วนใหญ่จะเรียกว่า **นวัตกรรม**
 			  logseq.order-list-type:: number
 		- กระบวนการความคิดสร้างสรรค์
-			- **เกิดสิ่งกระทบให้รู้สึกว่า** ***ต้องคิด*** เกิดเหตุที่ทำให้รู้สึกต้องใช้ความคิดแก้ปัญหาอะไรสักอย่าง
+			- **เกิดสิ่งกระทบให้รู้สึกว่า** ***ต้องคิด***
 			  logseq.order-list-type:: number
+				- เกิดเหตุที่ทำให้รู้สึกต้องใช้ความคิดแก้ปัญหาอะไรสักอย่าง
+				  logseq.order-list-type:: number
 			- **รวบรวมข้อมูล**
 			  logseq.order-list-type:: number
+				- เก็บข้อมูลและประเด็นที่เกี่ยวข้องในทุกแง่มุม
+				  logseq.order-list-type:: number
 			- **แจกแจง**
 			  logseq.order-list-type:: number
+				- logseq.order-list-type:: number
 			- **คิดและกระทำให้ชัดเจน**
 			  logseq.order-list-type:: number
+				- logseq.order-list-type:: number
 			- **แสดงออก**
 			  logseq.order-list-type:: number
+				- logseq.order-list-type:: number
 	-
