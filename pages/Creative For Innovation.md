@@ -167,5 +167,9 @@ facalty::  [[Mass Communication Technology]]
 				  logseq.order-list-type:: number
 				- ยอมรับในความคิดที่แปลก หรือแตกต่าง
 				  logseq.order-list-type:: number
-				- ไม่สนับสนุน
+				- ไม่สนับสนุนผลงานที่คล้ายกับผลงานที่เคยได้รับการยอมรับมาแล้ว
+				  logseq.order-list-type:: number
+				- ไม่ขีดเส้นจำกัดความคิดสร้างสรรค์
+				  logseq.order-list-type:: number
+				- ให้เวลาและกำลังใจ
 				  logseq.order-list-type:: number
