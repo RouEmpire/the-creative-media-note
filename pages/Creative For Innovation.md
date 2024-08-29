@@ -118,12 +118,12 @@ facalty::  [[Mass Communication Technology]]
 				  logseq.order-list-type:: number
 				- รวบรวมข้อมูล (Data Finding)
 				  logseq.order-list-type:: number
-				- มองปัญหาทุกด้าน
+				- มองปัญหาทุกด้าน (Problem Finding)
 				  logseq.order-list-type:: number
-				- แสวงหาความคิดที่หลากหลาย
+				- แสวงหาความคิดที่หลากหลาย (Idea Finding)
 				  logseq.order-list-type:: number
-				- หาคำตอบรอบด้าน
+				- หาคำตอบรอบด้าน (Solution Finding)
 				  logseq.order-list-type:: number
-				- หาข้อสรุปที่เหมาะสม
+				- หาข้อสรุปที่เหมาะสม (Acceptance )
 				  logseq.order-list-type:: number
 	-
