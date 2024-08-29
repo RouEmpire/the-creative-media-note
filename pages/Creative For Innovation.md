@@ -134,7 +134,8 @@ facalty::  [[Mass Communication Technology]]
 			- เป็นการสร้างสรรค์สิ่งใหม่ (Creative Thinking)
 			  logseq.order-list-type:: number
 		- ความคิดสร้างสรรค์เกิดขึ้นได้ 2 ทาง
-			- เริ่มจากจินตนาการ แล้วย้อนสู่ความจริง
+			- **เริ่มจากจินตนาการ แล้วย้อนสู่ความจริง**
 			  logseq.order-list-type:: number
-			- logseq.order-list-type:: number
+			- **เริ่มจากความรู้ที่มี แล้วต่อยอดสู่สิ่งใหม่** ส่วนใหญ่จะเรียกว่า **นวัตกรรม**
+			  logseq.order-list-type:: number
 	-
