@@ -127,5 +127,10 @@ facalty::  [[Mass Communication Technology]]
 				- หาข้อสรุปที่เหมาะสม (Acceptance Finding)
 				  logseq.order-list-type:: number
 			- ความหมายของ Creative Thinking มี 3 ประเด็น
-				- logseq.order-list-type:: number
+				- คิดในแง่บวก (Positive Thinking)
+				  logseq.order-list-type:: number
+				- เป็นความคิดที่ไม่ทำร้ายใคร (Constructive )
+				  logseq.order-list-type:: number
+				- เป็นการสร้างสรรค์สิ่งใหม่
+				  logseq.order-list-type:: number
 	-
