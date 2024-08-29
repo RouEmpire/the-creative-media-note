@@ -138,5 +138,9 @@ facalty::  [[Mass Communication Technology]]
 			  logseq.order-list-type:: number
 			- **เริ่มจากความรู้ที่มี แล้วต่อยอดสู่สิ่งใหม่** ส่วนใหญ่จะเรียกว่า **นวัตกรรม**
 			  logseq.order-list-type:: number
-		- กระ
+		- กระบวนการความคิดสร้างสรรค์
+			- **เกิดสิ่งกระทบให้รู้สึกว่า** ***ต้องคิด***
+			  logseq.order-list-type:: number
+			- รวบรวมข้อมูล
+			  logseq.order-list-type:: number
 	-
