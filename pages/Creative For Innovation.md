@@ -156,6 +156,7 @@ facalty::  [[Mass Communication Technology]]
 			- **แสดงออก**
 			  logseq.order-list-type:: number
 				- พิสูจน์ ทดลอง ทดสอบ และนำเสนอ
+				-
 	- ## Creative Thinking Improvement
 		- ### การส่งเสริมให้เกิดความคิดสร้างสรรค์
 			- มีอยู่ 2 ทาง คือ **ทางตรง** และ **ทางอ้อม**
@@ -191,4 +192,4 @@ facalty::  [[Mass Communication Technology]]
 				- กฟหก
 			- #### ฝึกคิดบนหลักความเป็นจริง
 				- ฟหก
-			-
+			- #### การฝึกคิดแบบไขว้
