@@ -124,6 +124,8 @@ facalty::  [[Mass Communication Technology]]
 				  logseq.order-list-type:: number
 				- หาคำตอบรอบด้าน (Solution Finding)
 				  logseq.order-list-type:: number
-				- หาข้อสรุปที่เหมาะสม (Acceptance )
+				- หาข้อสรุปที่เหมาะสม (Acceptance Finding)
 				  logseq.order-list-type:: number
+			- ความหมายของ Creative Thinking มี 3 ประเด็น
+				- logseq.order-list-type:: number
 	-
