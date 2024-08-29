@@ -109,4 +109,5 @@ facalty::  [[Mass Communication Technology]]
 							- *อื่นๆ*
 							  logseq.order-list-type:: number
 - # Creative Thinking
-	- Creative คือ กระบวนการที่มีการคิด
+	- Creative คือ กระบวนการที่มีการคิด **สิ่งใหม่** ขึ้นมา โดยอาจจะเกิดขึ้นจากการที่ตั้งใจหรือๆม่ตั้งใจ
+	-
