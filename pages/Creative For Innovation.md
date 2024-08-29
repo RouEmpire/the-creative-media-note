@@ -159,7 +159,8 @@ facalty::  [[Mass Communication Technology]]
 	- ## Creative Thinking Improvement
 		- ### การส่งเสริมให้เกิดความคิดสร้างสรรค์
 			- มีอยู่ 2 ทาง คือ **ทางตรง** และ **ทางอ้อม**
-				- **ทางตรง** คือ การฝึกอบรม
+				- **ทางตรง**
+				- อบรม
 				- **ทางอ้อม** มีหลายวิธี เช่น
 					- ยอมรับในความสามารถของแต่ละบุคคล
 					  logseq.order-list-type:: number
@@ -179,3 +180,4 @@ facalty::  [[Mass Communication Technology]]
 					  logseq.order-list-type:: number
 					- ให้เวลาและกำลังใจต่อผู้สร้างสรรค์ผลงาน
 					  logseq.order-list-type:: number
+		- การฝึกอบรมเพื่อพัฒนา Creative Thinking
