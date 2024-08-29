@@ -156,7 +156,9 @@ facalty::  [[Mass Communication Technology]]
 			- **แสดงออก**
 			  logseq.order-list-type:: number
 				- พิสูจน์ ทดลอง ทดสอบ และนำเสนอ
-				-
+	- ## กระบวนการ Creative Thinking
+		- มี 5 กระบวนการ
+			- logseq.order-list-type:: number
 	- ## Creative Thinking Improvement
 		- ### การส่งเสริมให้เกิดความคิดสร้างสรรค์
 			- มีอยู่ 2 ทาง คือ **ทางตรง** และ **ทางอ้อม**
