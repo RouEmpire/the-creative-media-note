@@ -158,4 +158,4 @@ facalty::  [[Mass Communication Technology]]
 				- พิสูจน์ ทดลอง ทดสอบ และนำเสนอ
 - # Creative Thinking Improvement
 	- ## การส่งเสริมให้เกิดความคิดสร้างสรรค์
-		- ไ
+		-
