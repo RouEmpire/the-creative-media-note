@@ -139,6 +139,7 @@ facalty::  [[Mass Communication Technology]]
 			- **เริ่มจากความรู้ที่มี แล้วต่อยอดสู่สิ่งใหม่** ส่วนใหญ่จะเรียกว่า **นวัตกรรม**
 			  logseq.order-list-type:: number
 		- กระบวนการความคิดสร้างสรรค์
+		  id:: 66cffd9b-199d-430e-8c91-f83cc705fcf3
 			- **เกิดสิ่งกระทบให้รู้สึกว่า** ***ต้องคิด***
 			  logseq.order-list-type:: number
 				- เกิดเหตุที่ทำให้รู้สึกต้องใช้ความคิดแก้ปัญหาอะไรสักอย่าง
@@ -156,9 +157,6 @@ facalty::  [[Mass Communication Technology]]
 			- **แสดงออก**
 			  logseq.order-list-type:: number
 				- พิสูจน์ ทดลอง ทดสอบ และนำเสนอ
-	- ## กระบวนการ Creative Thinking
-		- มี 5 กระบวนการ
-			- logseq.order-list-type:: number
 	- ## Creative Thinking Improvement
 		- ### การส่งเสริมให้เกิดความคิดสร้างสรรค์
 			- มีอยู่ 2 ทาง คือ **ทางตรง** และ **ทางอ้อม**
@@ -185,7 +183,7 @@ facalty::  [[Mass Communication Technology]]
 					- ให้เวลาและกำลังใจต่อผู้สร้างสรรค์ผลงาน
 					  logseq.order-list-type:: number
 		- ### การ ((66cfff75-1156-4289-a30f-54871a303551)) เพื่อพัฒนา Creative Thinking
-			- เป็นวิธีการฝึกทางตรงเพื่อพัฒนาความคิดและกระบวนการคิดอย่างสร้างสรรค์
+			- เป็นวิธีการฝึก*ทางตรง*เพื่อพัฒนาความคิดและ ((66cffd9b-199d-430e-8c91-f83cc705fcf3))
 			- #### ฝึกคิดเชิงบวก
 				-
 			- #### ฝึกคิดย้อมศร
