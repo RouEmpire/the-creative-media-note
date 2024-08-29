@@ -155,7 +155,7 @@ facalty::  [[Mass Communication Technology]]
 				  logseq.order-list-type:: number
 			- **คิดและกระทำให้ชัดเจน**
 			  logseq.order-list-type:: number
-				- นำข้อมูลที่ได้มาจาก ((66cfdb77-ea44-483c-bce1-f8137bfb44e6)) มาทำให้เห็นภาพ
+				- นำข้อมูลที่ได้มาจาก ((66cfdb77-ea44-483c-bce1-f8137bfb44e6)) มาทำให้เห็นภาพ ขั้นตอน โดยข้อมูลจะต้องชัดดเจน
 				  logseq.order-list-type:: number
 			- **แสดงออก**
 			  logseq.order-list-type:: number
