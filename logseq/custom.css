@@ -1,6 +1,7 @@
 hr {border-color:white;}
 h1, h2, h3, h4, h5, h6 {
     font-family:"Noto Sans","Noto Sans Thai" !important;
+	font-weight:bold !important;
 }
 
 samp, code, pre, .code-editor, .CodeMirror, pre.CodeMirror-line {
