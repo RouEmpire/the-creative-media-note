@@ -169,7 +169,11 @@ facalty::  [[Mass Communication Technology]]
 				  logseq.order-list-type:: number
 				- ไม่สนับสนุนผลงานที่คล้ายกับผลงานที่เคยได้รับการยอมรับมาแล้ว
 				  logseq.order-list-type:: number
+					- **ไม่สนับสนุนผลงานที่คล้ายกับ**ผลงานที่เคยได้รางวัลมาก่อน
+					  logseq.order-list-type:: number
+					- **ไม่สนับสนุนผลงานที่คล้ายกับ**ผลงานที่ถูก
+					  logseq.order-list-type:: number
 				- ไม่ขีดเส้นจำกัดความคิดสร้างสรรค์
 				  logseq.order-list-type:: number
-				- ให้เวลาและกำลังใจ
+				- ให้เวลาและกำลังใจต่อผู้สร้างสรรค์ผลงาน
 				  logseq.order-list-type:: number
