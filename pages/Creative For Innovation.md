@@ -109,4 +109,4 @@ facalty::  [[Mass Communication Technology]]
 							- *อื่นๆ*
 							  logseq.order-list-type:: number
 - # Creative Thinking
-	-
+	- Creative คือ กระบวนการที่มีการคิด
