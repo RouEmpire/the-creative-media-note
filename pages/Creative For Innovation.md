@@ -158,4 +158,7 @@ facalty::  [[Mass Communication Technology]]
 				- พิสูจน์ ทดลอง ทดสอบ และนำเสนอ
 - # Creative Thinking Improvement
 	- ## การส่งเสริมให้เกิดความคิดสร้างสรรค์
-		-
+		- มีอยู่ 2 ทาง คือ **ทางตรง** และ **ทางอ้อม**
+			- **ทางตรง** คือ การฝึกอบรม
+			- **ทางอ้อม** มีหลายวิธี เช่น
+				- logseq.order-list-type:: number
