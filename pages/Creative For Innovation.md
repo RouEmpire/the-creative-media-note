@@ -142,22 +142,19 @@ facalty::  [[Mass Communication Technology]]
 			- **เกิดสิ่งกระทบให้รู้สึกว่า** ***ต้องคิด***
 			  logseq.order-list-type:: number
 				- เกิดเหตุที่ทำให้รู้สึกต้องใช้ความคิดแก้ปัญหาอะไรสักอย่าง
-				  logseq.order-list-type:: number
 			- **รวบรวมข้อมูล**
 			  logseq.order-list-type:: number
 			  id:: 66cfdb6b-f8bc-4048-a640-b71ea97ff348
 				- เก็บข้อมูลและประเด็นที่เกี่ยวข้องในทุกแง่มุม
-				  logseq.order-list-type:: number
 			- **แจกแจง**
 			  logseq.order-list-type:: number
 			  id:: 66cfdb77-ea44-483c-bce1-f8137bfb44e6
 				- นำข้อมูลที่ได้มาจาก ((66cfdb6b-f8bc-4048-a640-b71ea97ff348)) มาทำความสะอาด จัดเรียง และวิเคราะห์เพื่อให้นำไปใช้ต้อได้
-				  logseq.order-list-type:: number
 			- **คิดและกระทำให้ชัดเจน**
 			  logseq.order-list-type:: number
 				- นำข้อมูลที่ได้มาจาก ((66cfdb77-ea44-483c-bce1-f8137bfb44e6)) มาทำให้เห็นภาพ ขั้นตอน โดยข้อมูลจะต้องชัดดเจน
-				  logseq.order-list-type:: number
 			- **แสดงออก**
 			  logseq.order-list-type:: number
-				- logseq.order-list-type:: number
+				- พิสูจน์ ทดลอง ทดสอบ และนำเสนอ
+		-
 	-
