@@ -116,7 +116,14 @@ facalty::  [[Mass Communication Technology]]
 			- ขั้นตอนของการคิดอย่างสร้างสรรค์ มี 6 ขึ้นตอน
 				- แสวงหาข้อบกพร่อง (Mess Finding)
 				  logseq.order-list-type:: number
-				- รวบรวมข้อมูล
+				- รวบรวมข้อมูล (Data Finding)
 				  logseq.order-list-type:: number
-				- logseq.order-list-type:: number
+				- มองปัญหาทุกด้าน
+				  logseq.order-list-type:: number
+				- แสวงหาความคิดที่หลากหลาย
+				  logseq.order-list-type:: number
+				- หาคำตอบรอบด้าน
+				  logseq.order-list-type:: number
+				- หาข้อสรุปที่เหมาะสม
+				  logseq.order-list-type:: number
 	-
