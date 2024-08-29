@@ -141,6 +141,12 @@ facalty::  [[Mass Communication Technology]]
 		- กระบวนการความคิดสร้างสรรค์
 			- **เกิดสิ่งกระทบให้รู้สึกว่า** ***ต้องคิด***
 			  logseq.order-list-type:: number
-			- รวบรวมข้อมูล
+			- **รวบรวมข้อมูล**
+			  logseq.order-list-type:: number
+			- **แจกแจง**
+			  logseq.order-list-type:: number
+			- **คิดและกระทำให้ชัดเจน**
+			  logseq.order-list-type:: number
+			- **แสดงออก**
 			  logseq.order-list-type:: number
 	-
