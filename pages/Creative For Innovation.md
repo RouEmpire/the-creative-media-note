@@ -171,7 +171,9 @@ facalty::  [[Mass Communication Technology]]
 				  logseq.order-list-type:: number
 					- **ไม่สนับสนุนผลงานที่คล้ายกับ**ผลงานที่เคยได้รางวัลมาก่อน
 					  logseq.order-list-type:: number
-					- **ไม่สนับสนุนผลงานที่คล้ายกับ**ผลงานที่ถูก
+					- **ไม่สนับสนุนผลงานที่คล้ายกับ**ผลงานที่ถูกยกย่อง
+					  logseq.order-list-type:: number
+					- **ไม่สนับสนุนผลงานที่คล้ายกับ**ผลงานที่เป็นที่รู้จัก
 					  logseq.order-list-type:: number
 				- ไม่ขีดเส้นจำกัดความคิดสร้างสรรค์
 				  logseq.order-list-type:: number
