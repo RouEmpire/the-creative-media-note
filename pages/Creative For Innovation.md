@@ -113,24 +113,25 @@ facalty::  [[Mass Communication Technology]]
 		- คือ กระบวนการที่มีการคิด **สิ่งใหม่** ขึ้นมา โดยอาจจะเกิดขึ้นจากการที่**ตั้งใจหรือไม่ตั้งใจ**ก็ได้
 	- ## Creative Thinking?
 		- คือ การคิดที่พยายามหาทางออกหลายๆ ทาง ใช้ความคิดที่หลากหลาย นอกกรอบ และปรับปรุงให้ดีขึ้นเรื่อยๆ
-			- ขั้นตอนของการคิดอย่างสร้างสรรค์ มี 6 ขึ้นตอน
-				- แสวงหาข้อบกพร่อง (Mess Finding)
-				  logseq.order-list-type:: number
-				- รวบรวมข้อมูล (Data Finding)
-				  logseq.order-list-type:: number
-				- มองปัญหาทุกด้าน (Problem Finding)
-				  logseq.order-list-type:: number
-				- แสวงหาความคิดที่หลากหลาย (Idea Finding)
-				  logseq.order-list-type:: number
-				- หาคำตอบรอบด้าน (Solution Finding)
-				  logseq.order-list-type:: number
-				- หาข้อสรุปที่เหมาะสม (Acceptance Finding)
-				  logseq.order-list-type:: number
-			- ความหมายของ Creative Thinking มี 3 ประเด็น
-				- คิดในแง่บวก (Positive Thinking)
-				  logseq.order-list-type:: number
-				- เป็นความคิดที่ไม่ทำร้ายใคร (Constructive )
-				  logseq.order-list-type:: number
-				- เป็นการสร้างสรรค์สิ่งใหม่
-				  logseq.order-list-type:: number
+		- ขั้นตอนของการคิดอย่างสร้างสรรค์ มี 6 ขึ้นตอน
+			- แสวงหาข้อบกพร่อง (Mess Finding)
+			  logseq.order-list-type:: number
+			- รวบรวมข้อมูล (Data Finding)
+			  logseq.order-list-type:: number
+			- มองปัญหาทุกด้าน (Problem Finding)
+			  logseq.order-list-type:: number
+			- แสวงหาความคิดที่หลากหลาย (Idea Finding)
+			  logseq.order-list-type:: number
+			- หาคำตอบรอบด้าน (Solution Finding)
+			  logseq.order-list-type:: number
+			- หาข้อสรุปที่เหมาะสม (Acceptance Finding)
+			  logseq.order-list-type:: number
+		- ความหมายของ Creative Thinking มี 3 ประเด็น
+			- คิดในแง่บวก (Positive Thinking)
+			  logseq.order-list-type:: number
+			- เป็นความคิดที่ไม่ทำร้ายใคร (Constructive Thinking)
+			  logseq.order-list-type:: number
+			- เป็นการสร้างสรรค์สิ่งใหม่ (Creative Thinking)
+			  logseq.order-list-type:: number
+		-
 	-
