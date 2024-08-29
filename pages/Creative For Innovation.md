@@ -157,4 +157,5 @@ facalty::  [[Mass Communication Technology]]
 			  logseq.order-list-type:: number
 				- พิสูจน์ ทดลอง ทดสอบ และนำเสนอ
 - # Creative Thinking Improvement
-	-
+	- ## การส่งเสริมให้เกิดความคิดสร้างสรรค์
+		- ไ
