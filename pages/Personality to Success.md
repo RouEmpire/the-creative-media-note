@@ -654,5 +654,18 @@ Type:: [[Person Skill]]
 -
 - ## การแสดงออกที่เหมาะสม
 	- ข้อใดกล่าวไม่ถูกต้อง
-		- logseq.order-list-type:: number
+		- เป็นการแสดงออกที่ไม่เหมาะสม
+		  logseq.order-list-type:: number
+		- เป็นการแสดงออกที่ไม่ห้องกันตัวเอง
+		  logseq.order-list-type:: number
+		- เป็นการแสดงออกในด้านบวกหรือลบ
+		  logseq.order-list-type:: number
+		- **แคร์คนอื่นมากกว่าตนเอง**
+		  logseq.order-list-type:: number
+	- เต้ย จะพูดจาเสียงดังในสาธารณะ เพื่อต้องการให้ผู้อื่นเข้าใจ
+		- **ก้าวร้าว**
+		-
+		-
+		-
+		-
 -
