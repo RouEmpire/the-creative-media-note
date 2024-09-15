@@ -3,6 +3,7 @@
 	- **Responsive Design** is the design system that make your HTML document looks good in many device (for clear, it's make your site appear different depends on what *Screen Size* it's rendering)
 	- ## Grid System
 	  id:: 66e657a8-897d-444c-af3a-943384c9f104
+	  collapsed:: true
 		- Grid System is a design like this pictures
 		  ![Grid Design Preview](./../assets/Grid_Design_Preview.png)
 		  You can display your content in your page just like in the image above using ((66e657a8-897d-444c-af3a-943384c9f104))
@@ -30,4 +31,5 @@
 					- Margin in ((66e657a8-897d-444c-af3a-943384c9f104)) is a *blank space* that stays on the left-most and right-most of the whole grid display
 					- Mostly Margin exist to ensure that the page don't get over the screen edge
 			- ![image.png](../assets/Grid_Anatomy.png)
-		-
+	- ## Flexbox System
+		- Flexbox or Flexible box
