@@ -11,6 +11,7 @@
 				- **Column**
 				  logseq.order-list-type:: number
 					- Column in  ((66e657a8-897d-444c-af3a-943384c9f104)) is *Vertical Section* that shows how *many* it is and how *wide* it is
+					- Usually, In many design it contain 3, 4, 12, 16 section of column depends on screen size and
 				- **Gutter** :
 				  logseq.order-list-type:: number
 				- **margin** :
