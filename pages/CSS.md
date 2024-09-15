@@ -17,6 +17,8 @@
 				  logseq.order-list-type:: number
 					- Gutter in ((66e657a8-897d-444c-af3a-943384c9f104)) is a *blank space* between each ((66e65a97-9272-4705-83cf-2f82c7401f56))
 					  logseq.order-list-type:: number
+					- Usually it's just a blank space and focus to ensure that column don't
+					  logseq.order-list-type:: number
 				- **margin** :
 				  logseq.order-list-type:: number
 			- ![image.png](../assets/Grid_Anatomy.png)
