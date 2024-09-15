@@ -16,7 +16,8 @@
 					- Any element is HTML can live in 1 column or more, and they can start a position on any grid as well
 						- Example
 						  ![Website Grid Example](../assets/Website_Grid_Example.jpg)
-						-
+					- **Row**
+						- Row is a **Horizontal Line** of a column
 				- **Gutter**
 				  logseq.order-list-type:: number
 					- Gutter in ((66e657a8-897d-444c-af3a-943384c9f104)) is a *blank space* between each ((66e65a97-9272-4705-83cf-2f82c7401f56))
