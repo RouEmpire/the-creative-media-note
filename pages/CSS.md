@@ -21,6 +21,7 @@
 					  logseq.order-list-type:: number
 				- **margin**
 				  logseq.order-list-type:: number
-					- Margin in ((66e657a8-897d-444c-af3a-943384c9f104)) is a *blank space*
+					- Margin in ((66e657a8-897d-444c-af3a-943384c9f104)) is a *blank space* that stays on the left-most and right-most of the whole grid display
+					-
 			- ![image.png](../assets/Grid_Anatomy.png)
 			-
