@@ -1,1 +1,3 @@
-- The **CSS** or *Cascading Style Sheets* is a **Styling Language** (unlike [[Programming Language]] or [[Markup Language]] ) Which let you style any
+- The **CSS** or *Cascading Style Sheets* is a **Styling Language** (unlike [[Programming Language]] or [[Markup Language]] ) Which let you style any [[HTML]] files
+- # Responsive Design
+	-
