@@ -12,4 +12,7 @@
 				  logseq.order-list-type:: number
 				- Gutter
 				  logseq.order-list-type:: number
-				- logseq.order-list-type:: number
+				- margin
+				  logseq.order-list-type:: number
+				- ![image.png](../assets/iGrid.png)
+				  logseq.order-list-type:: number
