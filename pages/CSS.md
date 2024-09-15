@@ -2,7 +2,8 @@
 - # Responsive Design
 	- **Responsive Design** is the design system that make your HTML document looks good in many device (for clear, it's make your site appear different depends on what *Screen Size* it's rendering)
 	- ## Grid System
+	  id:: 66e657a8-897d-444c-af3a-943384c9f104
 		- Grid System is a design like this pictures
 		  ![Grid Design Preview](./../assets/Grid_Design_Preview.png)
-		  You can display y
-		-
+		  You can display your content in your page just like in the image above using ((66e657a8-897d-444c-af3a-943384c9f104))
+			-
