@@ -17,7 +17,7 @@
 						- Example
 						  ![Website Grid Example](../assets/Website_Grid_Example.jpg)
 					- **Row**
-						- Row is a **Horizontal Line** of a column
+						- Row is a **Horizontal Line** of a column that allow us to divide element
 				- **Gutter**
 				  logseq.order-list-type:: number
 					- Gutter in ((66e657a8-897d-444c-af3a-943384c9f104)) is a *blank space* between each ((66e65a97-9272-4705-83cf-2f82c7401f56))
