@@ -8,8 +8,9 @@
 		  You can display your content in your page just like in the image above using ((66e657a8-897d-444c-af3a-943384c9f104))
 		- ### Grid Anatomy
 			- In Grid Anatomy, it has 3 things
-				- **Column** : Define a *Vertical Section* that how many it is and how wide it is
+				- **Column**
 				  logseq.order-list-type:: number
+					- Column in  ((66e657a8-897d-444c-af3a-943384c9f104)) is *Vertical Section* that shows how *many* it is and how *wide* it is
 				- **Gutter** :
 				  logseq.order-list-type:: number
 				- **margin** :
