@@ -6,4 +6,5 @@
 		- Grid System is a design like this pictures
 		  ![Grid Design Preview](./../assets/Grid_Design_Preview.png)
 		  You can display your content in your page just like in the image above using ((66e657a8-897d-444c-af3a-943384c9f104))
-			-
+	- ### Grid Anatomy
+		-
