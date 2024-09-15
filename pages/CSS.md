@@ -8,11 +8,11 @@
 		  You can display your content in your page just like in the image above using ((66e657a8-897d-444c-af3a-943384c9f104))
 		- ### Grid Anatomy
 			- In Grid Anatomy, it has 3 things
-				- Column
+				- Column : Define a *Vertical Section*
 				  logseq.order-list-type:: number
 				- Gutter
 				  logseq.order-list-type:: number
 				- margin
 				  logseq.order-list-type:: number
-				- ![image.png](../assets/iGrid.png)
-				  logseq.order-list-type:: number
+			- ![image.png](../assets/Grid_Anatomy.png)
+			-
