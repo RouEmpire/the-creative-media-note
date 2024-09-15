@@ -19,7 +19,8 @@
 					  logseq.order-list-type:: number
 					- Usually it's just a blank space and focus to ensure that column don't run/collapse together
 					  logseq.order-list-type:: number
-				- **margin** :
+				- **margin**
 				  logseq.order-list-type:: number
+					- Margin in ((66e657a8-897d-444c-af3a-943384c9f104)) is a *blank space*
 			- ![image.png](../assets/Grid_Anatomy.png)
 			-
