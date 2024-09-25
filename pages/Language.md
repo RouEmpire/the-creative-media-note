@@ -1,4 +1,0 @@
-- It's all about a Programming Language, This Section is tells reader what ever Language there are reading about
-- We have `2` kinds of Language (For now)
-	- [[BASH]] | **B**ourne-**A**gain **SH**ell
-	- [[HTML]] | **H**yper**T**ext **M**arkup **L**anguage
