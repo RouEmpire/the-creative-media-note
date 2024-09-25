@@ -104,7 +104,14 @@
 		  logseq.order-list-type:: number
 		- #### รูปแบบกราฟฟิกพอสมควร
 		  logseq.order-list-type:: number
-		- logseq.order-list-type:: number
+		- #### ตัวอักษรตัดกับสีพื้น
+		  logseq.order-list-type:: number
+		- #### ระวังสไลด์ขโมยซีน
+		  logseq.order-list-type:: number
+		- #### ใส่เลขหน้าสไลด์
+		  logseq.order-list-type:: number
+		- #### ไม่ต้อ
+		  logseq.order-list-type:: number
 		-
 	-
 	- ##
