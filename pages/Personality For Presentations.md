@@ -122,8 +122,16 @@
 		  logseq.order-list-type:: number
 	- ## การเตรียมตัว ฝึกซ้อมไม่ให้พลาด
 		- การเตรียมตัวและการฝึกซ้อมหมายถึง การทำสิ่งที่ควรทำ**ก่อนการนำเสนอ** มีอยู่ 11 ข้อ
-		- n
-		-
+		- #### เข้าใจเนื้อหา
+		  logseq.order-list-type:: number
+		- #### ลองซ้อมก่อน
+		  logseq.order-list-type:: number
+		- #### รู้จักผู้ฟังและสถานที่
+		  logseq.order-list-type:: number
+		- #### แต่งกายเหมาะสม
+		  logseq.order-list-type:: number
+		- #### วางแผนการถาม
+		  logseq.order-list-type:: number
 	-
 	- ##
 	-
