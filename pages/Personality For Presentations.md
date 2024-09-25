@@ -37,9 +37,13 @@
 				- การเตรียมการมีวิธีการดังนี้
 					- เขียนแผนการนำเสนอ
 					  logseq.order-list-type:: number
+						- เขียน
 					- รวบรวมข้อมูล
 					  logseq.order-list-type:: number
-					- logseq.order-list-type:: number
+					- ผลิตสื่อการนำเสนอ
+					  logseq.order-list-type:: number
+					- ทดสอบการนำเสนอ
+					  logseq.order-list-type:: number
 			- ## การใช้หลักจิตวิทยา
 			  logseq.order-list-type:: number
 				- *ก่อนนำเสนอ*
