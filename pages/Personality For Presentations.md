@@ -120,6 +120,7 @@
 		  logseq.order-list-type:: number
 		- #### มีแผนสำรอง เผื่อเหตุขัดข้อง
 		  logseq.order-list-type:: number
+	- ## การเตรียมตัว ฝึกซ้อมไม่ให้พลาด
 		-
 	-
 	- ##
