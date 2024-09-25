@@ -130,8 +130,17 @@
 		  logseq.order-list-type:: number
 		- #### แต่งกายเหมาะสม
 		  logseq.order-list-type:: number
-		- #### วางแผนการถาม
+		- #### วางแผนการถาม-ตอบ
 		  logseq.order-list-type:: number
+		- #### เตรียมเอกสารประกอบ
+		  logseq.order-list-type:: number
+		- #### ควรไปถึงสถานที่เพื่อคำความคุ้นเคยก่อน
+		  logseq.order-list-type:: number
+		- #### พูดคุยกับผู้ฟังเพื่อใช้โยงเรื่อง
+		  logseq.order-list-type:: number
+		- #### มองโลกในแง่ดี
+		  logseq.order-list-type:: number
+		- logseq.order-list-type:: number
 	-
 	- ##
 	-
