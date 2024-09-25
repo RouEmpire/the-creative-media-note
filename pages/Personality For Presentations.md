@@ -94,10 +94,18 @@
 		- การจัดเตรียมสไลด์จะต้อง **ดูง่าย เข้าใจง่าย** โดยสิ่งที่ควรคำนึงมี 14 อย่าง คือ
 		- #### ตามลำดับ
 		  logseq.order-list-type:: number
-		- เอกสารประกอบ**
+		- #### เอกสารประกอบ
 		  logseq.order-list-type:: number
-		- Bullet Point
+		- #### Bullet Point
 		  logseq.order-list-type:: number
+		- #### ข้อความในสไลด์
+		  logseq.order-list-type:: number
+		- #### ตัวอักษรใหญ่
+		  logseq.order-list-type:: number
+		- #### รูปแบบกราฟฟิกพอสมควร
+		  logseq.order-list-type:: number
+		- logseq.order-list-type:: number
+		-
 	-
 	- ##
 	-
