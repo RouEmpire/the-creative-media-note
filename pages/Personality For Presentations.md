@@ -110,7 +110,15 @@
 		  logseq.order-list-type:: number
 		- #### ใส่เลขหน้าสไลด์
 		  logseq.order-list-type:: number
-		- #### ไม่ต้อ
+		- #### ไม่ต้องใส่เลขหน้า หากมีหน้าเดียว
+		  logseq.order-list-type:: number
+		- #### มีความเสมอต้นเสมอปลาย
+		  logseq.order-list-type:: number
+		- #### มีการอ้างอิงแหล่งที่มา
+		  logseq.order-list-type:: number
+		- #### ทดลองนำเสนอสิ่งที่มีกับเพื่อน
+		  logseq.order-list-type:: number
+		- #### มีแผนสำรอง เผื่อเหตุขัดข้อง
 		  logseq.order-list-type:: number
 		-
 	-
