@@ -140,7 +140,12 @@
 		  logseq.order-list-type:: number
 		- #### มองโลกในแง่ดี
 		  logseq.order-list-type:: number
-		- logseq.order-list-type:: number
+		- #### สูดหายใจลึกๆ ก่อนขึ้นเวที
+		  logseq.order-list-type:: number
+		- #### เตรียมการมีส่วนร่วม
+		  logseq.order-list-type:: number
+	- ## เทคนิคการใช้ภาษากาย
+		-
 	-
 	- ##
 	-
