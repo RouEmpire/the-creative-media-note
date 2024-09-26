@@ -110,6 +110,9 @@
 			  logseq.order-list-type:: number
 		- #### เอกสารประกอบ
 		  logseq.order-list-type:: number
+			- สไลด์กับเอกสารประกอบต้องแยกกัน
+				- **สไลด์** จะมีความเข้าใจง่ายกวา
+				- **เอกสาร** จะมีรายละเอียดเยอะกว่า
 			-
 		- #### Bullet Point
 		  logseq.order-list-type:: number
