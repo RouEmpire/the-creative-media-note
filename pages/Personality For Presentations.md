@@ -198,8 +198,10 @@
 			-
 		- #### วางแผนการถาม-ตอบ
 		  logseq.order-list-type:: number
+			-
 		- #### เตรียมเอกสารประกอบ
 		  logseq.order-list-type:: number
+			-
 		- #### ควรไปถึงสถานที่เพื่อคำความคุ้นเคยก่อน
 		  logseq.order-list-type:: number
 		- #### พูดคุยกับผู้ฟังเพื่อใช้โยงเรื่อง
