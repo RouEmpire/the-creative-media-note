@@ -112,7 +112,6 @@ public:: true
 		- #### ตามลำดับ
 		  logseq.order-list-type:: number
 			- เรียงลำดับประเด็นต่างๆ เรียงให้ลงตัว โดยทำให้ผู้ฟังเข้าใจง่ายที่สุด
-			  logseq.order-list-type:: number
 		- #### เอกสารประกอบ
 		  logseq.order-list-type:: number
 		  id:: 66f4f4d9-a048-47d6-8fd6-c0cb1de69002
