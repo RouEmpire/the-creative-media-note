@@ -380,8 +380,13 @@ public:: true
 		- #### การใช้ที่ถูก
 			- **มองหลายๆ คนพร้อมกัน**
 				- เลือกผู้ชม **4-5 คน**ในห้อง
+				  logseq.order-list-type:: number
 				- ล็อกสายตากับพวกเขา
-				-
+				  logseq.order-list-type:: number
+				- สร้าง ((66f66622-2bcf-467c-8c5a-3c52a8bcb17b)) เล็กๆ และหันไปหาคนอื่น
+				  logseq.order-list-type:: number
+				- กลับไป Loop ที่ข้อแรกใหม่
+				  logseq.order-list-type:: number
 			- **การสร้าง Eye Contact**
 			-
 	-
