@@ -45,6 +45,7 @@ Type:: [[Person Skill]]
 - # My Group
 	- It's Chapter **10**
 	- I'm in the Group named **บุคลิกภาพในการนำเสนอ**
+	- Project in [[Personality For Presentations]]
 - # Class 1
   collapsed:: true
 	- Persona มาจากภาษา Latin แปลว่า Mask มาจากเทศกาลในกรีกโบราณ คล้ายกับการใส่หัวโขนเพื่อแสดงเป็นหนุมานในไทย สวนใส่เพื่อแสดงบทบาทของตนเองที่ได้รับในบทละคร

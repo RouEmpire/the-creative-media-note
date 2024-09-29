@@ -1,5 +1,5 @@
 public:: true
-class:: [[Personality to Success]]
+class:: [[#Personality to Success]]
 group:: 10
 **สารบัญการรับผิดชอบ คลิกที่ชื่อเรื่องเพื่อ** *โฟกัส*
 ณัฐพล ครุฑทา:: ((66f402b3-9eb4-4174-9789-08997c1da4b5))
