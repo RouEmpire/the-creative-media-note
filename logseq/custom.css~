@@ -16,5 +16,5 @@ div.CodeMirror-linenumber, CodeMirror-gutter-elt {
 	font-family: "Fira Code",'Courier New', Courier, monospace, "Noto Sans","Noto Sans Thai";
 }
 div.is-paragraph {
-	font-size: 30px
+	font-size: 30px !important;
 }
